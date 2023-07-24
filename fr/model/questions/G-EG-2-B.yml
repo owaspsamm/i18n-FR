@@ -1,0 +1,23 @@
+---
+#===========================================================
+#OWASP SAMM2 Coverage Question template/sample
+#===========================================================
+#Link to the activity that this question helps measure
+activity: d61764610f8741de894c1751f5c041ae
+#Link to the answer set that contains the potential answers for this question
+answerset: 3d4c5c80278b4a58b80d559085804446
+#Unique identifier (GUID) used to refer to this maturity level.
+#Please generate another identifier for your specific maturity level.
+id: fe0485b5026d4b2b9a7c99260addc912
+#One-sentence description of the criterium
+text: L'organisation dispose-t-elle d'un centre d'excellence en logiciel sécurisé (SSCE)?
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - Le SSCE a une charte définissant son rôle dans l'organisation
+  - Les équipes de développement passent en revue tous les changements architecturaux importants avec le SSCE
+  - Le SSCE publie les normes et les directives liées au SDLC relatives à la sécurité applicative
+  - Les Champions Produit sont responsables de la promotion de l'utilisation d'outils de sécurité spécifiques
+#Type Classification of the Document
+type: Question
