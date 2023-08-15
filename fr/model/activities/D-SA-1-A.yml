@@ -1,0 +1,38 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 253b012094cf4e0988e08fd22609227d
+#Link to the practice level that this activity belongs to
+level: a11b78917dec4cfdad983cf6d1d17b61
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 27bb61f3c6344359b021caeaef5ab07e
+#The title of this activity
+title: Adhérez aux principes de sécurité de base
+#Describe the benefit that is achieved by implementing this activity
+benefit: Des ensembles de principes de sécurité de base disponibles pour les équipes produit
+#A one sentence description of the activity
+shortDescription: Les équipes sont formées à l'utilisation des principes de sécurité de base pendant la conception
+#A multi-paragraph description of the activity
+longDescription: |
+  Lors de la conception, le personnel technique de l'équipe de produits utilise une courte liste de principes de sécurité. Typiquement, les principes de sécurité incluent la défense en profondeur, la sécurisation du lien le plus faible, l'utilisation de valeurs par défaut sécurisées, la simplicité de conception des fonctionnalités de sécurité, la défaillance sécurisée, l'équilibre entre sécurité et utilisabilité, le fonctionnement avec un moindre privilège, l'évitement de la sécurité par l'obscurité, etc.
+
+  Pour les interfaces du périmètre, l'équipe prend en considération chaque principe dans le contexte du système global et identifie les fonctionnalités qui peuvent être ajoutées pour renforcer la sécurité de chaque interface. Limitez ces fonctionnalités de sorte que le surcroît d'effort au-delà du coût normal d'implémentation des exigences fonctionnelles est le plus faible possible. Notez tout ce qui dépassé le seuil et programmez-le pour les versions futures.
+
+  Sensibilisez chaque équipe produits à la sécurité avant ce processus, et impliquez un personnel plus averti en matière de sécurité lors de la prise de décisions de conception.
+#The output of this particular activity
+results:
+#The different metrics that can be used to measure the success of the activity
+metrics:
+#A description of the costs required to implement the activity
+costs:
+#The (standard) roles involved in the implementation of this activity
+personnel:
+#Internal notes that might help the author
+notes:
+#References to other activities that are prerequesites to implement this one.
+relatedActivities:
+#Type Classification of the Document
+type: Activity

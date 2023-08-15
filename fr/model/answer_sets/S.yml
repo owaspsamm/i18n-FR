@@ -1,0 +1,35 @@
+---
+#===========================================================
+#OWASP SAMM2 Answer Set - S
+#===========================================================
+#Unique identifier (GUID) used to refer to this maturity level.
+#Please generate another identifier for your specific maturity level.
+id: e11943dd1978471486d5db4b04e3047d
+#Different answers with their properties. We use 4 levels or answers
+values:
+  - 
+    #lowest level
+    text: false
+    value: 0
+    weight: 1
+    order: 0
+  - 
+    #second level
+    text: Oui, pour certaines politiques et normes
+    value: 0.25
+    weight: 1
+    order: 1
+  - 
+    #third level
+    text: Oui, pour au moins la moitié des politiques et des normes
+    value: 0.5
+    weight: 1
+    order: 2
+  - 
+    #highest level
+    text: Oui, pour la plupart ou toutes les politiques et normes
+    value: 1
+    weight: 1
+    order: 3
+#Type Classification of the Document
+type: AnswerSet

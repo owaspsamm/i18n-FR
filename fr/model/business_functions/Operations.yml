@@ -1,0 +1,23 @@
+---
+#===========================================================
+#OWASP SAMM2 Business Function
+#===========================================================
+#Link to the model, using its unique identifier
+model: SAMM20
+#Unique identifier (GUID) that can be used to refer to this function
+#Please generate another identifier for your specific function..
+id: 942d679b0c9e41909f8bde728fdb1259
+#Official name of the Business Function
+name: Opérations
+#A multi-paragraph description of the Business Function
+description: |
+  La fonction métier Opérations englobe les activités nécessaires pour garantir que la confidentialité, l'intégrité, et la disponibilité sont maintenues tout au long de la durée de vie opérationnelle d'une application et des données qui y sont associées. L'augmentation de la maturité de cette fonction métier donne une plus grande garantie que l'organisation est résiliente face aux perturbations opérationnelles et réactive aux changements dans l'environnement opérationnel.
+#The color to be used to render the function and its subelements, in Hex RGB
+color:
+#228B22
+#The logo to be used to render the function
+logo: https://icon-library.net/icon/operations-icon-13.html
+#The relative order of the Business Function within the core model
+order: 5
+#Type Classification of the Document
+type: Function

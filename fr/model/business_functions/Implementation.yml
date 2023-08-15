@@ -1,0 +1,25 @@
+---
+#===========================================================
+#OWASP SAMM2 Business Function template/sample
+#===========================================================
+#Link to the model, using its unique identifier
+model: SAMM20
+#Unique identifier (GUID) that can be used to refer to this function
+#Please generate another identifier for your specific function..
+id: 8aa8154b83434e73b3ca8c0e9b654417
+#Official name of the function
+name: Implémentation
+#A multi-paragraph description of the function
+description: |
+  L'implémentation se focalise sur les processus et les activités liés à la façon dont une organisation construit et déploie des composants logiciels et les défauts associés.
+
+  Les activités au sein de la fonction Implémentation ont le plus d'impact sur la vie quotidienne des développeurs. L'objectif commun est de livrer un logiciel fonctionnant de manière fiable avec un minimum de défauts.
+#The color to be used to render the function and its subelements, in Hex RGB
+color:
+#228B22
+#The logo to be used to render the function
+logo: https://icon-library.net/icon/deploy-icon-11.html
+#The relative order of the practice in the business function
+order: 3
+#Type Classification of the Document
+type: Function
