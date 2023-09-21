@@ -11,4 +11,4 @@ maturitylevel: 47dd82af343e4695a0385418af4398d1
 id: 3e6e9a2b696e48018830b44fa96f98b5
 #Objective of this particular practice level
 objective: Effectuer une revue de l'implémentation pour découvrir les risques propres à l'application par rapport aux exigences de sécurité. #Type Classification of the Document
-type: PracticeLevel
+type: NiveauDePratique
