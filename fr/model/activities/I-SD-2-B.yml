@@ -1,0 +1,46 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 9a5f26d77f204467bdda7ffa09109d73
+#Link to the practice level that this activity belongs to
+level: 3e89d1fa6cba4516a3ec446faaab5b84
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 4729b4bd6dca4d58a68cb854ad4409a6
+#The title of this activity
+title: Inclure les secrets de l'application pendant le déploiement
+#Describe the benefit that is achieved by implementing this activity
+benefit: Détection de fuites potentielles de secrets de production
+#A one sentence description of the activity
+shortDescription: Injecter dynamiquement les secrets lors du processus de déploiement à partir de stockages durcis et auditer tout accès humain à ceux-ci.
+#A multi-paragraph description of the activity
+longDescription: |
+  Ayez un processus automatisé pour ajouter des informations d'identification et des secrets aux fichiers de configuration pendant le processus de déploiement aux étapes concernées. De cette façon, les développeurs et les personnes en charge des déploiements ne voient pas ou ne gèrent pas ces valeurs sensibles.
+
+  Mettez en œuvre des vérifications qui détectent la présence de secrets dans les dépôts de code et les fichiers et exécutez-les périodiquement. Configurez les outils pour rechercher des chaînes connues et des chaînes potentiellement dangereuses inconnues. Dans les systèmes tels que les dépôts de code où il y a un historique, incluez les versions dans les vérifications. Marquez les secrets potentiels que vous découvrirez comme des valeurs sensibles et retirez-les lorsque c'est pertinent. Si vous ne pouvez pas les supprimer d'un fichier historique dans un dépôt de code par exemple, vous devrez peut-être actualiser la valeur sur le système qui consomme le secret. De cette façon, si un attaquant découvre le secret, il ne leur sera pas utile.
+
+  Rendez le système utilisé pour stocker et traiter les secrets et les identifiants robustes du point de vue de la sécurité. Chiffrez tous les secrets au repos et en transit. Les utilisateurs qui configurent ce système et les secrets qu'il contient sont soumis au principe du moindre privilège. Par exemple, un développeur peut avoir besoin de gérer les secrets d'un environnement de développement, mais pas d'un environnement de test ou de production de validation utilisateur.
+#The output of this particular activity
+results:
+  - résultat1
+  - résultat2
+#The different metrics that can be used to measure the success of the activity
+metrics:
+  - métrique1
+  - métrique2
+#A description of the costs required to implement the activity
+costs: SCT.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Administrateur
+  - Développeur
+  - Ingénieur en sécurité
+#Internal notes that might help the author
+notes: Aucun
+#References to other activities that are prerequesites to implement this one.
+relatedActivities:
+  - 84dcbc954d954d95b1fb37e032f05402
+#Type Classification of the Document
+type: Activité
