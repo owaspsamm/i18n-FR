@@ -1,0 +1,24 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: b7487370a07543cbb02ddb60c055d92f
+#Link to the practice level that this activity belongs to
+level: 39bc5d271fae4ea8ba53db7de7b2712c
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 3ae763a70854421984dfa70980e1bf68
+#The title of this activity
+title: Évaluer l'architecture pour les menaces typiques
+#Describe the benefit that is achieved by implementing this activity
+benefit: S'assure que l'architecture protège des menaces de sécurité typiques.
+#A one sentence description of the activity
+shortDescription: Revue ad hoc de l'architecture pour les menaces de sécurité non atténuées.
+#A multi-paragraph description of the activity
+longDescription: |
+  Examinez l'architecture pour trouver des menaces de sécurité typiques. Le personnel technique compétent en matière de sécurité conduit cette analyse avec les commentaires des architectes, des développeurs, des gestionnaires et des représentants du client en fonction du besoin pour s'assurer que l'architecture prend en compte toutes les menaces courantes que les équipes de développement qui n'ont pas d'expertise spécialisée en sécurité peuvent avoir négligées.
+
+  Les menaces typiques dans une architecture peuvent être liées à des hypothèses incorrectes ou à une dépendance trop forte envers des mécanismes de sécurité tels que l'authentification, la gestion des autorisations, des utilisateurs et des droits, la communication sécurisée, la protection des données, la gestion des clés ou la gestion des journaux. A l'opposé, les menaces peuvent être liées à des limitations ou des problèmes connus dans des composants ou des environnements technologiques qui font partie de la solution et pour lesquels une atténuation insuffisante a été mise en place.
+#Type Classification of the Document
+type: Activité
