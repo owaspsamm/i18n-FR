@@ -1,0 +1,27 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: efb5d1f275504173899da345ef5bbe8e
+#Link to the practice level that this activity belongs to
+level: df5a0be1889a4b06835193892803dde5
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 99989f86dabc4a7a87fbe6a274c99ca3
+#The title of this activity
+title: Tester l'efficacité des contrôles de sécurité
+#Describe the benefit that is achieved by implementing this activity
+benefit: Efficacité vérifiée de vos contrôles de sécurité standards
+#A one sentence description of the activity
+shortDescription: Tester les contrôles de sécurité logiciels
+#A multi-paragraph description of the activity
+longDescription: |
+  Effectuez des tests de sécurité pour vérifier que les contrôles standards de sécurité logiciels fonctionnent comme prévu. À un haut niveau, cela signifie tester le bon fonctionnement des contrôles liés à la confidentialité, à l'intégrité et à la disponibilité des données ainsi que du service. Les tests de sécurité comprennent au moins des tests d'authentification, de contrôle d'accès, de validation des entrées, d'encodage, d'échappement des données et de chiffrement. L'objectif des tests est de valider que les contrôles de sécurité sont correctement implémentés.
+
+  Les tests de sécurité valident les contrôles de sécurité logiciels nécessaires. Effectuez des tests de sécurité de vérification des contrôles manuellement ou avec des outils à chaque fois que l'application change son utilisation des contrôles. Les techniques telles que les basculements de fonctionnalités et les tests A/B peuvent être utilisées pour exposer progressivement des fonctionnalités à un public plus large au fur et à mesure qu'elles sont suffisamment validées. La vérification des contrôles logiciels est obligatoire pour tous les logiciels qui font partie du programme SAMM.
+#References to other activities that are prerequesites to implement this one.
+dependencies:
+  - 5702908efca4499e87a0239f32920d9b
+#Type Classification of the Document
+type: Activité
