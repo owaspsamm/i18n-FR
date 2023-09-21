@@ -1,0 +1,23 @@
+---
+#===========================================================
+#OWASP SAMM2 Coverage Question
+#===========================================================
+#Link to the activity that this question helps measure
+activity: d6dd8813c5074350b5614b92f2dec60d
+#This question uses Answer Set I
+answerset: e5a12ab46e4645a9ab22aa5a1ebe562f
+#Unique identifier (GUID) used to refer to this maturity level.
+#Please generate another identifier for your specific maturity level.
+id: dbb83b0d5b504db6a170710df4df347f
+#Text of the question presented to the user
+text: Utilisez-vous un processus reproductible pour gérer les incidents ?
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criteria
+quality:
+  - Vous avez une classification des incidents validée
+  - Le processus utilise l'analyse de cause racine pour les incidents de haute sévérité
+  - Les employés responsables de la réponse à incident sont formés à ce processus
+  - De l'outillage d'analyse forensique est disponible
+#Type Classification of the Document
+type: Question
