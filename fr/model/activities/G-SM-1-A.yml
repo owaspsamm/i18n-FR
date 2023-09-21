@@ -1,0 +1,26 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 94bb47791e3d462cbf5f71ebb1a1327a
+#Link to the practice level that this activity belongs to
+level: 4e54705272fa4f1f9977b1f9011f585d
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: ef0b56870b734b13868697017a9b605e
+#The title of this activity
+title: Identifier l'appétence envers le risque de l'organisation
+#Describe the benefit that is achieved by implementing this activity
+benefit: Compréhension partagée de la posture de sécurité de votre organisation
+#A one sentence description of the activity
+shortDescription: Identifier les motivations de l'organisation en ce qui concerne la tolérance au risque.
+#A multi-paragraph description of the activity
+longDescription: |
+  Comprenez, en fonction de l’exposition au risque de l’application, quelles menaces existent ou peuvent exister, et à quel point la direction est tolérante face à ces risques. Cette compréhension est un élément clé pour déterminer les priorités en matière d'assurance sécurité des logiciels. Pour valider ces menaces, interviewez les dirigeants d'entreprise et les autres parties prenantes documentez les motivations propres à l'industrie dans laquelle l'organisme opère ainsi que les motivations propres à l'organisation. Les informations collectées incluent les scénarios les plus pessimistes qui pourraient avoir un impact sur l'organisation, de même que les occasions où un cycle de vie optimisé du développement de logiciels et des applications plus sécurisées pourraient fournir un différentiateur de marché ou créer des opportunités supplémentaires.
+
+  Les informations collectées fournissent une base de référence permettant à l'organisation de développer et de promouvoir son programme de sécurité applicative. Les éléments du programme sont rangés par ordre de priorité pour traiter d'abord les menaces et les opportunités les plus importantes pour l'organisation. La base de référence est divisée en plusieurs facteurs de risque et de motivation liés directement aux priorités de l’organisation et utilisés pour aider à établir un profil de risque pour chaque application développée sur mesure en documentant comment elle peut avoir un impact sur l’organisation si elle est compromise.
+
+  La base de référence et les facteurs de risque individuels devraient être publiés et mis à la disposition des équipes de développement d'applications afin d'assurer un processus plus transparent de création de profils de risque d'application et d'intégrer les priorités de l'organisation dans le programme. De plus, ces buts devraient fournir un ensemble d'objectifs qui devraient être utilisés pour garantir que toutes les améliorations au programme de sécurité des applications fournissent un soutien direct aux besoins actuels et futurs de l'organisation.
+#Type Classification of the Document
+type: Activité
