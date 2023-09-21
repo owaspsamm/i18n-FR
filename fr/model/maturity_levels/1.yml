@@ -10,4 +10,4 @@ number: 1
 #General description of this maturity level
 description: Le premier niveau de maturité vise à réaliser une mise en œuvre ad hoc, au meilleur de vos capacités d'une activité particulière au sein d'un flux.
 #Type Classification of the Document
-type: MaturityLevel
+type: NiveauDeMaturité
