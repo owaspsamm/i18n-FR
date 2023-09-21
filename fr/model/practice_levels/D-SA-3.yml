@@ -11,4 +11,4 @@ maturitylevel: 7bbfe31d447e48759ef0f2af25c31b43
 id: 9d1e469966124c0fa80d1bc2fc223a0a
 #Objective of this particular practice level
 objective: Contrôler formellement le processus de conception de logiciels et valider l'utilisation de composants sécurisés. #Type Classification of the Document
-type: PracticeLevel
+type: NiveauDePratique
