@@ -1,0 +1,26 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description - Configuration Hardening, Level 2
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 47bff9a57f0344eeb4b083f1c2b1bb7e
+#Link to the practice level that this activity belongs to
+level: 354292b7198b48bb8c4909e0d7e29f68
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 84dcbc954d954d95b1fb37e032f05402
+#The title of this activity
+title: Établir un niveau d'exigence minimale de durcissement
+#Describe the benefit that is achieved by implementing this activity
+benefit: Durcissement cohérent des composants de la pile technologique au sein de votre organisation
+#A one sentence description of the activity
+shortDescription: Effectuer un durcissement cohérent des configurations, en suivant les exigences minimales et les directives en place.
+#A multi-paragraph description of the activity
+longDescription: |
+  Etablissez une ligne de référence de durcissement pour l'ensemble des composants de chaque pile technologique utilisée. Pour garantir une application cohérente des lignes de référence de durcissement, développez des guides de configuration pour les composants. Exigez que les équipes produits appliquent les lignes de référence de configuration à tous les nouveaux systèmes, ainsi qu'aux systèmes existants lorsque cela est faisable.
+
+  Mettez les bases de réference de durcissement et les guides de configuration sous gestion de version et affectez un propriétaire à chacun. Les propriétaires ont la responsabilité permanente de les tenir à jour, en fonction de l'évolution des bonnes pratiques ou des changements apportés aux composants pertinents (par exemple, mises à jour des versions, nouvelles fonctionnalités).
+
+  Dans des environnements plus larges, dérivez les configurations d'instances à partir d'une référence maintenue localement, avec les bases de référence pertinentes aux configuration appliquées. Employez des outils automatisés pour durcir les configurations.
+#Type Classification of the Document
+type: Activité
