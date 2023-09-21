@@ -12,12 +12,10 @@ name: Gouvernance
 #A multi-paragraph description of the function
 description: |
   La gouvernance se concentre sur les processus et les activités liés à la façon dont une organisation gère l'ensemble des activités de développement de logiciels. Plus précisément, cela comprend les sujets d'attention ayant un impact sur les groupes interfonctionnels impliqués dans le développement, ainsi que sur les processus opérationnels établis au niveau de l'organisation.
-#The color to be used to render the function and its subelements, in Hex RGB
-color:
 #228B22
 #The logo to be used to render the function
 logo: https://icon-library.net/icon/governance-icon-2.html
 #The relative order of the Business Function within the core model
 order: 1
 #Type Classification of the Document
-type: Function
+type: Fonction
