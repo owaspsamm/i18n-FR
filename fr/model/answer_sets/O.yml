@@ -1,0 +1,23 @@
+#Different answers with their properties. We use 4 levels or answers
+values:
+  - 
+    #lowest level
+    text: false
+    value: 0
+    weight: 1
+    order: 0
+  - 
+    weight: 1
+    order: 1
+  - 
+    weight: 1
+    order: 2
+  - 
+    #highest level
+    text:
+      #highest level
+      Yes, we consult the plan often, and it is aligned with our application security strategy value:
+        #highest level
+        1 weight:
+          #highest level
+          1 order: 3

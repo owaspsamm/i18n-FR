@@ -1,0 +1,12 @@
+#The title of this activity
+title: Utiliser un processus de déploiement répétable
+#Describe the benefit that is achieved by implementing this activity
+benefit: Un risque limité d'erreur humaine pendant le processus de déploiement minimisant les problèmes de sécurité
+#A one sentence description of the activity
+shortDescription: Formaliser le processus de déploiement et sécuriser les outils et les processus utilisés.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Administrateur
+  - Ingénieur en sécurité
+#Type Classification of the Document
+type: Activité

@@ -1,0 +1,8 @@
+#The title of this activity
+title: Examen périodique des profils de risque
+#Describe the benefit that is achieved by implementing this activity
+benefit: Mise à jour rapide de la classification de l'application en cas de changement
+#A one sentence description of the activity
+shortDescription: Examinez périodiquement les profils de risque des applications à intervalles réguliers afin de s'assurer de l'exactitude et de la pertinence de l'état actuel.
+#Type Classification of the Document
+type: Activité

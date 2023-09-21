@@ -1,0 +1,12 @@
+#The title of this activity
+title: Vérifier l'intégrité des artefacts de déploiement
+#Describe the benefit that is achieved by implementing this activity
+benefit: Assurer l'intégrité des artefacts qui vont être déployés en production
+#A one sentence description of the activity
+shortDescription: Vérifier automatiquement l'intégrité de tous les logiciels déployés, indépendamment du fait qu'ils ont été développés en interne ou en externe.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Ingénieur en sécurité
+  - Administrateur
+#Type Classification of the Document
+type: Activité

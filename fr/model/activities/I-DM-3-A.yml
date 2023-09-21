@@ -1,0 +1,15 @@
+#The title of this activity
+title: Mettre en application un SLA pour la gestion des défauts
+#Describe the benefit that is achieved by implementing this activity
+benefit: Garantie que les défauts de sécurité sont gérés selon des SLA prédéfinis
+#A one sentence description of the activity
+shortDescription: Faire respecter les SLA prédéfinis et intégrer le système de gestion des défauts aux autres outils pertinents.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Administrateur
+  - Ingénieur en sécurité
+  - Officier de sécurité
+  - Propriétaire du produit
+  - Responsable
+#Type Classification of the Document
+type: Activité

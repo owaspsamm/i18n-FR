@@ -1,0 +1,26 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 79754453c74b4143b20a57d0efdaab56
+#Link to the practice level that this activity belongs to
+level: 41c8e63716c34f1eaf09b8cad70cfbaf
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 5e1dd310e28449058046c7af0fe46fce
+#The title of this activity
+title: Promouvoir les outils et technologies sélectionnés
+#Describe the benefit that is achieved by implementing this activity
+benefit: Des technologies avec un niveau de sécurité approprié à la disposition des équipes produit
+#A one sentence description of the activity
+shortDescription: Standardisez les technologies et les frameworks à utiliser pour les différentes applications
+#A multi-paragraph description of the activity
+longDescription: |
+  Identifiez les technologies, les environnements et les outils couramment utilisés dans les projets logiciels à travers l'organisation, en vous concentrant sur la capture des technologies de haut niveau.
+
+  Créez une liste et partagez-la à travers l'organisation de développement en tant que technologies recommandées. Lors de leur sélection, considérez l'historique des incidents, la liste des évènements passés concernant la réponse aux vulnérabilités, la pertinence des fonctionnalités pour l'organisation, une trop grande complexité d'utilisation de la composante tierce et des connaissances suffisantes au sein de l'organisation.
+
+  Cette liste est créée par les développeurs et architectes seniors, en prenant en compte les commentaires des gestionnaires et des auditeurs de sécurité. Partagez cette liste de composants recommandés avec l'organisation de développement. En fin de compte, l'objectif est de fournir des solutions de référence bien identifiées aux équipes projet. Effectuez un examen périodique de ces technologies à propos de la sécurité et de la pertinence.
+#Type Classification of the Document
+type: Activité

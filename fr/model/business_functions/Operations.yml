@@ -1,0 +1,6 @@
+#Official name of the Business Function
+name: Opérations
+#The relative order of the Business Function within the core model
+order: 5
+#Type Classification of the Document
+type: Fonction

@@ -1,0 +1,13 @@
+#The title of this activity
+title: Protéger les secrets de l'application dans la configuration et le code
+#Describe the benefit that is achieved by implementing this activity
+benefit: Accès limité et défini à vos secrets de production
+#A one sentence description of the activity
+shortDescription: Introduire des mesures de protection de base pour limiter l'accès à vos secrets de production.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Développeur
+  - Administrateur
+  - Ingénieur en sécurité
+#Type Classification of the Document
+type: Activité

@@ -1,0 +1,12 @@
+#The title of this activity
+title: Automatiser le processus de génération
+#Describe the benefit that is achieved by implementing this activity
+benefit: Un processus de génération efficace avec des outils de sécurité intégrés
+#A one sentence description of the activity
+shortDescription: Automatisez votre chaîne de génération et sécurisez l'outillage utilisé. Ajoutez des vérifications de sécurité dans la chaîne de génération.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Développeur
+  - Ingénieur en sécurité
+#Type Classification of the Document
+type: Activité

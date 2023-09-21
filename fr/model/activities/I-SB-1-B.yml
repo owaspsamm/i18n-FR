@@ -1,0 +1,12 @@
+#The title of this activity
+title: Identifier les dépendances de l'application
+#Describe the benefit that is achieved by implementing this activity
+benefit: Informations disponibles sur les problèmes de sécurité connus dans les dépendances
+#A one sentence description of the activity
+shortDescription: Créer des enregistrements avec la nomenclature de vos applications et analysez-les opportunément.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Ingénieur en sécurité
+  - Développeur
+#Type Classification of the Document
+type: Activité

@@ -1,0 +1,12 @@
+#The title of this activity
+title: Définir des métriques de premier niveau liés aux défauts
+#Describe the benefit that is achieved by implementing this activity
+benefit: Identification des victoires rapides obtenues à partir des informations disponibles concernant les défauts
+#A one sentence description of the activity
+shortDescription: Revoir périodiquement les défauts de sécurité précédemment enregistrés et en dériver des victoires rapides à partir des métriques de base.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Développeur
+  - Champion de sécurité
+#Type Classification of the Document
+type: Activité

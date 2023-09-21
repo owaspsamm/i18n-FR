@@ -1,0 +1,13 @@
+#The title of this activity
+title: Examiner les dépendances de l'application quant à la sécurité
+#Describe the benefit that is achieved by implementing this activity
+benefit: Transparence totale des problèmes de sécurité connus dans les dépendances
+#A one sentence description of the activity
+shortDescription: Évaluer les dépendances utilisées et s'assurer d'une réaction rapide aux situations présentant un risque pour vos applications.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Architecte
+  - Développeur
+  - Ingénieur en sécurité
+#Type Classification of the Document
+type: Activité

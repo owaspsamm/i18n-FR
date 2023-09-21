@@ -1,0 +1,8 @@
+#The title of this activity
+title: Normaliser les conseils de sécurité
+#Describe the benefit that is achieved by implementing this activity
+benefit: S'assurer que tous les employés ont une connaissance adéquate de la sécurité avant de travailler sur des tâches critiques
+#A one sentence description of the activity
+shortDescription: Des conseils internes standardisés sur les normes de développement de sécurité logicielle de l’entreprise.
+#Type Classification of the Document
+type: Activité
