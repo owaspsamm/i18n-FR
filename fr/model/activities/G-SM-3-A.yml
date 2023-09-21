@@ -1,0 +1,26 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 94bb47791e3d462cbf5f71ebb1a1327a
+#Link to the practice level that this activity belongs to
+level: 420074f071fb4ab6b6ee6ef44c4f4f1c
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: e092ac0ccb8c4fccb6cd662f974dc107
+#The title of this activity
+title: Aligner les stratégies quant à la sécurité et aux affaires
+#Describe the benefit that is achieved by implementing this activity
+benefit: Alignement continu du programme AppSec par rapport aux objectifs de l'organisation
+#A one sentence description of the activity
+shortDescription: Aligner le programme de sécurité des applications pour soutenir la croissance de l’entreprise.
+#A multi-paragraph description of the activity
+longDescription: |
+  Vous examinez périodiquement le programme de sécurité des applications afin de déterminer son applicabilité continue et son apport aux besoins en évolution de l’organisation et à sa croissance future. Pour ce faire, vous réitérez les deux étapes correspondant aux deux premiers niveaux de maturité de cette pratique de sécurité au moins annuellement. L'objectif est que le programme réponde toujours aux besoins actuels et futurs de l'organisation, ce qui garantit que le programme est aligné sur l'entreprise.
+
+  En plus de passer en revue les missions de l'entreprise, l'organisation surveille de près le succès de la mise en œuvre de chacune des étapes de la feuille de route. Vous évaluez le succès des jalons en fonction d'un large éventail de critères, y compris l'exhaustivité et l'efficacité de la mise en œuvre, les considérations budgétaires, ainsi que tout impact culturel ou changement résultant de l'initiative. Vous passez en revue les étapes manquées ou insatisfaisantes et évaluez les changements possibles au programme dans son ensemble.
+
+  L'organisation développe des tableaux de bord et des mesures pour la gestion et les équipes responsables du développement logiciel afin de surveiller la mise en œuvre de la feuille de route. Ces tableaux de bord sont suffisamment détaillés pour identifier les projets et les initiatives individuels et pour permettre de comprendre clairement si le programme est une réussite et est conforme aux besoins de l’organisme.
+#Type Classification of the Document
+type: Activité
