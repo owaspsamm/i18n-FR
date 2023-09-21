@@ -1,0 +1,41 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 7344f4b153314dd8965361d23772aef1
+#Link to the practice level that this activity belongs to
+level: e8de5ea176cc455bba89f0e2d1ea1f16
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 05073fb130c74143a12a6ba74a44c580
+#The title of this activity
+title: Personnaliser la formation à la sécurité
+#Describe the benefit that is achieved by implementing this activity
+benefit: Employés à des postes pertinents formés en fonction de leur rôle spécifique
+#A one sentence description of the activity
+shortDescription: Offrir une technologie et des conseils spécifiques aux rôles, y compris des nuances de sécurité pour chaque langue et plate-forme
+#A multi-paragraph description of the activity
+longDescription: |
+  Menez des formations sur la sécurité en présentiel ou en distanciel spécifiques aux rôles et aux technologies de l'organisation, en commençant par l'équipe de développement principale. L'organisation particularise la formation pour les gestionnaires de produit, les développeurs logiciels, les testeurs et les auditeurs de la sécurité en fonction des besoins techniques de chaque groupe.
+
+  - les gestionnaires de produit sont formés sur les sujets en lien avec les fonctions d'affaire du SAMM et les pratiques de sécurité, en mettant l'accent sur les exigences de sécurité, la modélisation des menaces et le suivi des défauts.
+  - les développeurs sont formés sur les normes de codage et les bonnes pratiques en lien avec les technologies avec lesquelles ils travaillent pour garantir que la formation bénéficie directement à la sécurité des applications. Ils devront avoir une bonne compréhension technique des vulnérabilités du Top 10 de l'OWASP ou des faiblesses similaires liées aux technologies et environnements utilisés (p. ex. mobiles) et des stratégies de résolution associées à chaque problème.
+  - les testeurs sont formés aux différents outils de test et aux bonnes pratiques liées aux technologies présentes au sein de l'organisation, ainsi qu'aux outils qui permettent d'identifier les défauts de sécurité.
+  - les auditeurs de la sécurité sont formés au cycle de vie de développement logiciel, aux mécanismes de sécurité des applications utilisés au sein de l'organisation et au process de soumission de défauts de sécurité en vue de leur correction.
+  - les Champions de la sécurité sont formés aux sujets liés à la sécurité lors des différentes phases du SDLC. Ils reçoivent la même formation que les développeurs et les testeurs, mais reçoivent aussi des éléments quant à la compréhension de la modélisation des menaces et de la conception sécurisée, tout comme sur les outils de sécurité et les technologies qui peuvent être intégrés dans l'environnement de génération.
+
+  Incluez tout le contenu de formation des activités du Niveau 1 de Maturité et tout le contenu supplémentaire lié à un rôle ou à une technologie. Eliminez les aspects inutiles de la formation. 
+
+  Idéalement, identifiez un expert sur le sujet de chaque technologie pour aider à l'achat ou au développement du contenu de la formation et à sa mise à jour régulière. La formation doit contenir des démonstrations de l'exploitation de vulnérabilités en utilisant des applications intentionnellement vulnérables telles que WebGoat ou JuiceShop. Ajouter des informations sur les compromissions passées en tant qu'exemples de vulnérabilités et de stratégies de correction mises en place. Demandez à un pentesteur de contribuer avec des développements de démonstrations d'exploitation de vulnérabilités.
+
+  La formation est obligatoire pour tous les employés et sous-traitants impliqués dans le développement de logiciels et comportent une phase de signature afin de pouvoir démontrer la conformité. Tant que faire se peut, la formation devrait comporter un test pour garantir la bonne compréhension, et pas seulement la conformité. Mettez à jour la formation et redéployez-là chaque année pour incorporer les changements dans l'organisation, la technologie et les tendances. Faites un sondage auprès des participants pour évaluer la qualité et la pertinence de la formation. Recueillez des suggestions ou toute autre information à propos de leur travail ou de leur environnement.
+#Internal notes that might help the author
+notes: |
+  ** Références **
+  - [OWASP Top 10 Project](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
+  - [OWASP WebGoat Project](https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project)
+  - [OWASP Juice Shop Project](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project)
+  - [OWASP Training Resources](https://www.owasp.org/index.php/OWASP_Training)
+#Type Classification of the Document
+type: Activité
