@@ -11,4 +11,4 @@ maturitylevel: 0a1dc80f84964f2fa776c5d8e932353a
 id: d6cefe3e63d149299fb088010c24778b
 #Objective of this particular practice level
 objective: Effectuer des tests de sécurité (à la fois manuels et basés sur des outils) pour découvrir les défauts de sécurité. #Type Classification of the Document
-type: PracticeLevel
+type: NiveauDePratique
