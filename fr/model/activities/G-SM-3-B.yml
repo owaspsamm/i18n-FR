@@ -1,0 +1,29 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 2f1cac3c2e724823b3b48a7e797520b4
+#Link to the practice level that this activity belongs to
+level: 420074f071fb4ab6b6ee6ef44c4f4f1c
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 43d347fd280845718f16ccc811e5d942
+#The title of this activity
+title: Conduire le programme de sécurité par des métriques
+#Describe the benefit that is achieved by implementing this activity
+benefit: Amélioration continue de votre programme en fonction des résultats
+#A one sentence description of the activity
+shortDescription: Influencer la stratégie en fonction des métriques et des besoins organisationnels.
+#A multi-paragraph description of the activity
+longDescription: |
+  Définissez des lignes directrices pour influencer le programme de Sécurité Applicative en vous basant sur des ICP et d'autres métriques de sécurité applicative. Ces lignes directrices combinent la maturité du processus et des procédures de développement d'application avec différentes métriques afin de rendre le programme plus efficace. Les exemples suivants montrent la relation entre les mesures et les façons de faire évoluer et d'améliorer la sécurité dans les applications :
+
+  * Se concentrer sur la maturité du cycle de vie de développement réduit le coût relatif par défaut en appliquant la sécurité de manière proactive.
+  * Surveiller l'équilibre entre les métriques concernant les actions, les résultats et l'environnement améliore l'efficacité du programme et permet de justifier toute automatisation supplémentaire et autres méthodes d'amélioration des réferences plancher de la sécurité globale de l'application.
+  * Les pratiques individualisées de sécurité peuvent fournir des indicateurs de réussite ou d'échec des initiatives individualisées de sécurité applicative.
+  * Les métriques sur les actions aident à garantir que les initiatives sur la sécurité des applications sont dirigés vers les technologies et les disciplines les plus pertinentes et les plus importantes.
+
+  Lors de la définition de la stratégie globale concernant les métriques, gardez à l'esprit l'objectif final et définissez quelles décisions peuvent être prises à la suite de modifications des Indicateurs Clés de Performance et des métriques dès que possible, afin d'aider à guider le développement des métriques.
+#Type Classification of the Document
+type: Activité
