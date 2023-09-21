@@ -1,0 +1,7 @@
+#Unique identifier (GUID) used to refer to this practice.
+#Please generate another identifier for your specific practice.
+id: e17d573510904f65a1fe6040b56ad0b1
+#The relative order of this practice in the business function
+order: 3
+#Indication of progress to keep track of overall status
+progress: 50
