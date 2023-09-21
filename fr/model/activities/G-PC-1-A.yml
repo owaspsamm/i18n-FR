@@ -1,0 +1,26 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: c404aa4f711e4f4e9e71faea22f7fb5c
+#Link to the practice level that this activity belongs to
+level: 437d447b3f11427592e938dbde53c7da
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 6e7a618abd564df5bb784ca54893bbee
+#The title of this activity
+title: Définir des politiques et des normes
+#Describe the benefit that is achieved by implementing this activity
+benefit: Attente claire du niveau de sécurité minimum dans l'organisation
+#A one sentence description of the activity
+shortDescription: Déterminer une ligne de base de sécurité représentant les politiques et les normes de l’organisation.
+#A multi-paragraph description of the activity
+longDescription: |
+  Élaborez une bibliothèque de politiques et de normes pour diriger tous les aspects du développement logiciel au sein de l'organisation. Les politiques et les normes sont basées sur les textes existants dans l’industrie et s'appliquant à celle de l'organisation. En raison de l'étendue des limites propres aux technologies et aux bonnes pratiques, ré-examinez les normes proposées avec les différentes équipes produits. Avec l'objectif général d'augmenter la sécurité des applications et des infrastructures informatiques, invitez les équipes produits à fournir des commentaires sur tous les aspects des normes qui ne seraient pas réalisables ou rentables à mettre en œuvre, ainsi que sur la possibilité d'aller plus loin que les normes avec peu d'efforts de la part des équipes produits.
+
+  Pour les politiques, mettez l'accent sur des définitions de haut niveau et des aspects de la sécurité des applications qui ne dépendent pas d'une technologie spécifique ou de l'environnement d'hébergement. Concentrez-vous sur les objectifs plus larges de l'organisation pour protéger l'intégrité de son environnement informatique, la sécurité et la confidentialité des données et la maturité des cycles de vie du développement logiciel. Dans le cas des grandes organisations, les politiques peuvent sélectionner des exigences spécifiques en fonction de la classification des données ou des fonctionnalité des applications, mais ne devraient pas être suffisamment détaillées pour offrir des conseils technologiques.
+
+  Pour les normes, incorporez les exigences mises en avant par les politiques, et concentrez-vous sur des conseils de mise en œuvre spécifiques à des technologies destinées à tirer parti des fonctionnalités de sécurité des différents langages de programmation et des environnements associés. Les commentaires des développeurs et des architectes seniors considérés comme des experts dans les diverses technologies utilisées par l'organisation sont requis sur les normes. Créez-les dans un format qui permet des mises à jour périodiques. Labellisez les exigences individuelles avec la politique dont elle provient ou ce qui vient d'une tierce partie, afin de rendre la maintenance et les audits plus faciles et plus efficaces.
+#Type Classification of the Document
+type: Activité
