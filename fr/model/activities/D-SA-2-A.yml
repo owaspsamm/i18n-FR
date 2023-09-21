@@ -1,0 +1,30 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 253b012094cf4e0988e08fd22609227d
+#Link to the practice level that this activity belongs to
+level: 41c8e63716c34f1eaf09b8cad70cfbaf
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 9b6a86278ba14a9098d3d60a9a78d6c5
+#The title of this activity
+title: Fournir une liste des solutions de sécurité sélectionnées
+#Describe the benefit that is achieved by implementing this activity
+benefit: Mutualiser des services de sécurité avec les équipes produit
+#A one sentence description of the activity
+shortDescription: Etablir des modèles de conception et des solutions de sécurité communs.
+#A multi-paragraph description of the activity
+longDescription: |
+  Identifiez l'infrastructure ou les services partagés présentant des fonctionnalités de sécurité. Ceux-ci incluent généralement des systèmes d'authentification unique, des services de contrôle d'accès ou d'autorisation, des services de journalisation et de surveillance ou un pare-feu applicatif. Enumérer et évaluer ces services partagés pour dresser une liste de ces ressources et les catégoriser selon la fonction de sécurité qu'elles remplissent. Envisagezr chaque ressource en fonction de son utilité et ses bénéfices pour l'équipe produit.
+
+  S'il existe plusieurs ressources dans chaque catégorie, sélectionnez un ou plusieurs services partagés à standariser par catégorie. Étant donné que le développement futur des logiciels s'appuiera sur ces services, examinez-les soigneusement pour vous assurer de maitriser comment leur sécurité évoluera dans le temps. Pour chaque service sélectionné, créez des recommandation pour la conception afin que les équipes produit sachent comment les intégrer au système. Partager ces recommandations par le biais de la formation, du mentorat, des lignes directrices et des standards.
+
+  Établissez les meilleures pratiques pour implémenter les fonctionnalités de sécurité. Rendez-les disponibles par des fonctions de recherche et/ou d'achat et pensez à les personnaliser pour les faire correspondre à la charte graphique de votre organisation pour une meilleure intégration. Des exemples de modèles incluent un sous-système d'authentification unique, un modèle de délégation à plusieurs niveaux, un modèle d'autorisation de séparation des tâches, un modèle de journalisation centralisé, etc.
+
+  Ces modèles peuvent provenir de projets ou d'applications spécifiques, mais assurez-vous de les partager entre les différentes équipes de l'organisation pour une application efficace et cohérente des solutions de sécurité appropriées.
+
+  Pour augmenter l'adoption de ces modèles, interfacez-les avec les services de sécurité partagés ou implémentez-les sous forme de composants qui peuvent être facilement intégrées dans une application. Soutenez les technologies clés au sein de l'organisation, par exemple dans le cas de différents environnements de développement. Gérez ces solutions comme de véritables applications avec un support approprié.
+#Type Classification of the Document
+type: Activité
