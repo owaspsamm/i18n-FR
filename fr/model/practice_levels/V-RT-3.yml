@@ -11,4 +11,4 @@ maturitylevel: 7bbfe31d447e48759ef0f2af25c31b43
 id: 812abdd0a2b54366a497919f8463911a
 #Objective of this particular practice level
 objective: Maintenir le niveau de sécurité de l'application après des corrections de bogues, des modifications ou pendant la maintenance. #Type Classification of the Document
-type: PracticeLevel
+type: NiveauDePratique
