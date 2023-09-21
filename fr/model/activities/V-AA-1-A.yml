@@ -1,0 +1,33 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 77ca4b5e7ebc42558109829dffc2b80d
+#Link to the practice level that this activity belongs to
+level: 39bc5d271fae4ea8ba53db7de7b2712c
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 0f611af10f974da497e7f3defe0c4f12
+#The title of this activity
+title: Évaluer l'architecture de l'application
+#Describe the benefit that is achieved by implementing this activity
+benefit: Compréhension de l'architecture de haut niveau et des mesures de sécurité adaptées
+#A one sentence description of the activity
+shortDescription: Identifier les composants de l'architecture applicative et d'infrastructure et les passer en revue pour garantir un niveau de sécurité basique de l'approvisionnement
+#A multi-paragraph description of the activity
+longDescription: |
+  Créez une vue d'ensemble de l'architecture et examinez-là pour vérifier la bonne présence de mécanismes de sécurité généraux tels que l'authentification, la gestion des autorisations, des utilisateurs et des droits, la communication sécurisée, la protection des données, la gestion des clés et la gestion des journaux. Considérez également le soutien à la protection de la vie privée. Faites cela en utilisant les artefacts du projet tels que des documents d'architecture ou de conception, ou des entrevues avec les représentants du client et le personnel technique. Pensez également aux composants d'infrastructure - ce sont tous les systèmes, composants et bibliothèques (y compris les SDKs) qui ne sont pas spécifiques à l'application mais fournissent un support direct à l'utilisation ou à la gestion de l'application au sein de l'organisation.
+
+  Mettez en exergue toutes les fonctionnalités liées à la sécurité dans l'architecture et validez sa pertinence. Faites cela de manière ad hoc, du point de vue des utilisateurs anonymes, des utilisateurs authentifiés et des rôles spécifiques à l'application.
+#Internal notes that might help the author
+notes: |
+  Éléments requis pour le risque
+    - ensemble de questions à évaluer
+    - niveaux de risque pour représenter le risque de l'application
+    - portefeuille de risques
+#References to other activities that are prerequesites to implement this one.
+relatedactivities: |
+  Exigences de Sécurité
+#Type Classification of the Document
+type: Activité
