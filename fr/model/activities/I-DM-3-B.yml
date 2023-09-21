@@ -1,0 +1,53 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 55bf5184ff7d4b76a444e52a28c803d9
+#Link to the practice level that this activity belongs to
+level: 5a25ae9bc9134d6387128ea925c81845
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: f2a309b82fbc46cfb2f11c9cde20dc0a
+#The title of this activity
+title: Utiliser des métriques pour améliorer la stratégie de sécurité
+#Describe the benefit that is achieved by implementing this activity
+benefit: Une stratégie de sécurité optimisée basée sur les informations liées aux défauts
+#A one sentence description of the activity
+shortDescription: Améliorez continuellement vos métriques de gestion des défauts de sécurité et corrélez-les à d'autres sources.
+#A multi-paragraph description of the activity
+longDescription: |
+  Réexaminez régulièrement (au moins une fois par an) les métriques de gestion des défauts que vous collectez et comparez les efforts nécessaires pour les collecter et les suivre aux résultats escomptés. Prenez des décisions éclairées quant à la suppression des métriques qui ne fournissent pas la valeur attendue. Dans la mesure du possible, incluez et automatisez les activités de vérification pour la qualité des données collectées et garantissez une amélioration durable si des écarts sont détectés.
+
+  Agrégez les données avec vos métriques de cyberveille et de gestion des incidents et utilisez les résultats comme apports pour d'autres initiatives à travers l'ensemble de l'organisation, tels que :
+
+  * La planification de formations à la sécurité pour divers typologies de personnels
+  * L'amélioration des activités de vérification de la sécurité pour les développements internes et externes
+  * La gestion de la chaîne d'approvisionnement, c.a.d. effectuer des audits de sécurité des organisations partenaires
+  * La surveillance des attaques contre votre infrastructure et vos applications
+  * L'investissement dans des infrastructures de sécurité ou des contrôles compensatoires
+  * Le recrutement pour votre équipe de sécurité et le cadrage du budget lié à la sécurité
+#The output of this particular activity
+results:
+  - résultat1
+  - résultat2
+#The different metrics that can be used to measure the success of the activity
+metrics:
+  - métrique1
+  - métrique2
+#A description of the costs required to implement the activity
+costs: SCT.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Officier de sécurité
+  - Ingénieur en sécurité
+  - Responsable
+#Internal notes that might help the author
+notes: Aucun
+#References to other activities that are prerequesites to implement this one.
+relatedActivities:
+  - 5bcb52375a0f4085bb12266c9ecfa84d
+  - 4f6a06796d0840debcc775ea1af65679
+  - a395d69917b947b28d5995738d716283
+#Type Classification of the Document
+type: Activité
