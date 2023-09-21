@@ -16,13 +16,13 @@ values:
   - 
     #second level
     text: Oui, pour une partie de la formation
-    value: 0.25
+    value: 0
     weight: 1
     order: 1
   - 
     #third level
     text: Oui, pour au moins la moitié de la formation
-    value: 0.5
+    value: 0
     weight: 1
     order: 2
   - 
@@ -32,4 +32,4 @@ values:
     weight: 1
     order: 3
 #Type Classification of the Document
-type: AnswerSet
+type: EnsembleDeRéponses
