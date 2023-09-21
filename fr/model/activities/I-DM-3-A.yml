@@ -1,0 +1,51 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: a5b57fc5fa0441b7b23f599b506c5752
+#Link to the practice level that this activity belongs to
+level: 5a25ae9bc9134d6387128ea925c81845
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: d955a7b3fbfc4b6aa5b327af9e01c377
+#The title of this activity
+title: Mettre en application un SLA pour la gestion des défauts
+#Describe the benefit that is achieved by implementing this activity
+benefit: Garantie que les défauts de sécurité sont gérés selon des SLA prédéfinis
+#A one sentence description of the activity
+shortDescription: Faire respecter les SLA prédéfinis et intégrer le système de gestion des défauts aux autres outils pertinents.
+#A multi-paragraph description of the activity
+longDescription: |
+  Implémentez une alerte automatique sur les temps de correction des défauts de sécurité si la durée dépasse celle définie dans les Contrats de Niveau de Service (CNS). Assurez-vous que ces défauts sont automatiquement transférés dans le processus de gestion des risques et évalués selon une méthodologie quantitative cohérente. Évaluez comment des défauts donnés s'influencent / s'amplifient les uns avec les autres non seulement au niveau des équipes, mais aussi au niveau de l'ensemble de l'organisation. Utilisez la connaissance de la chaîne de compromission complète pour hiérarchiser, introduire et suivre les contrôles compensatoires atténuant les risques d'affaire respectifs.
+
+  Intégrez votre système de gestion des défauts avec les outils automatisés introduits par d'autres pratiques, par ex.
+
+  * Génération et déploiement : faîtes échouer le processus de génération / déploiement si des défauts de sécurité supérieurs à une certaine sévérité affectent l'artefact final, à moins que quelqu'un ne signe explicitement l'exception.
+  * Surveillance : si possible, faîtes en sorte que l'abus d'une faille de sécurité dans l'environnement de production soit détecté et déclenche une alerte.
+#The output of this particular activity
+results:
+  - résultat1
+  - résultat2
+#The different metrics that can be used to measure the success of the activity
+metrics:
+  - métrique1
+  - métrique2
+#A description of the costs required to implement the activity
+costs: SCT.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Administrateur
+  - Ingénieur en sécurité
+  - Officier de sécurité
+  - Propriétaire du produit
+  - Responsable
+#Internal notes that might help the author
+notes: Aucun
+#References to other activities that are prerequesites to implement this one.
+relatedActivities:
+  - 11dd0c95f8914b6cb850a27f0557a9dd
+  - 281369f491da4d4c84b0729e344e2c93
+  - 05a3e75c6c654ae58a115cbf4295662b
+#Type Classification of the Document
+type: Activité
