@@ -1,0 +1,24 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 2919e1f19aec4f018da94a3e8733f37d
+#Link to the practice level that this activity belongs to
+level: 2a29c1f7d6954785b8d42d637a752f94
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 38932fe4024e4ec89646a82e0b4e651e
+#The title of this activity
+title: Normaliser les politiques et les exigences de conformité
+#Describe the benefit that is achieved by implementing this activity
+benefit: Compréhension partagée avec les équipes produit de la manière d'être en conformité avec les facteurs externes
+#A one sentence description of the activity
+shortDescription: Publier les exigences propres à la conformité d'une application et les conseils de test.
+#A multi-paragraph description of the activity
+longDescription: |
+  Élaborez une bibliothèque d'exigences d'application et de scripts de tests afin d'établir et de vérifier la conformité réglementaire des applications. Certaines d'entre elles sont liées à des exigences de conformité ciblées telles qu'au PCI ou au RGPD, alors que d'autres sont de nature plus générale et répondent à des exigences de portée mondiale en matière de conformité telles que l'ISO. La bibliothèque est disponible à toutes les équipes de développement d'applications. Elle comprend des conseils pour déterminer toutes les exigences applicables, y compris les considérations visant à réduire la charge et la portée de la conformité. Mettez en œuvre un processus pour réévaluer périodiquement les exigences de conformité de chaque application. La nouvelle évaluation comprend l’examen de toutes les fonctionnalités de l’application et les possibilités de réduire la portée afin de minimiser le coût global de la conformité.
+
+  Les exigences incluent suffisamment d'informations pour que les développeurs comprennent les exigences fonctionnelles et non-fonctionnelles des différentes obligations de conformité. Elles contiennent des références aux politiques et aux normes et font explicitement référence à la réglementation. S'il reste des interrogations au sujet de la mise en œuvre d'une exigence particulière, le texte original du règlement peut aider à interpréter l'exigence de manière plus précise. Chaque exigence comprend un ensemble de scripts de test pour vérifier la conformité. En plus de permettre à l'Assurance Qualité de faciliter la vérification de la conformité, ils peuvent aider à clarifier les exigences de conformité pour les développeurs et à rendre le processus de conformité transparent. Les exigences ont un format qui permet de les importer dans les référentiels individuels d'exigences. Clarifiez davantage pour les développeurs les exigences de conformité et veillez à ce que le processus de conformité soit totalement transparent.
+#Type Classification of the Document
+type: Activité
