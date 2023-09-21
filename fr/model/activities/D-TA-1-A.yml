@@ -1,0 +1,24 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 17c90203f8354c3594eea22759e375a9
+#Link to the practice level that this activity belongs to
+level: a3d4045d5c0c4bd4a875784759539f0c
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: c6da6525773644d0a18b3a927caf6dd2
+#The title of this activity
+title: Effectuer une évaluation des risques de l'application
+#Describe the benefit that is achieved by implementing this activity
+benefit: Possibilité de classer les applications selon les risques
+#A one sentence description of the activity
+shortDescription: Une évaluation basique du niveau de risque de l'application est effectuée afin de comprendre la probabilité et l'impact d'une attaque.
+#A multi-paragraph description of the activity
+longDescription: |
+  Utilisez une méthode simple pour évaluer le risque associé à une application par application, tout en estimant l'impact potentiel que cela peut avoir sur l'entreprise en cas d'attaque. Pour y parvenir, évaluez l'impact d'une violation de la confidentialité, de l'intégrité et de la disponibilité des données ou du service. Envisagez d'utiliser un ensemble de 5 à 10 questions pour comprendre les caractéristiques importantes de l'application, par exemple si l'application traite des données financières, si elle est connectée à Internet ou si des données liées à la vie privée sont concernées. Le profil de risque de l'application vous indique si ces facteurs sont applicables et s'ils peuvent avoir un impact significatif sur l'organisation.
+
+  Ensuite, utilisez un schéma pour classer les applications en fonction de ce risque. Un schéma simple et qualitatif (par exemple haut / moyen / bas) qui traduit ces caractéristiques en une valeur est souvent efficace. Il est important d'utiliser ces valeurs pour représenter et comparer le risque de différentes applications les unes par rapport aux autres. Les organisations matures utilisant fortement l'approche par les risques pourraient utiliser davantage de systèmes de risque quantitatifs. N’inventez pas un nouveau système de risque si votre organisation en a déjà un qui fonctionne bien.
+#Type Classification of the Document
+type: Activité
