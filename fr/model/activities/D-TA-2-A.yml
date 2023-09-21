@@ -1,0 +1,28 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 17c90203f8354c3594eea22759e375a9
+#Link to the practice level that this activity belongs to
+level: e5b6dc4f907c4986b8ba7923303cd665
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 529d528265c94447954a57f5be425f54
+#The title of this activity
+title: Inventorier les profils de risque
+#Describe the benefit that is achieved by implementing this activity
+benefit: Bien comprendre le niveau de risque de votre portefeuille d'applications
+#A one sentence description of the activity
+shortDescription: Comprendre le risque pour toutes les applications au sein de l'organisation en centralisant l'inventaire des profils de risque pour les intervenants.
+#A multi-paragraph description of the activity
+longDescription: |
+  Le but de cette activité est de bien comprendre le niveau de risque de toutes les applications au sein d'une organisation et de focaliser les efforts de vos activités d'assurance logicielle là où elles sont vraiment pertinentes.
+
+  Du point de vue de l'évaluation des risques, le jeu de questions de base n'est pas suffisant pour bien évaluer le risques de l'ensemble des applications. Créez une manière uniforme et évolutive d'évaluer le risque d'une application (par exemple via leur impact sur la sécurité de l'information confidentialité, intégrite et disponibilité des données). Au delà de la sécurité, vous pouvez aussi évaluer le risque de l'application sur la vie privée. Comprenez les données que l'application traite et les potentielles violations de la vie privée. Enfin, étudiez l'impact que cette application peut avoir sur d'autres applications au sein de l'organisation (par exemple, l'application pourrait modifier des données qui ont été considérées comme étant en écriture seule dans un autre contexte). Evaluez toutes les applications au sein d'une organisation, y compris celles faisant partie de l'existant ou non-encore décommissionées.
+
+  Tirez parti de l'analyse d'impact sur les affaires pour quantifier le risque applicatif et établir une classification. Un simple schéma qualitatif (tel que haut / moyen / bas) n'est pas suffisant pour gérer et comparer efficacement les applications au niveau de l'entreprise.
+
+  En se basant sur ces éléments, les Officiers de Sécurité utilisent la classification pour définir le profile de risque afin de construire un inventaire centralisé de profils de risque et gérer la responsabilité. Cet inventaire donne aux propriétaires de produits, aux gestionnaires et aux autres parties prenantes de l'organisation une compréhension unique du niveau de risque d'une application dans le but d'assigner une priorité appropriée aux activités liées à la sécurité.
+#Type Classification of the Document
+type: Activité
