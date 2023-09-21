@@ -1,0 +1,19 @@
+---
+#===========================================================
+#OWASP SAMM2 Activity Stream template/sample
+#===========================================================
+#Link to the security practice that this stream belongs to
+practice: bb5488860c124b6e8076b023485023e1
+#Unique identifier to refer to this stream
+id: 8a64c7b0b35a458ea436260d5e414dfa
+#Official stream name
+name: Compréhension Approfondie
+#Stream letter, A or B
+letter: B
+#Multi-paragraph explanation of the stream
+description: |
+  La compréhension approfondie se concentre sur la réalisation de tests de sécurité manuels des composants à haut risque en utilisant des vecteurs d'attaque complexes dans le but de rendre les tests de sécurité avancés partie intégrante du processus de développement. L'objectif de ce flux est de favoriser la profondeur des tests (rigueur de test) par rapport à l'étendue des tests (le portefeuille d'applications).
+#Relative order of the stream within the security stream  (A=1 ; B=2)
+order: 2
+#Type Classification of the Document
+type: Flux
