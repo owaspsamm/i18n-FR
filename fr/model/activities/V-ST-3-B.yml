@@ -1,0 +1,28 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 8a64c7b0b35a458ea436260d5e414dfa
+#Link to the practice level that this activity belongs to
+level: eac3184f8e2343b8b29047d023376da5
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: a395d69917b947b28d5995738d716283
+#The title of this activity
+title: Établir une vérification de sécurité continue et qui peut passer à l'échelle
+#Describe the benefit that is achieved by implementing this activity
+benefit: Identification des problèmes de sécurité identifiables manuellement lors des étapes le plus possible en amont
+#A one sentence description of the activity
+shortDescription: Intégrer les tests de sécurité dans le processus de développement
+#A multi-paragraph description of the activity
+longDescription: |
+  Intégres les tests de sécurité parallèlement à toutes les autres activités de développement, y compris l'analyse des exigences, la conception logicielle et sa construction.
+
+  Avec la multiplication des outils de sécurité s'exécutant à chaque phase du développement, corriger les problèmes de sécurité à une étape donnée (par exemple pour les tests de pré-livraison) n’est plus approprié ou souhaitable. Les défauts de sécurité doivent être rapidement triés et leur résolution planifiée dans le cadre d'un compromis entre le risque et le coût de correction. Efforcez-vous continuellement de détecter les problèmes le plus tôt possible dans le cycle de vie de développement, via des tests automatisés spécifiques et à faible friction intégrés dans les outils de développement et le processus de génération, diminue le coût de correction et augmente ainsi la probabilité de résoudre rapidement les problèmes.
+
+  Améliorez proactivement l'effort de test de sécurité intégré au processus de développement en propageant de façon adéquate les résultats d'autres activités de test de sécurité. Par exemple, si un test de pénétration de sécurité identifie des problèmes avec la gestion des sessions, toute modification de la gestion de session devrait déclencher des tests de sécurité explicites avant d'envoyer les changements en production.
+
+  Les champions de la sécurité et le groupe central d'experts sur le logiciel sécurisé examinent en permanence les résultats des tests de sécurité automatisés et manuels durant le développement, y compris les résultats dans le cadre des formations de sensibilisation à la sécurité pour les équipes de développement. Intégrez les leçons tirées de l'expérience dans des manuels pour améliorer les tests de sécurité dans le cadre de la maturation de l'organisation. S'il y a des problèmes non résolus qui persistent en tant que risques acceptés pour la livraison, les parties prenantes et les gestionnaires du développement devraient travailler ensemble pour établir un calendrier concret pour les aborder.
+#Type Classification of the Document
+type: Activité
