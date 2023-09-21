@@ -8,7 +8,7 @@ practice: 53f2da68c37a4ced8d5e767298fba589
 maturitylevel: 7bbfe31d447e48759ef0f2af25c31b43
 #Unique identifier (GUID) used to refer to this practice level.
 #Please generate another identifier for your specific practice level.
-id: 83ea8aaab3384b41b785107613ee4d86
+id: 83ea8aaab3384b41b785107613e4d86
 #Objective of this particular practice level
 objective: Examiner l'efficacité de l'architecture et des retours d'expérience pour améliorer l'architecture de sécurité. #Type Classification of the Document
-type: PracticeLevel
+type: NiveauDePratique
