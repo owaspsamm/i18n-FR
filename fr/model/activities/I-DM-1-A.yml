@@ -1,0 +1,12 @@
+#The title of this activity
+title: Suivre les défauts de sécurité de manière centralisée
+#Describe the benefit that is achieved by implementing this activity
+benefit: Transparence des défauts de sécurité connus impactant des applications particulières
+#A one sentence description of the activity
+shortDescription: Mettre en place un suivi structuré des défauts de sécurité et prendre des décisions éclairées sur la base de ces informations.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Ingénieur en sécurité
+  - Officier de sécurité
+#Type Classification of the Document
+type: Activité
