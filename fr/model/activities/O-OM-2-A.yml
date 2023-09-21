@@ -1,0 +1,26 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description - Data Protection, Level 2
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 9c6bf45a97ae4149a44c4a5d97ea6a40
+#Link to the practice level that this activity belongs to
+level: 76f8a2e68065467ba9bd2b5ac625490b
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 82a962e3dcc44b1086760de517aaa3c1
+#The title of this activity
+title: Établir un catalogue de données
+#Describe the benefit that is achieved by implementing this activity
+benefit: Gestion standardisée des différentes classes de données sensibles
+#A one sentence description of the activity
+shortDescription: Élaborer un catalogue de données et établir une politique de protection des données.
+#A multi-paragraph description of the activity
+longDescription: |
+  À ce niveau de maturité, les activités de protection de données se concentrent sur votre façon de gérer les données en votre possession. Établissez des contrôles techniques et administratifs pour protéger la confidentialité des données sensibles ainsi que l'intégrité et la disponibilité de toutes les données en votre possession, de leur création / réception initiale jusqu'à la destruction des sauvegardes à la fin de leur période de rétention.
+
+  Identifiez les données stockées, traitées et transmises par des applications et enregistrez les informations concernant leur type, leur niveau de sensibilité (classification) et leur(s) lieu(x) de stockage dans votre catalogue de données. Identifiez clairement les enregistrements ou les éléments de données soumis à une réglementation spécifique. Établir une source de référence concernant les données avec lesquelles vous travaillez permet une sélection plus fine de contrôles pour leur protection. La collecte de ces informations améliore l'exactitude, la pertinence et l'efficacité de vos réponses aux requêtes liées aux données (par ex. de la part des auditeurs, des équipes de réponse à incident ou des clients) et facilite les activités de modélisation des menaces et de conformité.
+
+  Sur la base de votre politique de protection des données, établissez des processus et des procédures pour la protection et la conservation des données tout au long de leur cycle de vie, que ce soit au repos, en cours de traitement, ou en transit. Portez une attention particulière à la manipulation et à la protection des données sensibles en dehors du système de traitement actif, incluant, mais sans s'y limiter, le stockage, la rétention et la destruction des sauvegardes, et l'étiquetage, le chiffrement et la protection physique des supports de stockage hors ligne. Vos processus et procédures couvrent la mise en œuvre de tous les contrôles adoptés pour se conformer à la réglementation, aux restrictions contractuelles ou autres sur les lieux de stockage, l'accès de la part du personnel et autres facteurs.
+#Type Classification of the Document
+type: Activité
