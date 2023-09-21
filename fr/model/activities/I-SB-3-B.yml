@@ -1,0 +1,13 @@
+#The title of this activity
+title: Tester les dépendances de l'application
+#Describe the benefit that is achieved by implementing this activity
+benefit: Gestion des problèmes de sécurité dans les dépendances comparable à celles de votre propre code
+#A one sentence description of the activity
+shortDescription: Analyser les dépendances utilisées quant aux problèmes de sécurité d'une manière comparable à votre propre code.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Ingénieur en sécurité
+  - Architecte
+  - Développeur
+#Type Classification of the Document
+type: Activité
