@@ -22,8 +22,7 @@ order: 1
 #Qualifying Criterion
 quality:
 - You review KPIs at least yearly for their efficiency and effectiveness
-- KPIs and application security metrics trigger most of the changes to the application
-  security strategy
+- KPIs and application security metrics trigger most of the changes to the application security strategy
 
 #Type Classification of the Document
 type: Question

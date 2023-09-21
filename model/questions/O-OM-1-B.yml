@@ -23,7 +23,7 @@ order: 1
 #Qualifying Criteria
 quality:
 - You do not use unsupported applications or dependencies
-- You manage customer/user migration from older versions for each product and customer/user
-  group
+- You manage customer/user migration from older versions for each product and customer/user group
+
 #Type Classification of the Document
 type: Question

@@ -20,14 +20,10 @@ order: 1
 
 #Qualifying Criterion
 quality:
-- You review and update the plan in response to significant changes in the business
-  environment, the organization, or its risk appetite
-- Plan update steps include reviewing the plan with all the stakeholders and updating
-  the business drivers and strategies
-- You adjust the plan and roadmap based on lessons learned from completed roadmap
-  activities
-- You publish progress information on roadmap activities, making sure they are available
-  to all stakeholders
+- You review and update the plan in response to significant changes in the business environment, the organization, or its risk appetite
+- Plan update steps include reviewing the plan with all the stakeholders and updating the business drivers and strategies
+- You adjust the plan and roadmap based on lessons learned from completed roadmap activities
+- You publish progress information on roadmap activities, making sure they are available to all stakeholders
 
 #Type Classification of the Document
 type: Question

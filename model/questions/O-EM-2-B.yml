@@ -22,8 +22,7 @@ order: 1
 #Qualifying Criteria
 quality:
 - The process includes vendor information for third-party patches
-- The process considers external sources to gather information about zero day attacks,
-  and includes appropriate risk mitigation steps
+- The process considers external sources to gather information about zero day attacks, and includes appropriate risk mitigation steps
 - The process includes guidance for prioritizing component updates
 
 #Type Classification of the Document

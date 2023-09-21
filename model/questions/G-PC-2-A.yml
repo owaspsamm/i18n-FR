@@ -21,10 +21,8 @@ order: 1
 
 #Qualifying Criterion
 quality:
-- You create verification checklists and test scripts where applicable, aligned with
-  the policy's requirements and the implementation guidance in the associated standards
-- You create versions adapted to each development methodology and technology the organization
-  uses
+- You create verification checklists and test scripts where applicable, aligned with the policy's requirements and the implementation guidance in the associated standards
+- You create versions adapted to each development methodology and technology the organization uses
 
 #Type Classification of the Document
 type: Question

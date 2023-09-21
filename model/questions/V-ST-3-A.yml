@@ -20,8 +20,7 @@ order: 1
 
 #Qualifying Criterion
 quality:
-- Management and business stakeholders track and review test results throughout
-  the development cycle
+- Management and business stakeholders track and review test results throughout the development cycle
 - You merge test results into a central dashboard and feed them into defect management
 
 #Type Classification of the Document

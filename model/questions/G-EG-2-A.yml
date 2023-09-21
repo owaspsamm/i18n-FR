@@ -21,8 +21,7 @@ order: 1
 
 #Qualifying Criterion
 quality:
-- Training includes all topics from maturity level 1, and adds more specific tools,
-  techniques, and demonstrations
+- Training includes all topics from maturity level 1, and adds more specific tools, techniques, and demonstrations
 - Training is mandatory for all employees and contractors
 - Training includes input from in-house SMEs and trainees
 - Training includes demonstrations of tools and techniques developed in-house

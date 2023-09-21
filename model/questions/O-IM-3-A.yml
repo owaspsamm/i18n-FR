@@ -22,5 +22,6 @@ order: 1
 quality:
 - You perform reviews at least annually
 - You update the checklist of potential attacks with external and internal data
+
 #Type Classification of the Document
 type: Question

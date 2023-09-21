@@ -23,8 +23,7 @@ order: 1
 quality:
 - You know the data elements processed and stored by each application
 - You know the type and sensitivity level of each identified data element
-- You have controls to prevent propagation of unsanitized sensitive data from production
-  to lower environments
+- You have controls to prevent propagation of unsanitized sensitive data from production to lower environments
 
 #Type Classification of the Document
 type: Question

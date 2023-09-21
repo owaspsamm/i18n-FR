@@ -22,11 +22,9 @@ order: 1
 
 #Qualifying Criteria
 quality:
-- You document the status of support for all released versions of your products, in
-  an accessible location
-- The process includes replacement or upgrade of third-party applications, or application
-  dependencies, that have reached end of life
-- Operating environments do not contain orphaned accounts, firewall rules, or other
-  configuration artifacts
+- You document the status of support for all released versions of your products, in an accessible location
+- The process includes replacement or upgrade of third-party applications, or application dependencies, that have reached end of life
+- Operating environments do not contain orphaned accounts, firewall rules, or other configuration artifacts
+
 #Type Classification of the Document
 type: Question
