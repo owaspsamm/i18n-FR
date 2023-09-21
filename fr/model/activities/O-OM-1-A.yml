@@ -1,0 +1,24 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description - Data Protection, Level 1
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 9c6bf45a97ae4149a44c4a5d97ea6a40
+#Link to the practice level that this activity belongs to
+level: d0a99f3db27e48aa9b2d6b58a9040f49
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: c16a12399dc94cc889d7e9e66e0ae2a0
+#The title of this activity
+title: Organiser les protections de base des données
+#Describe the benefit that is achieved by implementing this activity
+benefit: Compréhension de la sensibilité des données traitées avec des mesures dérivées à impact rapide
+#A one sentence description of the activity
+shortDescription: Implémenter des pratiques de base en matière de protection des données
+#A multi-paragraph description of the activity
+longDescription: |
+  Comprenez les types et la sensibilité des données stockées et traitées par vos applications et garantissez la bonne compréhension du devenir des données traitées (par ex. sauvegardes, partage avec des partenaires externes). À ce niveau de maturité, les informations recueillies peuvent être saisies sous différentes formes et dans différents endroits ; aucun catalogue de données à l'échelle de l'organisation n'est supposé exister. Protégez et gérez toutes les données associées à une application donnée conformément aux exigences de protection applicables aux données stockées et traitées les plus sensibles.
+
+  Mettez en place des contrôles de base pour empêcher la propagation de données sensibles non assainies depuis les environnements de production vers des environnements de plus bas niveau. En veillant à ce que les données de production non assainies ne soient jamais propagées vers des environnements de plus bas niveau (non-production), vous pouvez concentrer les politiques et les activités de protection des données sur la production.
+#Type Classification of the Document
+type: Activité
