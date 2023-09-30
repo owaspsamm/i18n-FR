@@ -17,7 +17,6 @@ order: 1
 quality:
   - Le processus inclut les informations du fournisseur pour les correctifs provenant de tiers
   - 
-    - et inclut les étapes appropriées d'atténuation des risques
   - Le processus comprend des conseils pour établir des priorités sur les mises à jour de composants
 #Type Classification of the Document
 type: Question
