@@ -13,13 +13,5 @@ id: 497753e656514aa6bdf3030bebcb3fbe
 text: Les fournisseurs sont-ils alignés sur les contrôles de sécurité standards et les outils et processus de développement de logiciels que l'organisation utilise?
 #Order of this question for the activity (in case there would be multiple)
 order: 1
-#Qualifying Criterion
-quality:
-  - 
-    - la gestion et la gestion des incidents qui s'alignent sur celles utilisées dans votre organisation
-  - 
-    - livraison
-  - 
-    - comme l'analyse de la composition du logiciel et les tests de pénétration indépendants
 #Type Classification of the Document
 type: Question
