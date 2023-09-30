@@ -13,13 +13,5 @@ id: 8176c4588bdd4e979e3c82566450696a
 text: Examinez-vous et mettez-vous à jour régulièrement le catalogue de données et vos politiques et procédures en matière de protection des données?
 #Order of this question for the activity (in case there would be multiple)
 order: 1
-#Qualifying Criteria
-quality:
-  - 
-    - Politique de Protection
-  - 
-    - détection du comportement
-  - 
-    - et la suppression des enregistrements
 #Type Classification of the Document
 type: Question
