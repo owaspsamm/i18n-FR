@@ -13,11 +13,5 @@ id: 7e541611f3c749f285ac27f0a9ba7d55
 text: Examinez-vous et mettez-vous à jour régulièrement les profils de risque de vos applications?
 #Order of this question for the activity (in case there would be multiple)
 order: 1
-#Qualifying Criterion
-quality:
-  - 
-    - méthode
-  - 
-    - profils de risque pertinents
 #Type Classification of the Document
 type: Question
