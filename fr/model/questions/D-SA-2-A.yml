@@ -16,9 +16,7 @@ order: 1
 #Qualifying Criterion
 quality:
   - 
-    - parties prenantes
   - Vous avez vérifié la posture de sécurité de base pour chaque service sélectionné
   - 
-    - orientation
 #Type Classification of the Document
 type: Question
