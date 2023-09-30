@@ -16,7 +16,6 @@ order: 1
 #Qualifying Criterion
 quality:
   - 
-    - contrôle, validation des entrées, encodage et échappement des données et contrôles de chiffrement
   - Les tests de sécurité s'exécutent chaque fois que l'application change son utilisation des contrôles
 #Type Classification of the Document
 type: Question
