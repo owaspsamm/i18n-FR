@@ -13,15 +13,5 @@ id: format@@0 74eaee0cbf454a46adeb2619850bbcb3
 text: Examinez-vous et mettez-vous à jour régulièrement le Plan Stratégique pour la sécurité applicative?
 #Order of this question for the activity (in case there would be multiple)
 order: 1
-#Qualifying Criterion
-quality:
-  - 
-    - l'environnement, l'organisation ou son appétit pour le risque
-  - 
-    - les moteurs et les stratégies de l'entreprise
-  - 
-    - activités
-  - 
-    - à toutes les parties prenantes
 #Type Classification of the Document
 type: Question
