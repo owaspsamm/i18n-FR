@@ -16,7 +16,6 @@ order: 1
 #Qualifying Criterion
 quality:
   - 
-    - application
   - Vous identifiez et suivez les risques technologiques
   - Vous vous assurez que les risques de ces technologies sont conformes à la référence organisationnelle
 #Type Classification of the Document
