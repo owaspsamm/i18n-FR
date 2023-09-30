@@ -13,11 +13,5 @@ id: 84d5a7f8d9e647db95288329f64fc41d
 text: Avez-vous un ensemble standard d'exigences de sécurité et de procédures de vérification qui traitent des obligations externes de conformité de l'organisation?
 #Order of this question for the activity (in case there would be multiple)
 order: 1
-#Qualifying Criterion
-quality:
-  - 
-    - exigences
-  - 
-    - avec des exigences liées à la conformité
 #Type Classification of the Document
 type: Question
