@@ -18,6 +18,5 @@ quality:
   - Vous empêchez ou annulez le déploiement si vous détectez une rupture d'intégrité
   - La vérification est faite en utilisant des signatures créées pendant la phase de génération
   - 
-    - mesures compensatoires
 #Type Classification of the Document
 type: Question
