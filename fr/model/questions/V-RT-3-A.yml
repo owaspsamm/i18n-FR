@@ -13,11 +13,5 @@ id: 35413be30d9f415dbde45edbe3b17f31
 text: Testez-vous automatiquement les applications pour les régressions de sécurité ?
 #Order of this question for the activity (in case there would be multiple)
 order: 1
-#Qualifying Criterion
-quality:
-  - 
-    - seuil de sévérité
-  - 
-    - cadre
 #Type Classification of the Document
 type: Question
