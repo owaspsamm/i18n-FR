@@ -22,8 +22,7 @@ order: 1
 #Qualifying Criterion
 quality:
 - Important business functionality has corresponding abuse cases
-- You build abuse stories around relevant personas with well-defined motivations and
-  characteristics
+- You build abuse stories around relevant personas with well-defined motivations and characteristics
 - You capture identified weaknesses as security requirements
 
 #Type Classification of the Document

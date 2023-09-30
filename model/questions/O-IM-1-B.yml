@@ -22,5 +22,6 @@ order: 1
 quality:
 - You have a defined person or role for incident handling
 - You document security incidents
+
 #Type Classification of the Document
 type: Question

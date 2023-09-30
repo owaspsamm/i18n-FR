@@ -22,8 +22,7 @@ order: 1
 quality:
 - Penetration testing uses application-specific security test cases to evaluate security
 - Penetration testing looks for both technical and logical issues in the application
-- Stakeholders review the test results and handle them in accordance with the organization's
-  risk management
+- Stakeholders review the test results and handle them in accordance with the organization's risk management
 - Qualified personnnel performs penetration testing
 
 #Type Classification of the Document

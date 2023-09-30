@@ -21,8 +21,7 @@ order: 1
 #Qualifying Criterion
 quality:
 - Testing covers most or all of the application's main input parameters
-- You record and inspect all application crashes for security impact on a best-effort
-  basis
+- You record and inspect all application crashes for security impact on a best-effort basis
 
 #Type Classification of the Document
 type: Question
