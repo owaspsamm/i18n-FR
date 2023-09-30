@@ -17,7 +17,6 @@ order: 1
 quality:
   - Les fonctionnalités métiers importantes ont des cas d'abus correspondants
   - 
-    - caractéristiques
   - Vous capturez les faiblesses identifiées comme des exigences de sécurité
 #Type Classification of the Document
 type: Question
