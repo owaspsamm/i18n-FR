@@ -16,11 +16,8 @@ order: 1
 #Qualifying Criterion
 quality:
   - 
-    - unités
   - 
-    - mises à jour d'outil, modifications des standards architecturaux et autres annonces connexes
   - 
-    - des informations sur la sécurité des applications spécifiques à l'organisation
   - Tout le contenu est considéré comme étant persistant et interrogeable
   - Le portail fournit un accès aux métriques de sécurité spécifiques à une application
 #Type Classification of the Document
