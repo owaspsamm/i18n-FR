@@ -13,11 +13,5 @@ id: 795e7ddd03f2443c851e34fc6e023d71
 text: Les parties prenantes examinent-elles les collaborations avec les fournisseurs en ce qui concerne les exigences de sécurité et la méthodologie?
 #Order of this question for the activity (in case there would be multiple)
 order: 1
-#Qualifying Criterion
-quality:
-  - 
-    - lors de la création d'accords avec des tiers
-  - 
-    - de vos fournisseurs
 #Type Classification of the Document
 type: Question
