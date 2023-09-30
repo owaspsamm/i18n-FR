@@ -17,6 +17,5 @@ order: 1
 quality:
   - Les tests couvrent la plupart ou l'ensemble des paramètres d'entrée de l'application
   - 
-    - base
 #Type Classification of the Document
 type: Question
