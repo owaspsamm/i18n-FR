@@ -16,9 +16,7 @@ order: 1
 #Qualifying Criterion
 quality:
   - 
-    - grandes quantités de données d'une session utilisateur)
   - 
-    - ressources)
   - Vous renvoyez les résultats vers les pratiques de conception
 #Type Classification of the Document
 type: Question
