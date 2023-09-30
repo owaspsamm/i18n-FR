@@ -13,11 +13,5 @@ id: d15bfcd426d24a43b9417a0464b3af44
 text: Avez-vous et appliquez-vous un ensemble commun de politiques et de normes à travers toute votre organisation?
 #Order of this question for the activity (in case there would be multiple)
 order: 1
-#Qualifying Criterion
-quality:
-  - 
-    - pour tenir compte des considérations spécifiques au domaine
-  - 
-    - guide de mise en œuvre
 #Type Classification of the Document
 type: Question
