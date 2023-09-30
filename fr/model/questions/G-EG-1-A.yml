@@ -16,10 +16,7 @@ order: 1
 #Qualifying Criterion
 quality:
   - 
-    - cycle de vie de développement
   - 
-    - comme Moindre Privilège, Défense en Profondeur, Défaillance Sécurisée, Médiation Totale, Session
-    - Gestion, Conception Ouverte et Acceptabilité Psychologique
   - La formation nécessite une signature ou un accusé de réception de la part des participants
   - Vous avez mis à jour la formation au cours des 12 derniers mois
   - La formation est obligatoire lors du processus d'intégration des employés
