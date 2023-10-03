@@ -18,6 +18,6 @@ quality:
   - Le catalogue de données est stocké dans un endroit accessible
   - Vous savez quels éléments de données sont soumis à une réglementation spécifique
   - Vous avez des contrôles pour protéger et préserver les données tout au long de leur durée de vie
-  - 
+  - Vous avez des exigences de rétention des données et vous détruisez les sauvegardes en temps voulu à la fin de la période de rétention
 #Type Classification of the Document
 type: Question
