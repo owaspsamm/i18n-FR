@@ -15,7 +15,7 @@ text: Évaluez-vous la qualité de sécurité des technologies importantes utili
 order: 1
 #Qualifying Criterion
 quality:
-  - 
+  - Vous avez une liste des technologies les plus importantes utilisées dans ou pour chaque application
   - Vous identifiez et suivez les risques technologiques
   - Vous vous assurez que les risques de ces technologies sont conformes à la référence organisationnelle
 #Type Classification of the Document
