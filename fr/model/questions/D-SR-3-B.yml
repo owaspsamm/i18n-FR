@@ -13,5 +13,10 @@ id: 497753e656514aa6bdf3030bebcb3fbe
 text: Les fournisseurs sont-ils alignés sur les contrôles de sécurité standards et les outils et processus de développement de logiciels que l'organisation utilise?
 #Order of this question for the activity (in case there would be multiple)
 order: 1
+#Qualifying Criterion
+quality:
+  - Le fournisseur a un SDLC pour la sécurité qui inclut une génération sécurisée, un déploiement sécurisé, une gestion des défauts et une gestion des incidents qui s'alignent sur ceux utilisés dans votre organisation
+  - Vous vérifiez que la solution répond aux objectifs de qualité et de sécurité avant chaque publication majeure
+  - Lorsque des processus de vérification standard ne sont pas disponibles, vous utilisez des contrôles compensatoires tels que l'analyse de la composition du logiciel et des tests de pénétration indépendants
 #Type Classification of the Document
 type: Question
