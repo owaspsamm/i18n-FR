@@ -16,8 +16,8 @@ order: 1
 #Qualifying Criterion
 quality:
   - Vous avez défini les indicateurs clés de performance après avoir recueilli suffisamment d'informations pour établir des objectifs réalistes
-  - 
-  - 
-  - 
+  - Vous avez développé des KPI validés par la direction et les équipes responsables de la sécurité des applications
+  - Des KPI sont disponibles pour les équipes en charge des applications et incluent des seuils d'acceptabilité et des conseils dans le cas où les équipes auraient à prendre des mesures
+  - Le succès du programme de sécurité applicative est sans ambigüité selon les KPIs définis
 #Type Classification of the Document
 type: Question
