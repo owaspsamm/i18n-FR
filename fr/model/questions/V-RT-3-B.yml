@@ -15,8 +15,8 @@ text: Effectuez-vous des tests de déni de service et de mise sous tension de la
 order: 1
 #Qualifying Criterion
 quality:
-  - 
-  - 
+  - 'Les tests sous contraintes ciblent les ressources spécifiques de l''application (par ex : éviter l''épuisement de la quantité de mémoire en évitant d''utiliser de grandes quantités de données lors d''une session utilisateur)'
+  - Vous concevez des tests autour d'acteurs pertinents ayant des caractéristiques bien définies (connaissances, ressources)
   - Vous renvoyez les résultats vers les pratiques de conception
 #Type Classification of the Document
 type: Question
