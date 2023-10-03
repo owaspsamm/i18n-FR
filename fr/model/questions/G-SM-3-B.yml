@@ -16,6 +16,6 @@ order: 1
 #Qualifying Criterion
 quality:
   - Vous réexaminez les indicateurs clés de performance au moins une fois par an par rapport à leur efficacité et leur opérationnalité
-  - 
+  - Les indicateurs clés de performance et les métriques de sécurité applicative sont la cause de la plupart des changements de la stratégie de sécurité applicative
 #Type Classification of the Document
 type: Question
