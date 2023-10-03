@@ -13,5 +13,9 @@ id: d15bfcd426d24a43b9417a0464b3af44
 text: Avez-vous et appliquez-vous un ensemble commun de politiques et de normes à travers toute votre organisation?
 #Order of this question for the activity (in case there would be multiple)
 order: 1
+#Qualifying Criterion
+quality:
+  - Vous avez adapté les normes existantes appropriées à l’industrie de l’organisation pour tenir compte des considérations spécifiques à votre domaine
+  - Vos normes sont alignées sur vos politiques et intègrent des conseils spécifiques de mise en œuvre pour une technologie donnée
 #Type Classification of the Document
 type: Question
