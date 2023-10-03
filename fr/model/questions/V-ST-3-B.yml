@@ -13,5 +13,10 @@ id: b73bf8f0462340659e252e6471c6e831
 text: Utilisez-vous les résultats des tests de sécurité pour améliorer le cycle de vie de développement ?
 #Order of this question for the activity (in case there would be multiple)
 order: 1
+#Qualifying Criterion
+quality:
+  - Vous utilisez les résultats d'autres activités de sécurité pour améliorer les tests de sécurité intégrés pendant le développement
+  - Vous revoyez les résultats des tests et les incorporez dans les formations de sensibilisation à la sécurité et dans les manuels de tests de sécurité
+  - Les parties prenantes revoient les résultats de test et les traitent selon la gestion des risques de l'organisation
 #Type Classification of the Document
 type: Question
