@@ -15,8 +15,8 @@ text: Exigez-vous que les employés impliqués dans le développement d'applicat
 order: 1
 #Qualifying Criterion
 quality:
-  - 
-  - 
+  - Les formations sont répétables, cohérentes et disponibles pour toute personne impliquée dans le cycle de vie du développement logiciel
+  - Les formations comprennent le dernier Top 10 de l'OWASP s'il est pertinent et incluent des concepts tels que le moindre privilège, la défense en profondeur, la défaillance sécurisée, la médiation entière, la gestion des sessions, la conception ouverte et l'acceptabilité psychologique
   - La formation nécessite une signature ou un accusé de réception de la part des participants
   - Vous avez mis à jour la formation au cours des 12 derniers mois
   - La formation est obligatoire lors du processus d'intégration des employés
