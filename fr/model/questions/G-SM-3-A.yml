@@ -13,5 +13,11 @@ id: format@@0 74eaee0cbf454a46adeb2619850bbcb3
 text: Examinez-vous et mettez-vous à jour régulièrement le Plan Stratégique pour la sécurité applicative?
 #Order of this question for the activity (in case there would be multiple)
 order: 1
+#Qualifying Criterion
+quality:
+  - Vous revoyez et mettez à jour le plan en réponse à des changements significatifs dans l'environnement d'affaire, dans l'organisation ou dans son appétence envers le risque
+  - Les étapes de mise à jour du plan comprennent la revue du plan avec toutes les parties prenantes et la mise à jour des facteurs de motivation et de la stratégie de l'entreprise
+  - Vous ajustez le plan et la feuille de route en fonction des leçons tirées des activités terminées de la feuille de route
+  - Vous publiez des informations sur l'état d'avancement des activités de la feuille de route, en vous assurant qu'elles sont accessibles à toutes les parties prenantes
 #Type Classification of the Document
 type: Question
