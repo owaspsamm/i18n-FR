@@ -17,6 +17,6 @@ order: 1
 quality:
   - Vous avez des procédures (automatisées, si possible) pour générer régulièrement des rapports de conformité
   - Vous transmettez des rapports de conformité à toutes les parties prenantes concernées
-  - 
+  - Les parties prenantes utilisent les informations remontées sur l'état de conformité pour identifier les domaines à améliorer
 #Type Classification of the Document
 type: Question
