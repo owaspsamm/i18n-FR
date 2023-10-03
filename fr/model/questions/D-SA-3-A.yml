@@ -13,5 +13,10 @@ id: cb88049632b54a15b3d610c4d492e83e
 text: Basez-vous votre conception sur des architectures de référence disponibles?
 #Order of this question for the activity (in case there would be multiple)
 order: 1
+#Qualifying Criterion
+quality:
+  - Vous avez une ou plusieurs architectures de référence approuvées et documentées et qui sont à la disposition des parties prenantes
+  - Vous améliorez continuellement les architectures de référence en fonction des connaissances et des bonnes pratiques
+  - Vous fournissez un ensemble de composants, bibliothèques et outils pour implémenter chaque architecture de référence
 #Type Classification of the Document
 type: Question
