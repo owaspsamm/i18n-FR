@@ -15,9 +15,9 @@ text: Utilisez-vous un ensemble de métriques pour mesurer l'efficacité et l'ef
 order: 1
 #Qualifying Criterion
 quality:
-  - 
+  - Vous documentez chaque métrique avec notamment la description des sources, le périmètre de mesure et des conseils sur la façon de l'utiliser pour expliquer les tendances de la sécurité de l'application
   - Les métriques incluent les mesures des efforts, des résultats et des catégories de mesure de l'environnement
-  - 
+  - La plupart des métriques sont souvent mesurées, faciles ou peu coûteuses à rassembler et exprimées en nombre cardinal ou en pourcentage
   - Les équipes de sécurité des applications et de développement publient des métriques
 #Type Classification of the Document
 type: Question
