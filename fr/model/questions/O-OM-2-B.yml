@@ -13,5 +13,10 @@ id: f9c5a8649ddf4168b6f62d0018a32704
 text: Suivez-vous un processus établi pour la suppression de toutes les ressources associées, dans le cadre du démantèlement des systèmes, des applications, des dépendances des applications ou des services inutilisés?
 #Order of this question for the activity (in case there would be multiple)
 order: 1
+#Qualifying Criteria
+quality:
+  - Vous documentez les statuts de prise en charge de toutes les versions publiées de vos produits dans un endroit accessible
+  - Le processus comprend le remplacement ou la mise à jour des applications tierces ou des dépendances d'applications qui ont atteint leur fin de vie
+  - Les environnements d'exploitation ne contiennent pas de comptes, de règles de pare-feu ou autres artefacts de configuration inutiles
 #Type Classification of the Document
 type: Question
