@@ -15,7 +15,7 @@ text: Avez-vous une équipe de réponse à incident dédiée et disponible?
 order: 1
 #Qualifying Criteria
 quality:
-  - 
+  - L'équipe effectue des analyses pour identifier la cause racine pour tous les incidents de sécurité sauf s'il y a une raison spécifique de ne pas le faire
   - Vous réexaminez et mettez à jour le processus de réponse au moins une fois par an
 #Type Classification of the Document
 type: Question
