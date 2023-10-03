@@ -17,7 +17,7 @@ order: 1
 quality:
   - Les tests d'intrusion utilisent des cas de test de sécurité spécifiques à l'application pour évaluer la sécurité
   - Les tests de pénétration recherchent des problèmes à la fois techniques et logiques dans l'application
-  - 
+  - Les parties prenantes examinent les résultats de test et les traitent selon la gestion de risque de l'organisation
   - Le personnel qualifié effectue des tests de pénétration
 #Type Classification of the Document
 type: Question
