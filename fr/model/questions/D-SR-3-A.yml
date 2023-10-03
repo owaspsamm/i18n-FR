@@ -17,7 +17,7 @@ order: 1
 quality:
   - Un cadre d'exigences de sécurité est disponible pour les équipes de projet
   - Le cadre définit des catégories pour les exigences communes et les exigences basées sur des normes
-  - 
+  - Le cadre de référence donne des orientations claires sur la qualité des exigences et sur la façon de les décrire
   - Le cadre est adaptable aux exigences spécifiques de l'entreprise
 #Type Classification of the Document
 type: Question
