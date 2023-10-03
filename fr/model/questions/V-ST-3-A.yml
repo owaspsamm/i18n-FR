@@ -15,7 +15,7 @@ text: Intégrez-vous des tests de sécurité automatisés dans le processus de g
 order: 1
 #Qualifying Criterion
 quality:
-  - 
+  - Les parties prenantes du management et des affaires suivent et revoient les résultats des tests tout le long du cycle de développement
   - Vous fusionnez les résultats des tests dans un tableau de bord central et les transmettez à la gestion des défauts
 #Type Classification of the Document
 type: Question
