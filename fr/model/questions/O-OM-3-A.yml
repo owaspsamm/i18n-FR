@@ -13,5 +13,10 @@ id: 8176c4588bdd4e979e3c82566450696a
 text: Examinez-vous et mettez-vous à jour régulièrement le catalogue de données et vos politiques et procédures en matière de protection des données?
 #Order of this question for the activity (in case there would be multiple)
 order: 1
+#Qualifying Criteria
+quality:
+  - Vous avez une surveillance automatisée pour détecter les violations potentielles ou réelles de la politique de protection des données
+  - Vous avez des outils pour la prévention des pertes de données, le contrôle d'accès et la journalisation, ou la détection de comportements anormaux
+  - Vous contrôlez périodiquement le bon fonctionnement des mécanismes automatisés, y compris les sauvegardes et les suppressions d'enregistrements
 #Type Classification of the Document
 type: Question
