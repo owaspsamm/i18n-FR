@@ -13,5 +13,9 @@ id: 35413be30d9f415dbde45edbe3b17f31
 text: Testez-vous automatiquement les applications pour les régressions de sécurité ?
 #Order of this question for the activity (in case there would be multiple)
 order: 1
+#Qualifying Criterion
+quality:
+  - Vous écrivez systématiquement des tests pour tous les bogues identifiés (dépassant éventuellement un seuil de sévérité prédéfini)
+  - Vous rassemblez les tests de sécurité dans une suite de tests qui fait partie du cadre de référence des tests unitaires existants
 #Type Classification of the Document
 type: Question
