@@ -15,7 +15,7 @@ text: Testez-vous les applications quant au bon fonctionnement des contrôles de
 order: 1
 #Qualifying Criterion
 quality:
-  - 
+  - Les tests de sécurité vérifient au moins l'implémentation de l'authentification, du contrôle d'accès, de la validation des entrées, de l'encodage et de l'échappement des données et des contrôles de chiffrement
   - Les tests de sécurité s'exécutent chaque fois que l'application change son utilisation des contrôles
 #Type Classification of the Document
 type: Question
