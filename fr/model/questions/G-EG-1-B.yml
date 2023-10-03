@@ -16,7 +16,7 @@ order: 1
 #Qualifying Criterion
 quality:
   - Les Champions de Sécurité reçoivent une formation appropriée
-  - 
-  - 
+  - Les équipes de sécurité et de développement des applications reçoivent des informations périodiquement de la part des champions de sécurité sur l'état général des initiatives et des correctifs de sécurité
+  - Le Champion de la Sécurité revoie les résultats des tests effectués en externe avant de les ajouter au backlog de l'application
 #Type Classification of the Document
 type: Question
