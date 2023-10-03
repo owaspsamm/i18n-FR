@@ -13,5 +13,9 @@ id: 54aca12ea18e4073becbdd356cd3b3ef
 text: Publiez-vous les politiques de l'organisation sous forme de scripts de test ou de manuels d'exécution dans le but de faciliter leur interprétation par les équipes de développement?
 #Order of this question for the activity (in case there would be multiple)
 order: 1
+#Qualifying Criterion
+quality:
+  - Vous créez des listes de vérification et des scripts de test quand c'est pertinent, conformément aux exigences de la politique et aux directives d'implémentation des normes associées
+  - Vous créez des versions adaptées à chaque méthodologie de développement et à chaque technologie que l'organisation utilise
 #Type Classification of the Document
 type: Question
