@@ -16,6 +16,6 @@ order: 1
 #Qualifying Criterion
 quality:
   - Vous générez dynamiquement des entrées pour les tests de sécurité à l'aide d'outils automatisés
-  - 
+  - Vous choisissez des outils de test de sécurité adaptés à l'architecture de l'organisation et à la pile technologique, et trouvez un juste équilibre entre la profondeur et la précision de l'inspection d'une part et la facilité d'utilisation des résultats pour l'organisation d'autre part
 #Type Classification of the Document
 type: Question
