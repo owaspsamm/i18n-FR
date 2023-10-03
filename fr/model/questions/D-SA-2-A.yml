@@ -15,8 +15,8 @@ text: Utilisez-vous des services de sécurité partagés au cours de la concepti
 order: 1
 #Qualifying Criterion
 quality:
-  - 
+  - Vous avez une liste documentée de services de sécurité réutilisables, à la disposition des parties prenantes concernées
   - Vous avez vérifié la posture de sécurité de base pour chaque service sélectionné
-  - 
+  - Vos concepteurs sont formés à l'intégration de chaque service sélectionné selon les conseils disponibles
 #Type Classification of the Document
 type: Question
