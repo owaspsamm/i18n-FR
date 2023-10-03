@@ -13,5 +13,9 @@ id: 795e7ddd03f2443c851e34fc6e023d71
 text: Les parties prenantes examinent-elles les collaborations avec les fournisseurs en ce qui concerne les exigences de sécurité et la méthodologie?
 #Order of this question for the activity (in case there would be multiple)
 order: 1
+#Qualifying Criterion
+quality:
+  - Vous pensez à inclure des exigences spécifiques à la sécurité, aux activités et aux processus lors de la création de contrats avec vos fournisseurs
+  - Un questionnaire concernant les fournisseurs est disponible et est utilisé pour l'évaluation des forces et des faiblesses de vos fournisseurs
 #Type Classification of the Document
 type: Question
