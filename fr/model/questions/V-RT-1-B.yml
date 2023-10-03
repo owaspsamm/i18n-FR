@@ -16,6 +16,6 @@ order: 1
 #Qualifying Criterion
 quality:
   - Les tests couvrent la plupart ou l'ensemble des paramètres d'entrée de l'application
-  - 
+  - Vous enregistrez et inspectez tous les plantages de l'application dans le but d'évaluer l'impact sur la sécurité en fonction de vos capacités
 #Type Classification of the Document
 type: Question
