@@ -17,6 +17,6 @@ order: 1
 quality:
   - Vous mettez à jour la liste avec les composants et les versions
   - Vous identifiez et mettez à jour les mises à jour manquantes selon le SLA existant
-  - 
+  - Vous revoyez et mettez à jour le processus en fonction des commentaires des personnes qui déploient les correctifs
 #Type Classification of the Document
 type: Question
