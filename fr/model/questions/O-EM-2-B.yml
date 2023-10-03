@@ -16,7 +16,7 @@ order: 1
 #Qualifying Criteria
 quality:
   - Le processus inclut les informations du fournisseur pour les correctifs provenant de tiers
-  - 
+  - Le processus prend en compte les sources externes pour le recueil des informations sur les attaques zéro jour et comprend des étapes pertinentes pour l'atténuation des risques
   - Le processus comprend des conseils pour établir des priorités sur les mises à jour de composants
 #Type Classification of the Document
 type: Question
