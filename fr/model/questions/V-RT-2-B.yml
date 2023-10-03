@@ -16,7 +16,7 @@ order: 1
 #Qualifying Criterion
 quality:
   - Les fonctionnalités métiers importantes ont des cas d'abus correspondants
-  - 
+  - Vous construisez des cas d'abus de la sécurité autour d'acteurs types pertinents ayant des motivations et des caractéristiques bien définies
   - Vous capturez les faiblesses identifiées comme des exigences de sécurité
 #Type Classification of the Document
 type: Question
