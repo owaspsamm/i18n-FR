@@ -15,7 +15,7 @@ text: Existe-t-il un portail centralisé où les développeurs et les profession
 order: 1
 #Qualifying Criterion
 quality:
-  - L'organisation promeut l'utilisation d'un portail unique entre différentes équipes et unités d'affaires
+  - L'organisation promeut l'utilisation d'un portail unique entre différentes équipes et unités commerciales
   - Le portail est utilisé pour diffuser des informations en temps utile telles que la notification d'incidents de sécurité, les mises à jour d'outils, les changements de normes architecturales et autres annonces connexes
   - Le portail est largement reconnu par les développeurs et les architectes en tant que référentiel central des informations de sécurité des applications spécifiques à l'organisation
   - Tout le contenu est considéré comme étant persistant et interrogeable
