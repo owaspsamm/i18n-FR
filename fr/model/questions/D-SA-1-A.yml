@@ -4,7 +4,14 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: 27bb61f3c6344359b021caeaef5ab07e
+#One-sentence description of the criterium
+text: Les équipes utilisent-elles les principes de sécurité au cours de la conception ?
 #Order of this question for the activity (in case there would be multiple)
 order: 1
+#Qualifying Criterion
+quality:
+  - Vous avez une liste de contrôle validée des principes de sécurité
+  - Vous conservez votre liste de contrôle dans un endroit accessible
+  - Les parties prenantes concernées comprennent les principes de sécurité
 #Type Classification of the Document
 type: Question
