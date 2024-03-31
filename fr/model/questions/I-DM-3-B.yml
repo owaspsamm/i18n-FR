@@ -10,7 +10,7 @@ answerset: f77bd45a28c8493dbba6e53b2eafa20f
 #Please generate another identifier for your specific maturity level.
 id: 0247b5b573b843609fdff791a1cc7c1b
 #One-sentence description of the criterium
-text: Évaluez-vous régulièrement l'efficacité de vos métriques de sécurité afin qu'ils soient toujours pertinents pour contribuer à piloter votre stratégie de sécurité?
+text: Évaluez-vous régulièrement l'efficacité de vos métriques de sécurité afin qu'elles soient toujours pertinentes pour contribuer à piloter votre stratégie de sécurité?
 #Order of this question for the activity (in case there would be multiple)
 order: 1
 #Qualifying Criterion
@@ -18,6 +18,6 @@ quality:
   - Vous avez analysé l'efficacité des métriques de sécurité au moins une fois l'année dernière
   - Partout où cela est possible, vous vérifiez automatiquement la justesse des données
   - Les métriques sont agrégées avec d'autres sources comme le renseignement sur les menaces ou la gestion des incidents
-  - Vous avez dérivé au moins une activité stratégique à partir des métriques lors de la dernière année
+  - Vous avez tiré au moins une initiative stratégique des indicateurs au cours de l'année écoulée.
 #Type Classification of the Document
 type: Question
