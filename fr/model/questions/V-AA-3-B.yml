@@ -17,7 +17,7 @@ order: 1
 quality:
   - Vous évaluez vos architectures de manière standardisée et documentée
   - Vous utilisez les découvertes récurrentes pour déclencher une révision des architectures de référence
-  - Vous examinez de façon indépendante la qualité des revues d'architecture sur une base ad-hoc
-  - Vous utilisez les mises à jour des architectures de référence pour déclencher les revues des solutions partagées pertinentes de manière basée sur les risques
+  - Vous examinez de façon indépendante la qualité des revues d'architecture de manière ponctuelle
+  - Vous utilisez les mises à jour de l'architecture de référence pour déclencher des examens des solutions partagées pertinentes, en fonction des risques.
 #Type Classification of the Document
 type: Question
