@@ -15,7 +15,7 @@ text: Gardez-vous une vue d'ensemble de l'état des défauts de sécurité au se
 order: 1
 #Qualifying Criterion
 quality:
-  - Un système de gravité unique est appliqué à tous les défauts à travers l'organisation
+  - Un système de sévérité unique est appliqué à tous les défauts à travers l'organisation
   - Le schéma inclut les SLAs pour la correction de classes de sévérité particulières
   - Vous partagez régulièrement des données sur la conformité aux SLA
 #Type Classification of the Document
