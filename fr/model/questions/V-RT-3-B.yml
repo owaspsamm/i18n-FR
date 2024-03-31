@@ -17,6 +17,6 @@ order: 1
 quality:
   - 'Les tests sous contraintes ciblent les ressources spécifiques de l''application (par ex : éviter l''épuisement de la quantité de mémoire en évitant d''utiliser de grandes quantités de données lors d''une session utilisateur)'
   - Vous concevez des tests autour d'acteurs pertinents ayant des caractéristiques bien définies (connaissances, ressources)
-  - Vous renvoyez les résultats vers les pratiques de conception
+  - Vous ajoutez les résultats aux pratiques de conception
 #Type Classification of the Document
 type: Question
