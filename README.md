@@ -11,3 +11,5 @@ maturitylevel key in the practice levels is changed to maturityLevel
 D-SR-2-A.yml - moved "des journaux..." sentence to one row above 
 
 type property in the yaml files is reverted to the English name
+
+O-Incident-Management.yml shortName is changed to IM
