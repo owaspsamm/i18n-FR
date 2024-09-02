@@ -23,4 +23,4 @@ longDescription: |
 
   Souvent, il est plus efficace d'utiliser du temps de l'équipe du projet pour construire des cas de test spécifiques à une application et d'employer des ressources disponibles au public ou des bases de connaissances achetées à l'extérieur pour sélectionner les cas de tests généraux applicables à la sécurité. Le personnel compétent en matière de développement, de sécurité et d'assurance qualité examine les cas de test candidats pour leur applicabilité, leur efficacité et leur faisabilité. Etablissez les cas de test pendant la rédaction des exigences et / ou la phase de conception de la fonctionnalité. Tester les exigences de sécurité fait partie des tests fonctionnels du logiciel.
 #Type Classification of the Document
-type: Activité
+type: Activity

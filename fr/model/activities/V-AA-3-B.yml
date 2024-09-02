@@ -19,4 +19,4 @@ shortDescription: Mettre en place une boucle de rétroaction pour les résultats
 longDescription: |
   En tant qu'organisation, vous pouvez encore améliorer votre posture de sécurité logicielle en comprenant les menaces qui ne sont pas traitées dans les architectures logicielles et en adaptant vos tactiques pour éviter cela. Formalisez un processus pour utiliser les identifications de problèmes d'architecture récurrents comme déclencheur afin d'identifier les causes des lacunes dans l'évaluation de la sécurité et y faire face. Renvoyez les résultats vers la phase de conception en créant ou en mettant à jour les architectures de référence pertinentes, les solutions de sécurité existantes ou les principes et modèles de conception de l'organisation.
 #Type Classification of the Document
-type: Activité
+type: Activity

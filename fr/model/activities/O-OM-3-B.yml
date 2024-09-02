@@ -21,4 +21,4 @@ longDescription: |
 
   Établissez un plan de support produit fournissant des échéanciers clairs pour la fin de support des versions antérieures du produit. Limitez les versions de produits en cours d'utilisation à un petit nombre (par exemple, N.x.x et N-1 seulement). Établissez et diffusez des échéanciers pour la fin de support des versions antérieures, et engagez-vous de façon proactive avec les clients et les groupes d'utilisateurs afin d'éviter les perturbations de service ou de support.
 #Type Classification of the Document
-type: Activité
+type: Activity

@@ -21,4 +21,4 @@ longDescription: |
 
   Vérifiez plusieurs facteurs avec les équipes projet. Identifiez l'utilisation de technologies non-recommandées pour déterminer s'il y a des écarts entre les recommandations et les besoins de l'organisation. Examinez les modèles de conception et les modules des plateformes de référence non-utilisés ou mal utilisés pour déterminer si des mises à jour sont nécessaires. De plus, implémentez des fonctionnalités dans les platesformes de référence au fur et à mesure que l'organisation évolue et que les équipes projet le demandent.
 #Type Classification of the Document
-type: Activité
+type: Activity

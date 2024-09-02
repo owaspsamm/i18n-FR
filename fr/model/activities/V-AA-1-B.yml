@@ -21,4 +21,4 @@ longDescription: |
 
   Les menaces typiques dans une architecture peuvent être liées à des hypothèses incorrectes ou à une dépendance trop forte envers des mécanismes de sécurité tels que l'authentification, la gestion des autorisations, des utilisateurs et des droits, la communication sécurisée, la protection des données, la gestion des clés ou la gestion des journaux. A l'opposé, les menaces peuvent être liées à des limitations ou des problèmes connus dans des composants ou des environnements technologiques qui font partie de la solution et pour lesquels une atténuation insuffisante a été mise en place.
 #Type Classification of the Document
-type: Activité
+type: Activity

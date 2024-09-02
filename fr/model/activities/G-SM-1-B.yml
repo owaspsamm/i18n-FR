@@ -34,4 +34,4 @@ longDescription: |
 
   Documentez les métriques et incluez des descriptions des méthodes les meilleures et les plus efficaces pour collecter des données, aussi bien que les méthodes recommandées pour combiner des mesures données pour produire des métriques parlantes. Par exemple, le nombre d'applications et le nombre total de défauts dans l'ensemble des applications ne sont peut-être pas utiles en tant que tels mais, lorsqu'on les combine en tant que nombre de défauts impactants de niveau élevé par application, ils fournissent une métrique bien plus exploitable.
 #Type Classification of the Document
-type: Activité
+type: Activity

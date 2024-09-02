@@ -23,4 +23,4 @@ longDescription: |
 
   Pour les tests fonctionnels de sécurité, utilisez des tests de niveau unitaire pour les fonctionnalités de contrôle de sécurité au niveau des composants logiciels, comme les fonctions, les méthodes ou les classes. Par exemple, un cas de test pourrait vérifier la validation des entrées et des sorties (par ex., l'assainissement des variables) et vérifier les limites des variables en confirmant les fonctionnalités attendues du composant.
 #Type Classification of the Document
-type: Activité
+type: Activity

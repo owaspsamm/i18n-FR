@@ -10,4 +10,4 @@ number: 2
 #General description of this maturity level
 description: Le deuxième niveau de maturité vise à établir un processus cohérent et répétable sur lequel on peut compter.
 #Type Classification of the Document
-type: NiveauDeMaturité
+type: MaturityLevel

@@ -5,7 +5,7 @@
 #Link to the activity that this question helps measure
 activity: f692ee8f87c1499681490cc1647c0df4
 #This question uses Answer Set E
-answerset: d096060a4d864133afcbdd1397b95827
+answerSet: d096060a4d864133afcbdd1397b95827
 #Unique identifier (GUID) used to refer to this maturity level.
 #Please generate another identifier for your specific maturity level.
 id: 91bd2bdc1c734d8dbffc30e37158ab00

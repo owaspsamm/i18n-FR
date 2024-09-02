@@ -26,4 +26,4 @@ longDescription: |
 notes: |
   J'ai supprimé les références à des outils spécifiques et l'explication détaillée des tests de déni de service. Ceux-ci peuvent tous être ajoutés aux notes d'aide.
 #Type Classification of the Document
-type: Activité
+type: Activity

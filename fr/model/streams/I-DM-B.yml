@@ -15,4 +15,4 @@ description: Le suivi des défauts peut guider l'amélioration des activités de
 #Relative order of the stream within the security stream  (A=1 ; B=2)
 order: 2
 #Type Classification of the Document
-type: Flux
+type: Stream

@@ -23,4 +23,4 @@ longDescription: |
 
   En cas de notification d'une vulnérabilité critique dans un composant tandis qu'aucun correctif n'est encore disponible, orientez et traitez la situation comme un problème de gestion des risques (c.a.d. mettez en place des contrôles compensatoires, obtenez l'acceptation du risque de la part du client ou désactivez les applications / fonctionnalités affectées).
 #Type Classification of the Document
-type: Activité
+type: Activity

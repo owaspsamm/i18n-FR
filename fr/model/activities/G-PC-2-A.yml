@@ -23,4 +23,4 @@ longDescription: |
 
   Les scripts de test contribuent à renforcer les exigences de sécurité applicatifs par des attentes claires sur la fonctionnalité de l'application et à guider les efforts de test automatisés ou manuels qui peuvent déjà faire partie du processus de développement. Ces efforts n'aident pas seulement chaque équipe à déterminer l'état actuel du respect des politiques et des normes existantes, mais aussi à assurer la conformité au fur et à mesure que les applications continuent d'évoluer.
 #Type Classification of the Document
-type: Activité
+type: Activity

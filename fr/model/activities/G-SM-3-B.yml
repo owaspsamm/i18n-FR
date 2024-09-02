@@ -26,4 +26,4 @@ longDescription: |
 
   Lors de la définition de la stratégie globale concernant les métriques, gardez à l'esprit l'objectif final et définissez quelles décisions peuvent être prises à la suite de modifications des Indicateurs Clés de Performance et des métriques dès que possible, afin d'aider à guider le développement des métriques.
 #Type Classification of the Document
-type: Activité
+type: Activity

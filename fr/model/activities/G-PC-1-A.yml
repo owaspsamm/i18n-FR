@@ -23,4 +23,4 @@ longDescription: |
 
   Pour les normes, incorporez les exigences mises en avant par les politiques, et concentrez-vous sur des conseils de mise en œuvre spécifiques à des technologies destinées à tirer parti des fonctionnalités de sécurité des différents langages de programmation et des environnements associés. Les commentaires des développeurs et des architectes seniors considérés comme des experts dans les diverses technologies utilisées par l'organisation sont requis sur les normes. Créez-les dans un format qui permet des mises à jour périodiques. Labellisez les exigences individuelles avec la politique dont elle provient ou ce qui vient d'une tierce partie, afin de rendre la maintenance et les audits plus faciles et plus efficaces.
 #Type Classification of the Document
-type: Activité
+type: Activity

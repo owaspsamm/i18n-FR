@@ -21,4 +21,4 @@ longDescription: |
 
   L'abus de fonctionnalité, parfois appelé "attaque logique métier", est lié à la conception et la mise en œuvre des fonctionnalités de l'application. Un exemple est l'utilisation d'un canal de réinitialisation de mot de passe pour énumérer les comptes. Dans le cadre des tests de logique métier, identifiez les règles métier qui sont importantes pour l'application et faites des expérimentations afin de vérifier si l'application met en oeuvre correctement la règle métier. Par exemple, sur une application de transaction boursière, est-ce que l'attaquant est autorisé à démarrer une transaction au début de la journée et à verrouiller un prix, à maintenir la transaction ouverte jusqu'à la fin de la journée, puis accomplir la vente si le cours de l'action a augmenté ou l'annuler si le prix a baissé?
 #Type Classification of the Document
-type: Activité
+type: Activity

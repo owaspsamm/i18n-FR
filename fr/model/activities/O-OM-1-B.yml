@@ -21,4 +21,4 @@ longDescription: |
 
   Gérez la migration client / utilisateur à partir d'anciennes versions de vos produits pour chaque produit et chaque groupe de client / utilisateur. Lorsqu'une version du produit n'est plus utilisée par aucun groupe client / utilisateur, arrêtez le support pour cette version. Cependant, à ce niveau de maturité, il se peut que vous ayez un grand nombre de versions de produits en cours d'utilisation à travers toute la base de clients / utilisateurs, demandant des efforts significatifs aux développeurs pour garantir la compatibilité ascendante des correctifs de produits.
 #Type Classification of the Document
-type: Activité
+type: Activity

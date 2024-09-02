@@ -25,4 +25,4 @@ longDescription: |
 
   Stratégiquement, il est préférable de détecter de manière fiable un sous-ensemble limité de problèmes de sécurité via un outillage automatisé et d'étendre progressivement la couverture, plutôt que d'essayer de détecter immédiatement tous les problèmes connus. Une fois que les outils ont été suffisamment ajustés, ils peuvent être mis à la disposition de plus d'équipes de développement. Il est important de surveiller continuellement leur efficacité perçue au sein des équipes de développement. Dans des formes plus élaborées, des techniques d'apprentissage automatique peuvent être adoptées pour identifier et filtrer automatiquement les faux positifs probables à l'échelle.
 #Type Classification of the Document
-type: Activité
+type: Activity

@@ -23,4 +23,4 @@ longDescription: |
 
   Étant donné que de nombreuses normes de conformité sont axées sur les bonnes pratiques de sécurité, il est possible que de nombreuses exigences en matière de conformité fassent déjà partie de la bibliothèque de politique et de normes publiée par l'organisation. Par conséquent, une fois que vous avez examiné les exigences de conformité, mettez-les en correspondance avec les politiques et normes existantes applicables. Lorsqu’il y a des divergences, mettez à jour les politiques et les normes pour inclure les exigences de conformité à l’échelle de l’organisme. Puis seulement, commencez à créer des normes spécifiques de conformité qui ne s’appliquent qu’aux exigences individuelles de conformité. L'objectif est d'avoir une matrice de conformité qui indique quelles politiques et normes ont des informations plus détaillées sur les exigences de conformité. en plus de veiller à ce que les politiques et les normes individuelles fassent référence aux exigences de conformité applicables.
 #Type Classification of the Document
-type: Activité
+type: Activity

@@ -21,4 +21,4 @@ longDescription: |
 
   Les exigences incluent suffisamment d'informations pour que les développeurs comprennent les exigences fonctionnelles et non-fonctionnelles des différentes obligations de conformité. Elles contiennent des références aux politiques et aux normes et font explicitement référence à la réglementation. S'il reste des interrogations au sujet de la mise en œuvre d'une exigence particulière, le texte original du règlement peut aider à interpréter l'exigence de manière plus précise. Chaque exigence comprend un ensemble de scripts de test pour vérifier la conformité. En plus de permettre à l'Assurance Qualité de faciliter la vérification de la conformité, ils peuvent aider à clarifier les exigences de conformité pour les développeurs et à rendre le processus de conformité transparent. Les exigences ont un format qui permet de les importer dans les référentiels individuels d'exigences. Clarifiez davantage pour les développeurs les exigences de conformité et veillez à ce que le processus de conformité soit totalement transparent.
 #Type Classification of the Document
-type: Activité
+type: Activity

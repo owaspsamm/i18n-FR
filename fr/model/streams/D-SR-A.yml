@@ -15,4 +15,4 @@ description: Les exigences logicielles précisent les objectifs et les attentes 
 #Relative order of the stream within the security stream  (A=1 ; B=2)
 order: 1
 #Type Classification of the Document
-type: Flux
+type: Stream

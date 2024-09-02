@@ -21,4 +21,4 @@ longDescription: |
 
   Mettez en place des contrôles de base pour empêcher la propagation de données sensibles non assainies depuis les environnements de production vers des environnements de plus bas niveau. En veillant à ce que les données de production non assainies ne soient jamais propagées vers des environnements de plus bas niveau (non-production), vous pouvez concentrer les politiques et les activités de protection des données sur la production.
 #Type Classification of the Document
-type: Activité
+type: Activity

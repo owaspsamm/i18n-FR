@@ -21,4 +21,4 @@ longDescription: |
 
   Ensuite, utilisez un schéma pour classer les applications en fonction de ce risque. Un schéma simple et qualitatif (par exemple haut / moyen / bas) qui traduit ces caractéristiques en une valeur est souvent efficace. Il est important d'utiliser ces valeurs pour représenter et comparer le risque de différentes applications les unes par rapport aux autres. Les organisations matures utilisant fortement l'approche par les risques pourraient utiliser davantage de systèmes de risque quantitatifs. N’inventez pas un nouveau système de risque si votre organisation en a déjà un qui fonctionne bien.
 #Type Classification of the Document
-type: Activité
+type: Activity

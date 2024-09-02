@@ -23,4 +23,4 @@ longDescription: |
 
   Sur la base de votre politique de protection des données, établissez des processus et des procédures pour la protection et la conservation des données tout au long de leur cycle de vie, que ce soit au repos, en cours de traitement, ou en transit. Portez une attention particulière à la manipulation et à la protection des données sensibles en dehors du système de traitement actif, incluant, mais sans s'y limiter, le stockage, la rétention et la destruction des sauvegardes, et l'étiquetage, le chiffrement et la protection physique des supports de stockage hors ligne. Vos processus et procédures couvrent la mise en œuvre de tous les contrôles adoptés pour se conformer à la réglementation, aux restrictions contractuelles ou autres sur les lieux de stockage, l'accès de la part du personnel et autres facteurs.
 #Type Classification of the Document
-type: Activité
+type: Activity

@@ -23,4 +23,4 @@ longDescription: |
 
   Vous automatisez des parties de votre processus de modélisation des menaces avec des outils de modélisation des menaces. Vous intégrez vos outils de modélisation des menaces avec d'autres outils de sécurité, tels que les outils de vérification de la sécurité et les outils de suivi des risques. Vous étudiez la pratique de "modélisation des menaces en tant que code" pour intégrer des artefacts de modélisation des menaces au code de l'application.
 #Type Classification of the Document
-type: Activité
+type: Activity

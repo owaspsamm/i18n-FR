@@ -25,4 +25,4 @@ longDescription: |
 
   Avant la livraison ou le déploiement à grande échelle, les parties prenantes parcourent les résultats des tests de sécurité et acceptent les risques indiqués par des tests de sécurité négatifs au moment de la livraison. Établissez un calendrier concret pour corriger les écarts au fil du temps. Répandez la connaissance associée aux tests de sécurité manuels et aux résultats au sein de l'équipe de développement afin d'améliorer les connaissances et la sensibilisation en matière de sécurité au sein de l'organisation.
 #Type Classification of the Document
-type: Activité
+type: Activity
