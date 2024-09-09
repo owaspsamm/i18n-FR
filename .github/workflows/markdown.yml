@@ -1,0 +1,20 @@
+name: Generate markdown
+
+on:
+  workflow_dispatch:
+    inputs:
+      branch:
+        description: 'Enter branch to use YAML files from'
+        required: true
+        type: string
+      model_folder:
+        description: 'Enter folder to use YAML files from'
+        required: true
+        type: string
+jobs:
+  call-workflow-1-in-local-repo:
+    uses: owaspsamm/core/.github/workflows/reusable-yaml-process.yml@438ef84c34d08befb5cd413a3344d1e6e1f75e9e
+    with:
+      language: fr
+      branch: ${{inputs.branch}}
+      model_folder: ${{inputs.model_folder}}
