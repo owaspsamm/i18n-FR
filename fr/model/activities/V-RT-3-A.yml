@@ -1,0 +1,26 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: efb5d1f275504173899da345ef5bbe8e
+#Link to the practice level that this activity belongs to
+level: 812abdd0a2b54366a497919f8463911a
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 7003146cf1a1450293001754fe74787d
+#The title of this activity
+title: Automatiser le test des exigences de sécurité
+#Describe the benefit that is achieved by implementing this activity
+benefit: Détection rapide et fiable des violations des exigences de sécurité
+#A one sentence description of the activity
+shortDescription: Effectuer des tests de régression (avec des tests unitaires de sécurité)
+#A multi-paragraph description of the activity
+longDescription: |
+  Écrivez et automatisez les tests de régression pour tous les bogues identifiés (et corrigés) afin de vous assurer que ceux-ci forment un harnais de tests empêchant des problèmes similaires d'être introduits dans les versions ultérieures. Les tests unitaires de sécurité devraient vérifier dynamiquement (à savoir au moment de l'exécution) que les composants fonctionnent comme prévu et devraient valider que les changements de code sont correctement implémentés.
+
+  Une bonne pratique pour les développeurs est de construire des cas de tests de sécurité sous la forme d'une suite de tests de sécurité génériques faisant partie de l'environnement de tests unitaires existant. Une suite de tests de sécurité génériques peut inclure des cas de tests de sécurité pour valider les exigences à la fois positives et négatives pour les contrôles de sécurité tels que l'Identification, l'Authentification & le Contrôle d'accès, la Validation et l'Encodage des entrées, la Gestion des utilisateurs et des sessions, la Gestion des erreurs et des exceptions, le Chiffrement et l'Audit et la Journalisation. Vérifiez la bonne exécution des tests de sécurité aussi tôt que possible. Si possible par exemple, envisagez d'exécuter les tests de sécurité dans le cadre des exigences d'intégration avant de permettre à du nouveau code d'entrer dans la base de code principale. Sinon, envisagez leur exécution comme condition à la validation d"une génération.
+
+  Pour les tests fonctionnels de sécurité, utilisez des tests de niveau unitaire pour les fonctionnalités de contrôle de sécurité au niveau des composants logiciels, comme les fonctions, les méthodes ou les classes. Par exemple, un cas de test pourrait vérifier la validation des entrées et des sorties (par ex., l'assainissement des variables) et vérifier les limites des variables en confirmant les fonctionnalités attendues du composant.
+#Type Classification of the Document
+type: Activity

@@ -1,0 +1,46 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 9a5f26d77f204467bdda7ffa09109d73
+#Link to the practice level that this activity belongs to
+level: 5015427608de428cba3c324772fb4191
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 77a5f467ffe140e2a2839bb522e82c4e
+#The title of this activity
+title: Protéger les secrets de l'application dans la configuration et le code
+#Describe the benefit that is achieved by implementing this activity
+benefit: Accès limité et défini à vos secrets de production
+#A one sentence description of the activity
+shortDescription: Introduire des mesures de protection de base pour limiter l'accès à vos secrets de production.
+#A multi-paragraph description of the activity
+longDescription: |
+  Les développeurs ne devraient pas avoir accès aux secrets ou aux informations d'identification des environnements de production. Ayez un mécanisme en place pour protéger adéquatement les secrets de production, par exemple (i) en ayant des personnes spécifiques qui les ajoutent aux fichiers de configuration pertinents au moment du déploiement (le principe de séparation du devoir) ou (ii) en chiffrant les secrets de production contenus dans les fichiers de configuration.
+
+  N'utilisez pas de secrets de production dans les fichiers de configuration pour les environnements de développement ou de test, car il se peut que ces environnements aient une posture de sécurité nettement plus faible. De même, ne gardez pas les secrets non protégés dans des fichiers de configuration stockés dans des dépôts de code.
+
+  Stockez les identifiants sensibles et les secrets pour les systèmes de production sous forme chiffrée tout le temps. Envisagez d'utiliser un outil spécifiquement conçu pour cela. Gérez soigneusement la gestion des clés de sorte que seul le personnel responsable des déploiements en production soit en mesure d’accéder à ces données.
+#The output of this particular activity
+results:
+  - résultat1
+  - résultat2
+#The different metrics that can be used to measure the success of the activity
+metrics:
+  - métrique1
+  - métrique2
+#A description of the costs required to implement the activity
+costs: SCT.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Développeur
+  - Administrateur
+  - Ingénieur en sécurité
+#Internal notes that might help the author
+notes: Aucun
+#References to other activities that are prerequesites to implement this one.
+relatedActivites:
+  - 994bcac2bb7c4cc59a0faa365a0b58a0
+#Type Classification of the Document
+type: Activity

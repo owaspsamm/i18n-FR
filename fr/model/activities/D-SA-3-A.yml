@@ -1,0 +1,26 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 253b012094cf4e0988e08fd22609227d
+#Link to the practice level that this activity belongs to
+level: 9d1e469966124c0fa80d1bc2fc223a0a
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: aa962032982a4d53bd34cd8771558df1
+#The title of this activity
+title: Construire des architectures de référence
+#Describe the benefit that is achieved by implementing this activity
+benefit: Transparence totale de la qualité et de l'utilisabilité des solutions de sécurité tierces centralisées
+#A one sentence description of the activity
+shortDescription: Les architectures de référence sont utilisées et évaluées continuellement en vue de leur adoption et par rapport à leur pertinence.
+#A multi-paragraph description of the activity
+longDescription: |
+  Construisez un ensemble d'architectures de référence qui sélectionne et combine un ensemble de composants de sécurité validés afin de garantir une conception appropriée de la sécurité. Les plateformes de référence ont l'avantage de raccourcir les audits et les revues de sécurité, d'améliorer l'efficacité lors du développement et de diminuer la charge de maintenance. Maintenez et améliorez continuellement l'architecture de référence en fonction des retours au sein de l'organisation et de la communauté. Faites participer les architectes, les développeurs seniors et tout autre intervenant technique à la conception et à la création des plateformes de référence. Après la phase de création, les équipes doivent continuer à fournir du support et des mises à jour.
+
+  Les architectures de référence peuvent se matérialiser sous la forme d'un ensemble de librairies logicielles et d'outils avec lesquels les équipes projet construisent les logiciels. Ils sont le point de départ pour la standardisation d'une approche par la configuration sécurisée et la sécurité par défaut. Il est possible d'amorcer la construction de l'environnement en sélectionnant un projet donné tôt dans le cycle de vie et d'impliquer une équipe compétente en sécurité en renfort pour construire la fonctionnalité de sécurité de façon générique pour qu'il soit possible de l'extraire ultérieurement du projet et de l'utiliser ailleurs dans l'organisation. 
+
+  Suivez continuellement les faiblesses ou les écarts dans l'ensemble de solutions de sécurité disponibles au sein de l'organisation lors des discussions concernant l'architecture, le développement ou l'exploitation. Ceci constitue un entrant pour l'amélioration de la pertinence et de l'efficacité des architectures de référence en place.
+#Type Classification of the Document
+type: Activity

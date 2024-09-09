@@ -1,0 +1,49 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 2f7b501627954c6cb03342196b2065a7
+#Link to the practice level that this activity belongs to
+level: 02e602c451d548e8a95433a46fe6b9d8
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: d09a731835304ea8aeb4c21565e45c4b
+#The title of this activity
+title: Tester les dépendances de l'application
+#Describe the benefit that is achieved by implementing this activity
+benefit: Gestion des problèmes de sécurité dans les dépendances comparable à celles de votre propre code
+#A one sentence description of the activity
+shortDescription: Analyser les dépendances utilisées quant aux problèmes de sécurité d'une manière comparable à votre propre code.
+#A multi-paragraph description of the activity
+longDescription: |
+  Maintenez une liste blanche des dépendances approuvées et de leurs versions et assurez-vous que le processus de génération échoue lorsqu'il détecte la présence de dépendances ne se trouvant pas dans la liste. Incluez un processus de validation par signature pour gérer les exceptions à cette règle si besoin.
+
+  Effectuez les activités de vérification de sécurité envers les dépendances de la liste blanche d'une manière comparable à celle faite sur les applications cibles elles-mêmes (par ex. en utilisant le SAST et en analysant les dépendances transitoires). Assurez-vous que ces vérifications visent également à identifier les portes dérobées ou les oeufs de Pâques éventuellement présents dans les dépendances. Établissez des processus de divulgation de vulnérabilités avec les auteurs des dépendances, y compris des CNS pour corriger les problèmes. Dans le cas où la mise en place de CNS serait impossible (par ex. pour les dépendances en source ouverte), assurez-vous que les cas les plus probables sont gérables et que vous êtes en mesure de mettre en œuvre des mesures compensatoires en temps opportun. Implémentez des tests de régression pour les corrections des problèmes identifiés.
+
+  Suivez tous les problèmes identifiés et leur état à l'aide de votre système de suivi des défauts. Intégrez votre chaîne de génération avec ce système pour entraîner l'échec de la génération chaque fois que les dépendances incluses contiennent des problèmes au-dessus d'un niveau de criticité défini.
+#The output of this particular activity
+results:
+  - résultat1
+  - résultat2
+#The different metrics that can be used to measure the success of the activity
+metrics:
+  - métrique1
+  - métrique2
+#A description of the costs required to implement the activity
+costs: SCT.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Ingénieur en sécurité
+  - Architecte
+  - Développeur
+#Internal notes that might help the author
+notes: Aucun
+#References to other activities that are prerequesites to implement this one.
+relatedActivities:
+  - 2bf0e192a9044b8a2f38c33256e80a
+  - 15d73a64818c43019504c8d938ca2434
+  - fb6f258a2e424ee9a919341758222a7a
+  - 346ed576f0a94147ba2b8148abc3c73a
+#Type Classification of the Document
+type: Activity

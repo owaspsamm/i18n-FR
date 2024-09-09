@@ -1,0 +1,30 @@
+---
+#===========================================================
+#OWASP SAMM2 Security Practice template/sample
+#===========================================================
+#Link to the function, using its unique identifier
+function: 8aa8154b83434e73b3ca8c0e9b654417
+#Unique identifier (GUID) used to refer to this practice.
+#Please generate another identifier for your specific practice.
+id: e17d573510904f65a1fe6040b56ad0b1
+#Official name of this practice
+name: Gestion des Défauts
+#Abbreviation of this practice
+shortName: GD
+#A one sentence description of the security practice
+shortDescription: Cette pratique se concentre sur la gestion des défauts de sécurité dans les logiciels et les métriques associées.
+#A multi-paragraph description of the security practice
+longDescription: |
+  La pratique de la Gestion des Défauts (GD) se concentre sur la collecte, l'enregistrement et l'analyse des défauts de sécurité des logiciels et leur enrichissement en informations afin de pouvoir prendre des décisions basées sur des métriques.
+
+  Le premier flux de la pratique traite du processus de manipulation et de gestion des défauts dans le but de s'assurer que le logiciel livré a un niveau d'assurance donné. Le deuxième volet vise à enrichir les informations sur les défauts et à en dériver des indicateurs afin d'éclairer les décisions sur la sécurité des projets individuels et du programme d'assurance de la sécurité dans l'ensemble.
+
+  Dans une forme sophistiquée, la pratique exige une gestion des défauts formalisée et indépendante et des informations en temps réel et corrélées pour détecter les tendances et influencer la stratégie de sécurité.
+#The relative order of this practice in the business function
+order: 3
+#Who's the "owner" of this practice
+assignee: Daniel Kefer
+#Indication of progress to keep track of overall status
+progress: 50
+#Type Classification of the Document
+type: Practice

@@ -1,0 +1,23 @@
+---
+#===========================================================
+#OWASP SAMM2 Coverage Question template/sample
+#===========================================================
+#Link to the activity that this question helps measure
+activity: ef0b56870b734b13868697017a9b605e
+#Link to the answer set that contains the potential answers for this question
+answerSet: f678b7a00f2441148087d48f8e0a6ad1
+#Unique identifier (GUID) used to refer to this maturity level.
+#Please generate another identifier for your specific maturity level.
+id: 64f49a28334e4a40a04e534225a941d2
+#One-sentence description of the criterium
+text: Avez-vous une bonne compréhension de l'appétit de risque pour vos applications à travers l'entreprise?
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - Vous capturez l'appétit envers le risque des dirigeants de votre organisation
+  - Les dirigeants de l'organisation valident et approuvent l'ensemble des risques
+  - Vous identifiez les principales menaces métier et techniques pour vos actifs et vos données
+  - Vous documentez les risques et les stockez dans un endroit accessible
+#Type Classification of the Document
+type: Question

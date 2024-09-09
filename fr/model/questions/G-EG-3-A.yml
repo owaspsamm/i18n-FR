@@ -1,0 +1,22 @@
+---
+#===========================================================
+#OWASP SAMM2 Coverage Question template/sample
+#===========================================================
+#Link to the activity that this question helps measure
+activity: a061ed8a5b1c4899bc95d9b1a10a469d
+#Link to the answer set that contains the potential answers for this question
+answerSet: f96770095fab4afbb27949c2242e47c2
+#Unique identifier (GUID) used to refer to this maturity level.
+#Please generate another identifier for your specific maturity level.
+id: c7147e96d99849a994e63d5732c26220
+#One-sentence description of the criterium
+text: Avez-vous mis en place un système de gestion de l'apprentissage ou équivalent pour suivre les processus de formation et de certification des employés?
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - Un système de gestion de l'apprentissage (LMS) est utilisé pour suivre les formations et les certifications
+  - La formation est basée sur des normes, des politiques et des procédures internes
+  - Vous utilisez des programmes de certification ou des preuves de présence pour donner accès aux systèmes de développement et aux ressources
+#Type Classification of the Document
+type: Question

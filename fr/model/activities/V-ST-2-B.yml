@@ -1,0 +1,28 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 8a64c7b0b35a458ea436260d5e414dfa
+#Link to the practice level that this activity belongs to
+level: 6291462e1894467d807b913ef7da4beb
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 346ed576f0a94147ba2b8148abc3c73a
+#The title of this activity
+title: Établir un processus de test de pénétration
+#Describe the benefit that is achieved by implementing this activity
+benefit: Compréhension de la résilience de l'application avec une perspective boîte noire
+#A one sentence description of the activity
+shortDescription: Effectuer un test de pénétration manuel
+#A multi-paragraph description of the activity
+longDescription: |
+  En utilisant l'ensemble des cas de tests de sécurité identifiés pour chaque projet, effectuez des tests de pénétration manuels pour évaluer la performance du système dans chaque cas. Généralement, cela survient pendant la phase de test avant la livraison et inclut des tests de pénétration manuels statiques et dynamiques. Dans les cas où le logiciel ne peut pas être testé de manière réaliste en dehors de la production, l'utilisation de techniques telles que les déploiements bleu-vert ou les tests A/B peuvent permettre de rendre les tests de sécurité en production plus sûrs.
+
+  Les cas de test de pénétration comprennent à la fois des tests spécifiques à l'application pour vérifier la robustesse de la logique métier et des tests de vulnérabilité courants pour vérifier la conception et l'implémentation. Une fois spécifiés, le personnel en charge de l'assurance qualité de la sécurité ou du développement peut exécuter les tests de sécurité. Le groupe central de sécurité logicielle supervise la première exécution des cas de tests de sécurité pour le bénéfice d'une équipe projet et apporte son aide au besoin et accompagne les champions de sécurité de l'équipe.
+
+  De nombreuses organisations proposent des programmes de chasse aux bogues ("Bug Bounty") qui invitent les chercheurs en sécurité à trouver des vulnérabilités dans les applications et à les signaler de manière responsable en échange de primes. Cette approche permet aux organisations d’avoir accès à un plus grand ensemble de talents, en particulier à celles qui ne disposent pas de capacités internes suffisantes ou qui ont besoin d’une assurance supplémentaire.
+
+  Avant la livraison ou le déploiement à grande échelle, les parties prenantes parcourent les résultats des tests de sécurité et acceptent les risques indiqués par des tests de sécurité négatifs au moment de la livraison. Établissez un calendrier concret pour corriger les écarts au fil du temps. Répandez la connaissance associée aux tests de sécurité manuels et aux résultats au sein de l'équipe de développement afin d'améliorer les connaissances et la sensibilisation en matière de sécurité au sein de l'organisation.
+#Type Classification of the Document
+type: Activity

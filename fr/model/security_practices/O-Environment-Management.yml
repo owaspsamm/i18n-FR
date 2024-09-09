@@ -1,0 +1,30 @@
+---
+#===========================================================
+#OWASP SAMM2 Security Practice - Environment Management
+#===========================================================
+#Link to the model, using its unique identifier
+function: 942d679b0c9e41909f8bde728fdb1259
+#Unique identifier (GUID) used to refer to this practice.
+#Please generate another identifier for your specific practice.
+id: 53a9cd5c2d3643f3b71e4e9d92b811e2
+#Official name of this practice
+name: Gestion de l'environnement
+#Abbreviation of this practice
+shortName: GE
+#A one sentence description of the security practice
+shortDescription: Cette pratique décrit les activités proactives menées pour améliorer et maintenir la sécurité des environnements dans lesquels les applications de l'organisation s'exécutent.
+#A multi-paragraph description of the security practice
+longDescription: |
+  Le travail de l'organisation sur la sécurité des applications ne se termine pas une fois que l'application est opérationnelle. De nouvelles fonctionnalités de sécurité et de nouveaux correctifs sont régulièrement publiés pour les différents éléments de la pile technologique que vous utilisez, jusqu'à ce qu'ils deviennent obsolètes ou ne soient plus maintenus.
+
+  La plupart des technologies de n'importe quelle pile applicative ne sont pas sécurisées par défaut. Ceci est souvent intentionnel, pour améliorer la compatibilité ascendante ou la facilité d'installation. Pour cette raison, assurer le fonctionnement sécurisé de la pile technologique de l'organisation nécessite la mise en oeuvre cohérente de configurations sécurisées de base à tous les composants. La pratique de la Gestion de l'Environnement (GE) met l'accent sur la sécurité et la transparence de votre environnement.
+
+  Des vulnérabilités sont découvertes tout au long de la durée de vie des technologies que votre organisation utilise et de nouvelles versions qui les corrigent sont publiées à des moments divers. Il est donc essentiel de surveiller les rapports de vulnérabilité et de procéder à des correctifs de façon ordonnée et rapide pour tous les systèmes concernés.
+#The relative order of this practice in the business function
+order: 2
+#Who's the "owner" of this practice
+assignee: John DiLeo
+#Indication of progress to keep track of overall status
+progress: 80
+#Type Classification of the Document
+type: Practice

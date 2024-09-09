@@ -1,0 +1,54 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 2f7b501627954c6cb03342196b2065a7
+#Link to the practice level that this activity belongs to
+level: 46f16450b23d4c29a5cf19b056c2636e
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 857a43e335ba467598eca99d48ea0076
+#The title of this activity
+title: Examiner les dépendances de l'application quant à la sécurité
+#Describe the benefit that is achieved by implementing this activity
+benefit: Transparence totale des problèmes de sécurité connus dans les dépendances
+#A one sentence description of the activity
+shortDescription: Évaluer les dépendances utilisées et s'assurer d'une réaction rapide aux situations présentant un risque pour vos applications.
+#A multi-paragraph description of the activity
+longDescription: |
+  Évaluez les dépendances utilisées et établissez une liste des dépendances acceptables approuvées pour utilisation dans un projet, par une équipe ou l'organisation au sens large selon un ensemble de critères définis.
+
+  Introduisez un référentiel central concernant les dépendances à partir duquel tout logiciel peut être construit.
+
+  Revoyez régulièrement les dépendances utilisées pour vous assurer que :
+
+  * elles restent correctement sous licence,
+  * aucune vulnérabilité connue et significative impactant vos applications sont présentes,
+  * la dépendance est toujours activement prise en charge et maintenue,
+  * vous utilisez une version à jour,
+  * il y a une raison valable d'inclure la dépendance.
+
+  Réagissez rapidement et de manière appropriée aux non-conformités en les traitant comme des défauts. Envisagez d'utiliser un outil automatisé pour rechercher les dépendances vulnérables et d'affecter les problèmes identifiés aux équipes de développement concernées.
+#The output of this particular activity
+results:
+  - résultat1
+  - résultat2
+#The different metrics that can be used to measure the success of the activity
+metrics:
+  - métrique1
+  - métrique2
+#A description of the costs required to implement the activity
+costs: SCT.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Architecte
+  - Développeur
+  - Ingénieur en sécurité
+#Internal notes that might help the author
+notes: Aucun
+#References to other activities that are prerequesites to implement this one.
+relatedActivites:
+  - 93dff7be5f954f8d87d24f4261002508
+#Type Classification of the Document
+type: Activity

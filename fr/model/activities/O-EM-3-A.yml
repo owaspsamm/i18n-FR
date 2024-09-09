@@ -1,0 +1,34 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description - Configuration Hardening, Level 3
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 47bff9a57f0344eeb4b083f1c2b1bb7e
+#Link to the practice level that this activity belongs to
+level: 1cb6e197ca8245eca65b0ecbdd784720
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 3156ab7b516e4550893427face9f86bc
+#The title of this activity
+title: Effectuer une surveillance continue des configurations
+#Describe the benefit that is achieved by implementing this activity
+benefit: Transparence sur les configurations des composants pour éviter les non-conformités
+#A one sentence description of the activity
+shortDescription: Surveiller activement les configurations pour détecter les non-conformités aux exigences minimales, et gérer toute déviation comme un défaut de sécurité.
+#A multi-paragraph description of the activity
+longDescription: |
+  Surveillez activement les configurations de sécurité des piles de technologies déployées en effectuant des vérifications régulières par rapport aux niveaux de référence établis. Assurez-vous que les résultats des vérifications de configuration sont facilement disponibles par le biais de publications et de tableaux de bord.
+
+  Lorsque vous détectez des configurations non conformes, traitez chaque occurrence comme une trouvaille liée à la sécurité et gérez les actions correctives au sein de votre pratique en place de gestion des défauts.
+
+  D'autres améliorations peuvent être réalisées à l'aide de mesures automatisées, telles que des configurations d'"auto-guérison" et des alertes d'information sur la sécurité et la gestion d'événements (SIEM).
+
+  Dans le cadre du processus de mise à jour des composants (par ex. les nouvelles versions, les correctifs venant du fournisseur), révisez les lignes de référence et les guides de configuration correspondants, mettez-les à jour si nécessaire pour maintenir leur pertinence et leur exactitude. Réexaminez les autres lignes de référence et guides de configuration au moins une fois par an.
+
+  Réexaminez périodiquement votre processus de gestion des lignes de référence, en incorporant les retours et les leçons tirées des équipes qui appliquent et maintiennent les lignes de référence de configuration et les guides de configuration.
+#References to other activities that are related to this one
+relatedActivities:
+  - 93dff7be5f954f8d87d24f4261002508
+  - 2bf0e192a9044b8a2f38c33256e80a
+#Type Classification of the Document
+type: Activity

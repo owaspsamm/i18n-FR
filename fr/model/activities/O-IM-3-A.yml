@@ -1,0 +1,32 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description - Incident Detection, Level 3
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: ff8a6a08dc684f38ab74b9db9584f0a5
+#Link to the practice level that this activity belongs to
+level: 6fe1973911bf4e54b018da10a5aa80a1
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 11dd0c95f8914b6cb850a27f0557a9dd
+#The title of this activity
+title: Améliorer le processus de détection d'incident
+#Describe the benefit that is achieved by implementing this activity
+benefit: Capacité à détecter rapidement les incidents de sécurité
+#A one sentence description of the activity
+shortDescription: Utiliser un processus géré de façon proactive pour la détection des incidents.
+#A multi-paragraph description of the activity
+longDescription: |
+  Assurez-vous que la documentation du processus inclut des mesures pour l'amélioration continue du processus. Vérifiez la continuité de l'amélioration du processus (par exemple, via le suivi des changements).
+
+  Assurez-vous que la liste de contrôle pour la détection d'événements suspects est corrélée au moins (i) à des sources et bases de connaissances externes à la société (par ex., les annonces nouvelles de vulnérabilités affectant les technologies utilisées), (ii) aux incidents de sécurité passés et (iii) aux résultats du modèle de menaces.
+
+  Utilisez la corrélation des logs pour la détection d'incidents pour tous les scénarios d'incidents raisonnables. Si les données de log pour la détection d'incident ne sont pas disponibles, documentez son absence en tant que défaut, priorisez-le et gérez-le selon votre processus de gestion des défauts en place.
+
+  La qualité de la détection d'incident ne dépend pas de l'heure ou du jour de l'événement. Si les événements de sécurité ne sont pas pris en compte et résolus dans un laps de temps déterminé (par ex. 20 minutes), assurez-vous que d'autres notifications sont générées selon un processus d'escalade établi.
+#References to other activities that are related to this one
+relatedActivities:
+  - 93dff7be5f954f8d87d24f4261002508
+  - 2bf0e192a9044b8a2f38c33256e80a
+#Type Classification of the Document
+type: Activity

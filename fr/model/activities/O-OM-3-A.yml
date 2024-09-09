@@ -1,0 +1,28 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description - Data Protection, Level 3
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 9c6bf45a97ae4149a44c4a5d97ea6a40
+#Link to the practice level that this activity belongs to
+level: 2a059c7d07c34b9897e49e6295501608
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: cd80066899014962a37af7ab34c83003
+#The title of this activity
+title: Répondre aux violations de données
+#Describe the benefit that is achieved by implementing this activity
+benefit: Conformité par la technique de votre politique de protection des données
+#A one sentence description of the activity
+shortDescription: Automatiser la détection des non-conformités aux politiques et vérifier la conformité périodiquement. Réviser et mettre à jour régulièrement le catalogue de données et la politique de protection des données.
+#A multi-paragraph description of the activity
+longDescription: |
+  Les activités à ce niveau de maturité sont axées sur l'automatisation de la protection des données, ce qui réduit votre dépendance à l'égard des efforts humains pour l'évaluation et la gestion de la conformité aux politiques. L’accent est mis sur les mécanismes de retours d'expérience et les examens proactifs, afin d’identifier et d’agir sur les possibilités d’amélioration des processus.
+
+  Mettez en œuvre des contrôles techniques pour rendre le respect de votre politique de protection des données obligatoire et rendez opérationnel un suivi automatique pour détecter les infractions potentielles ou avérées. Vous pouvez utiliser une palette d'outils disponibles concernant la prévention des pertes de données, le contrôle d'accès et le suivi, ou la détection de comportements anormaux.
+
+  Vérifiez régulièrement la conformité aux contrôles administratifs en vigueur et surveillez de près les performances et le fonctionnement opérationnel des mécanismes automatisés, y compris les sauvegardes et les suppressions d'enregistrements. Surveiller les outils permet de détecter et de signaler rapidement les pannes de l'automatisation, ce qui permet de prendre des mesures correctives efficacement.
+
+  Révisez et mettez à jour régulièrement le catalogue de données afin de maintenir son exacte réflexion de votre jeu de données. Des examens et des mises à jour régulières des processus et des procédures maintiennent leur alignement sur vos politiques et vos priorités.
+#Type Classification of the Document
+type: Activity

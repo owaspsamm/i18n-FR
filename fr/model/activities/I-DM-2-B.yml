@@ -1,0 +1,57 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 55bf5184ff7d4b76a444e52a28c803d9
+#Link to the practice level that this activity belongs to
+level: b55c7a41eba747678a65651f5ccacaf2
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 15d73a64818c43019504c8d938ca2434
+#The title of this activity
+title: Définir des métriques élaborées sur les défauts
+#Describe the benefit that is achieved by implementing this activity
+benefit: Amélioration de l'apprentissage à partir des défauts de sécurité dans votre organisation
+#A one sentence description of the activity
+shortDescription: Recueillir des métriques de gestion des défauts normalisées et les utiliser également pour établir les priorités des initiatives centralisées.
+#A multi-paragraph description of the activity
+longDescription: |
+  Définissez, collectez et calculez des métriques unifiées à travers l'ensemble de l'organisation. Elles peuvent inclure :
+
+  * la quantité totale d'activités de vérification et de défauts identifiés,
+  * les types et la sévérité des défauts identifiés,
+  * les temps de détection et de résolution des défauts,
+  * les fenêtres d'exposition des défauts présents sur les systèmes en production,
+  * le nombre de régressions / de vulnérabilités rouvertes,
+  * la couverture des activités de vérification pour certains composants logiciels,
+  * le montant de risque accepté,
+  * le ratio d'incidents de sécurité causés par des défauts de sécurité inconnus ou non documentés.
+
+  Générez un rapport régulier (par exemple, mensuel) pour un public approprié. Cela touche généralement un public tel que les gestionnaires et les officiers de sécurité et les ingénieurs. Utilisez les informations contenues dans le rapport comme une contribution à votre stratégie de sécurité, par exemple pour améliorer les formations ou les activités de vérification de la sécurité.
+
+  Partagez les détails techniques les plus importants ou les plus intéressants sur les défauts de sécurité, y compris la stratégie de correction, avec d'autres équipes une fois que ces défauts ont été corrigés, par ex. dans le cadre d’une réunion régulière de partage des connaissances. Cela aidera à démultiplier l'effet d'apprentissage suite à des défauts vers l'ensemble de l'organisation et limitera leur apparition dans le futur.
+#The output of this particular activity
+results:
+  - résultat1
+  - résultat2
+#The different metrics that can be used to measure the success of the activity
+metrics:
+  - métrique1
+  - métrique2
+#A description of the costs required to implement the activity
+costs: SCT.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Officier de sécurité
+  - Champion de sécurité
+  - Responsable
+#Internal notes that might help the author
+notes: Aucun
+#References to other activities that are prerequesites to implement this one.
+relatedActivities:
+  - 2bf0e192a9044b8a2f38c33256e80a
+  - c1aef0137df1400cbdd3c660b609b7b2
+  - 05073fb130c74143a12a6ba74a44c580
+#Type Classification of the Document
+type: Activity

@@ -1,0 +1,30 @@
+---
+#===========================================================
+#OWASP SAMM2 Security Practice template/sample
+#===========================================================
+#Link to the function, using its unique identifier
+function: fa340fa1816244d79f369ae82e998368
+#Unique identifier (GUID) used to refer to this practice.
+#Please generate another identifier for your specific practice.
+id: bb5488860c124b6e8076b023485023e1
+#Official name of this practice
+name: Tests de sécurité
+#Abbreviation of this practice
+shortName: TS
+#A one sentence description of the security practice
+shortDescription: Cette pratique se concentre sur la détection et la résolution de problèmes de sécurité simples grâce à l'automatisation, permettant aux tests manuels de se focaliser sur des vecteurs d'attaque plus complexes.
+#A multi-paragraph description of the security practice
+longDescription: |
+  La pratique des Tests de Sécurité (TS) tire parti du fait que, bien que les tests de sécurité automatisés soient rapides et adaptés à de nombreuses applications, des tests approfondis basés sur une bonne connaissance d'une application et de sa logique métier n'est souvent possible que par des tests de sécurité plus lents et manuels réalisés par un expert. Chaque flux a donc une approche propre.
+
+  Le premier flux se concentre sur l'établissement d'une référence de sécurité commune pour détecter automatiquement ce que l'on appelle les "fruits à portée de main". Personnalisez progressivement les tests automatisés pour chaque application et augmentez leur fréquence d'exécution pour détecter plus de bogues et de régressions plus tôt, aussi près que possible de leur introduction. Plus les processus automatisés peuvent détecter de bogues, plus les experts ont le temps d'utiliser leurs connaissances et leur créativité pour se concentrer sur des vecteurs d'attaque plus complexes et faire des tests approfondis sur l'application dans le second flux. Comme l'examen manuel est lent et difficile à mettre à l'échelle, les experts hiérarchisent les tests sur les composants en fonction de leurs risques, des changements récents pertinents ou des prochaines versions majeures. Les organisations peuvent également bénéficier d'expertise externe en participant à des programmes de primes à la défaillance détectée, par exemple.
+
+  Contrairement à la pratique de tests basée sur les exigences qui se concentre sur la vérification que les applications implémentent correctement leurs exigences, le but de cette pratique est de découvrir les faiblesses techniques et de logique métier dans l'application et de les rendre visibles à la direction et aux acteurs de l'entreprise, indépendamment des exigences.
+#The relative order of this practice in the business function
+order: 3
+#Who's the "owner" of this practice
+assignee: Nessim Kisserli
+#Indication of progress to keep track of overall status
+progress: 50
+#Type Classification of the Document
+type: Practice

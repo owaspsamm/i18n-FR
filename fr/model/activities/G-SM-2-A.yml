@@ -1,0 +1,26 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 94bb47791e3d462cbf5f71ebb1a1327a
+#Link to the practice level that this activity belongs to
+level: 561e85a7fb114b1d976acce95d0b41ee
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: c1778728d66e4b83b59a42405a90598a
+#The title of this activity
+title: Définir la stratégie de sécurité
+#Describe the benefit that is achieved by implementing this activity
+benefit: Feuille de route disponible et validée de votre programme AppSec
+#A one sentence description of the activity
+shortDescription: Publier une stratégie unifiée pour la sécurité des applications.
+#A multi-paragraph description of the activity
+longDescription: |
+  En fonction de l’ampleur des actifs, des menaces et de la tolérance aux risques, développez un plan stratégique et un budget pour traiter les priorités commerciales en matière de sécurité applicative. Le plan couvre 1 à 3 années et comprend des jalons conformes aux missions et aux risques de l’entreprise. Il fournit des initiatives tactiques et stratégiques et suit une feuille de route qui rend visible son alignement sur les priorités et les besoins de l'entreprise.
+
+  Dans la feuille de route, vous équilibrez les changements nécessitant des dépenses financières avec les changements de processus et de procédures et les changements affectant la culture de l'organisation. Cet équilibre permet de réaliser de multiples étapes simultanément sans surcharger ou épuiser les ressources disponibles ou les équipes de développement. Les jalons sont suffisamment fréquents pour aider à surveiller la réussite du programme et à déclencher les ajustements opportuns de la feuille de route.
+
+  Pour que le programme soit couronné de succès, l'équipe de sécurité applicative obtient le soutien des parties prenantes au sein de l'organisation et celui des équipes de développement d'applications. Un plan publié est à la disposition de toute personne qui est tenue de le soutenir ou de participer à sa mise en œuvre.
+#Type Classification of the Document
+type: Activity

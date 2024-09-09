@@ -1,0 +1,26 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 2919e1f19aec4f018da94a3e8733f37d
+#Link to the practice level that this activity belongs to
+level: 61ae1e4268b24d7986805658c89b5e54
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: e7ba346fabdc44beb47e2c67c14a6726
+#The title of this activity
+title: Mesurer la conformité aux exigences externes
+#Describe the benefit that is achieved by implementing this activity
+benefit: Comprendre la conformité de votre organisation avec les facteurs externes
+#A one sentence description of the activity
+shortDescription: Mesurer et rendre compte de la conformité d'une application donnée avec les exigences des tierces parties.
+#A multi-paragraph description of the activity
+longDescription: |
+  Élaborez un programme de mesure et d'établissement de rapport sur l'état de la conformité entre les différentes applications. Les exigences des application et les scripts de test aident à déterminer le statut de la conformité. Tirez parti de l'automatisation des tests pour détecter rapidement les régressions dans la conformité des applications fréquemment mises à jour et assurez-vous que la conformité est maintenue à travers les différentes versions des applications. Chaque fois que les tests entièrement automatisés ne sont pas envisageables, les équipes d'assurance qualité, d'audit interne ou de sécurité de l'information évaluent périodiquement la conformité grâce à une combinaison de tests manuels et d'entrevues.
+
+  Tandis que la conformité totale est toujours l'objectif ultime, incluez le suivi des actions de correction et des mises à jour périodiques dans le programme. Examinez périodiquement les activités d'amélioration de la conformité pour vérifier que les équipes progressent de façon appropriée et que les stratégies de corection seront efficaces pour atteindre la conformité. Pour améliorer davantage le processus, élaborez une série de rapports types et de fiches d'évaluation de la conformité. Ces mesures aident les différentes équipes à comprendre l’état actuel de la conformité et l’organisation à gérer plus efficacement l’aide pour combler les lacunes en matière de conformité.
+
+  Examinez les écarts par rapport à la conformité nécessitant des dépenses ou un développement importants avec les experts en la matière et comparez-les au coût lié à la réduction des fonctionnalités de l'application, à la réduction du périmètre ou à la suppression des exigences de conformité. Les écarts à long terme en matière de conformité requièrent une approbation du management et une acceptation formelle des risques liés à la conformité, de sorte qu’ils reçoivent l’attention appropriée de la part de la direction de l’organisation.
+#Type Classification of the Document
+type: Activity

@@ -1,0 +1,23 @@
+---
+#===========================================================
+#OWASP SAMM2 Coverage Question template/sample
+#===========================================================
+#Link to the activity that this question helps measure
+activity: 529d528265c94447954a57f5be425f54
+#Link to the answer set that contains the potential answers for this question
+answerSet: f77bd45a28c8493dbba6e53b2eafa20f
+#Unique identifier (GUID) used to refer to this maturity level.
+#Please generate another identifier for your specific maturity level.
+id: 897306b66f16454eab7b5a2355d31c11
+#One-sentence description of the criterium
+text: Utilisez-vous des profils de risque d'applications centralisés et quantifiés pour évaluer les risques pour l'entreprise?
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - Le profil de risque de l'application est conforme au niveau de risque défini par l'organisation
+  - Le profil de risque de l'application couvre l'impact sur la sécurité et la vie privée
+  - Vous validez la qualité du profil de risque manuellement et/ou automatiquement
+  - Les profils de risque de l'application sont stockés dans un inventaire central
+#Type Classification of the Document
+type: Question

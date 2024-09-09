@@ -1,0 +1,28 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: ed5a9c3dd7884c88918a45dc9d231c5d
+#Link to the practice level that this activity belongs to
+level: e5b6dc4f907c4986b8ba7923303cd665
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 649b693315234a94928e42f3e308deac
+#The title of this activity
+title: Normalisation et mise à l'échelle de la modélisation des menaces
+#Describe the benefit that is achieved by implementing this activity
+benefit: Des attentes claires quant à la qualité des activités de modélisation des menaces
+#A one sentence description of the activity
+shortDescription: Normaliser la formation, les processus et les outils de modélisation des menaces à l'échelle de l'entreprise.
+#A multi-paragraph description of the activity
+longDescription: |
+  Utilisez une méthodologie standardisée de modélisation des menaces pour votre organisation et alignez-la sur les niveaux de risque de votre application. Pensez à des moyens de permettre la mise à l'échelle de la modélisation des menaces pour l'ensemble de l'organisation.
+
+  Formez vos architectes, vos champions de sécurité et autres parties prenantes sur la manière de faire opérationnellement la modélisation des menaces. La modélisation de la menace nécessite de la connaissance, des manuels et des modèles clairs, des exemples spécifiques à l'organisation et de l'expérience, ce qui est difficile à automatiser.
+
+  Votre méthodologie de modélisation des menaces comprend au moins l'établissement de diagrammes, l'identification des menaces, l'atténuation des défauts de conception et la façon de valider les artéfacts de vos modèles de menaces. Votre diagramme de modélisation des menaces permet une compréhension détaillée de l'environnement et de la mécanique de l'application. Vous découvrez les menaces envers votre application ou d'autres menaces spécifiques à votre organisation avec des listes de contrôle telles que STRIDE. Pour les défauts de conception identifiés (classés en fonction du risque envers votre organisation), vous ajoutez des contrôles d'atténuation pour aider les parties prenantes à faire face à des menaces particulières. Définissez ce qui déclenche la mise à jour d'un modèle de menace, par exemple un changement de technologie ou le déploiement d'une application dans un nouvel environnement.
+
+  Stockez les sorties de la modélisation des menaces au sein du processus de gestion des défauts pour un suivi adéquat. Capturez les artefacts de modélisation des menaces avec des outils qui sont utilisés par vos équipes applicatives.
+#Type Classification of the Document
+type: Activity

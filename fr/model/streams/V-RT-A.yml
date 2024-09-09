@@ -1,0 +1,19 @@
+---
+#===========================================================
+#OWASP SAMM2 Activity Stream template/sample
+#===========================================================
+#Link to the security practice that this stream belongs to
+practice: 66fb99798fe946e4979a2de98e9d6f8b
+#Unique identifier to refer to this stream
+id: efb5d1f275504173899da345ef5bbe8e
+#Official stream name
+name: Vérification des contrôles
+#Stream letter, A or B
+letter: A
+#Multi-paragraph explanation of the stream
+description: |
+  La vérification des contrôles valide que les contrôles de sécurité sont en place et les exigences remplies à travers des tests dérivés des exigences et garantit que des bogues ne sont pas introduits dans des versions ultérieures grâce à des tests de régression.
+#Relative order of the stream within the security stream  (A=1 ; B=2)
+order: 1
+#Type Classification of the Document
+type: Stream

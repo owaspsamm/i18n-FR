@@ -1,0 +1,26 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description - Patching and Updating, Level 2
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 1a7ad26d9e48411e95a63be79e1b90ea
+#Link to the practice level that this activity belongs to
+level: 354292b7198b48bb8c4909e0d7e29f68
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: b7f1d18fbe724a148f039ce036de98ef
+#The title of this activity
+title: Formaliser la gestion des correctifs
+#Describe the benefit that is achieved by implementing this activity
+benefit: Mise à jour cohérente et proactive des composants de la pile technologique
+#A one sentence description of the activity
+shortDescription: Effectuer des correctifs réguliers des composants du système et de l'application, à travers toute la pile. Assurez-vous que les correctifs sont livrés aux clients rapidement.
+#A multi-paragraph description of the activity
+longDescription: |
+  Développez et suivez un processus bien défini de gestion des correctifs des composants d'application à travers les piles technologiques utilisées. Assurez-vous que les processus incluent des plans de travail réguliers pour l'application des mises à jour des fournisseurs, alignés sur les calendriers de mise à jour des fournisseurs (par exemple, Microsoft Patch Tuesday). Pour les logiciels développés par l'organisation, livrez des versions et autres solutions gérées par l'organisation aux clients sur une base régulière (par ex. mensuellement), que vous incluiez de nouvelles fonctionnalités ou non.
+
+  Créez de la documentation pour prioriser les patchs de composants en reflétant votre tolérance au risque et vos objectifs de gestion. Prenez en compte les facteurs opérationnels (par exemple la criticité de l'application ou la sévérité des vulnérabilités traitées) dans la détermination des priorités de test et d'application des correctifs.
+
+  En cas de notification d'une vulnérabilité critique dans un composant tandis qu'aucun correctif n'est encore disponible, orientez et traitez la situation comme un problème de gestion des risques (c.a.d. mettez en place des contrôles compensatoires, obtenez l'acceptation du risque de la part du client ou désactivez les applications / fonctionnalités affectées).
+#Type Classification of the Document
+type: Activity

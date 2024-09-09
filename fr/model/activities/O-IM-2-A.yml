@@ -1,0 +1,28 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description - Incident Detection, Level 2
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: ff8a6a08dc684f38ab74b9db9584f0a5
+#Link to the practice level that this activity belongs to
+level: 439406325e6645519c149da3e05a7d9d
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 5bcb52375a0f4085bb12266c9ecfa84d
+#The title of this activity
+title: Définir un processus de détection d'incident
+#Describe the benefit that is achieved by implementing this activity
+benefit: Détection rapide et cohérente des incidents de sécurité prévisibles
+#A one sentence description of the activity
+shortDescription: Suivre un processus établi et bien documenté de détection d'incident, en mettant l'accent sur l'évaluation automatique des journaux.
+#A multi-paragraph description of the activity
+longDescription: |
+  Nommez un propriétaire dédié pour le processus de détection des incidents, rendez la documentation claire et accessible à tous les acteurs du processus et veillez à ce qu'il soit régulièrement révisé et mis à jour si besoin. Assurez-vous que les employés responsables de la détection d'incidents suivent ce processus (p. ex. en utilisant la formation).
+
+  Le processus repose typiquement sur un degré élevé d'automatisation, de collecte et de corrélation des données de journalisation provenant de différentes sources, y compris les journaux d'évènements. Vous pouvez agréger les journaux dans un endroit centralisé si cela est souhaitable. Vérifiez périodiquement l'intégrité des données analysées. Si vous ajoutez une nouvelle application, assurez-vous que le processus la prend en compte dans un délai raisonnable.
+
+  Détectez les éventuels incidents de sécurité en utilisant une liste de contrôle facilement disponible. La liste de contrôle devrait couvrir les vecteurs d'attaque envisageables et connus et les chaînes de compromission attendues. Évaluez-la et mettez-la à jour régulièrement.
+
+  Lorsque vous déterminez qu'un événement est un incident de sécurité (avec suffisamment de confiance), avertissez immédiatement le personnel responsable, même en dehors des heures de bureau. Effectuez une analyse plus approfondie tel que nécessaire et commencez le processus d'escalade.
+#Type Classification of the Document
+type: Activity

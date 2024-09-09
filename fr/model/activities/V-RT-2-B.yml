@@ -1,0 +1,24 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 27a14a265c864eb790781cd1e2bf843b
+#Link to the practice level that this activity belongs to
+level: 3e6e9a2b696e48018830b44fa96f98b5
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: fd4d1ac720374b13a25ab1381045b731
+#The title of this activity
+title: Définir et exécuter les cas de contournement de sécurité à partir des exigences
+#Describe the benefit that is achieved by implementing this activity
+benefit: Détection des défauts de la logique métier de l'application
+#A one sentence description of the activity
+shortDescription: Créer et tester les cas d'abus et les défauts de la logique métier
+#A multi-paragraph description of the activity
+longDescription: |
+  Les cas de mauvaise utilisation et d'utilisation abusive décrivent des scénarios d'utilisation non intentionnée ou malveillante de l'application, explicitant la manière dont un attaquant pourrait faire. Créez des cas de mauvaise utilisation et d’utilisation abusive pour mal utiliser ou exploiter les faiblesses des contrôles dans les fonctionnalités du logiciel dans le but d'attaquer une application. Utilisez des modèles de cas d'abus pour une application afin de permettre l'identification de tests de sécurité concrets qui exploitent directement ou indirectement les scénarios d'abus.
+
+  L'abus de fonctionnalité, parfois appelé "attaque logique métier", est lié à la conception et la mise en œuvre des fonctionnalités de l'application. Un exemple est l'utilisation d'un canal de réinitialisation de mot de passe pour énumérer les comptes. Dans le cadre des tests de logique métier, identifiez les règles métier qui sont importantes pour l'application et faites des expérimentations afin de vérifier si l'application met en oeuvre correctement la règle métier. Par exemple, sur une application de transaction boursière, est-ce que l'attaquant est autorisé à démarrer une transaction au début de la journée et à verrouiller un prix, à maintenir la transaction ouverte jusqu'à la fin de la journée, puis accomplir la vente si le cours de l'action a augmenté ou l'annuler si le prix a baissé?
+#Type Classification of the Document
+type: Activity

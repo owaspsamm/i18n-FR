@@ -1,0 +1,28 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description - Incident Response, Level 3
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 390bec725b8344a289d5386026925947
+#Link to the practice level that this activity belongs to
+level: 6fe1973911bf4e54b018da10a5aa80a1
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: f692ee8f87c1499681490cc1647c0df4
+#The title of this activity
+title: Établir une équipe de réponse à incident
+#Describe the benefit that is achieved by implementing this activity
+benefit: Une réponse à incident efficace et indépendante du moment, de l'emplacement ou du type d'incident
+#A one sentence description of the activity
+shortDescription: Employer une équipe de réponse à incident impliquée et bien formée.
+#A multi-paragraph description of the activity
+longDescription: |
+  Mettez en place une équipe d'intervention dédiée en cas d'incident, disponible en permanence et responsable de l'amélioration continue du processus avec l'aide des ACR courantes. Pour les organisations éparses, définissez et documentez des règles logistiques pour tous les lieux pertinents si cela est raisonnable.
+
+  Documentez des procédures détaillées de réponse à incident et tenez-les à jour. Automatisez les procédures lorsque cela est possible. Conservez toutes les ressources nécessaires à ces procédures (par ex., infrastructure de communication séparée ou emplacement externe fiable) prêtes à l'emploi. Détectez et corrigez l'indisponibilité de ces ressources en temps opportun.
+
+  Effectuez des exercices de gestion des incidents et d'urgence régulièrement. Utilisez les résultats pour améliorer le processus.
+
+  Définissez, recueillez, évaluez et agissez en fonction des métriques sur le processus de réponse à incident, y compris sur son amélioration continue.
+#Type Classification of the Document
+type: Activity

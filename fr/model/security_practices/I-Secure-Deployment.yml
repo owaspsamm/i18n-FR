@@ -1,0 +1,28 @@
+---
+#===========================================================
+#OWASP SAMM2 Security Practice template/sample
+#===========================================================
+#Link to the function, using its unique identifier
+function: 8aa8154b83434e73b3ca8c0e9b654417
+#Unique identifier (GUID) used to refer to this practice.
+#Please generate another identifier for your specific practice.
+id: 40d7879025144dbbbf34ba8ea82f060d
+#Official name of this practice
+name: Déploiement Sécurisé
+#Abbreviation of this practice
+shortName: DS
+#A one sentence description of the security practice
+shortDescription: Cette pratique vise à accroître la sécurité des déploiements de logiciels dans leur environnement de production et des secrets associés.
+#A multi-paragraph description of the security practice
+longDescription: |
+  L'une des dernières étapes de la fourniture de logiciels sécurisés est de garantir que la sécurité et l'intégrité des applications développées ne sont pas compromises lors du déploiement. La pratique du Déploiement Sécurisé (DS) se focalise sur ce point. À cette fin, le premier flux de la pratique se concentre sur la suppression des erreurs manuelles en automatisant le processus de déploiement autant que possible et en conditionnant son succès aux résultats des vérifications de sécurité intégrées. Il favorise également la séparation des pouvoirs en rendant des non-développeurs dûment formés responsables du déploiement.
+
+  Le second flux va au-delà de la mécanique du déploiement et se concentre sur la protection de la vie privée et de l'intégrité des données sensibles, tels que mots de passe, jetons et autres secrets, requis pour que les applications puissent fonctionner dans des environnements de production. Sous sa forme la plus simple, les secrets de production concernés sont déplacés depuis les dépôts et des fichiers de configuration vers des coffres numériques dûment gérés. Dans des formes plus élaborées, les secrets sont générés dynamiquement au moment du déploiement et des processus dédiés détectent et atténuent la présence de tout secret non protégé dans l'environnement.
+#The relative order of this practice in the business function
+order: 2
+#Who's the "owner" of this practice
+assignee: Daniel Kefer
+#Indication of progress to keep track of overall status
+progress: 50
+#Type Classification of the Document
+type: Practice

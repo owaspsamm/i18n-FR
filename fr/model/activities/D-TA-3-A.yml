@@ -1,0 +1,26 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 17c90203f8354c3594eea22759e375a9
+#Link to the practice level that this activity belongs to
+level: 21a59897dbeb4d7fa4603a0f24362c2b
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 2f63f92c414546b58d035ece110d479f
+#The title of this activity
+title: Examen périodique des profils de risque
+#Describe the benefit that is achieved by implementing this activity
+benefit: Mise à jour rapide de la classification de l'application en cas de changement
+#A one sentence description of the activity
+shortDescription: Examinez périodiquement les profils de risque des applications à intervalles réguliers afin de s'assurer de l'exactitude et de la pertinence de l'état actuel.
+#A multi-paragraph description of the activity
+longDescription: |
+  Le portefeuille d'applications d'une organisation évolue, tout comme les conditions et les contraintes dans lesquelles une application vit (p. ex. en fonction de la stratégie de l'entreprise). Revoyez périodiquement l’inventaire des risques pour garantir l’exactitude de l'évaluations des risques des différentes applications.
+
+  Faites un examen périodique à l'échelle de l'entreprise. De plus, au fur et à mesure que votre entreprise mûrit dans le domaine de l'assurance logicielle, encouragez les équipes à s'interroger continuellement sur les changements de conditions qui pourraient affecter le profil de risque. Par exemple, une application interne peut devenir exposée sur Internet suite à une décision commerciale. Cela devrait inciter les équipes à refaire l'évaluation de risque et à mettre à jour le profil de risque de l'application en conséquence.
+
+  Dans une mise en œuvre mûre de cette pratique, formez et informez continuellement les équipes sur les retours d'expérience et les bonnes pratiques d'évaluations des risques. Cela amène à une meilleure exécution et à une meilleure représentation du profil de risque de l'application.
+#Type Classification of the Document
+type: Activity

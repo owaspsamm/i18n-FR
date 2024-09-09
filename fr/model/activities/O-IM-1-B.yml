@@ -1,0 +1,26 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description - Incident Response, Level 1
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 390bec725b8344a289d5386026925947
+#Link to the practice level that this activity belongs to
+level: 817dd6acaf85496aa005393e0e6c3e70
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: b082664b8815407d825b82cf23fa88ea
+#The title of this activity
+title: Créer un plan de réponse à incident
+#Describe the benefit that is achieved by implementing this activity
+benefit: Capacité à résoudre efficacement les incidents de sécurité les plus courants
+#A one sentence description of the activity
+shortDescription: Identifier les rôles et responsabilités pour la réponse à incident.
+#A multi-paragraph description of the activity
+longDescription: |
+  La première étape consiste à reconnaître la réalité de la compétence en matière de réponse à incident et à définir un responsable dédié. Fournissez-leur le temps et les ressources dont ils ont besoin pour suivre l'état actuel des bonnes pratiques en matière de gestion des incidents et des outils forensiques.
+
+  À ce niveau de maturité, il se peut que vous n'ayez pas mis en place une équipe de réponse à incident dédiée, mais vous avez clarifié les participants au processus (généralement différents rôles). Définissez un point de contact unique pour le processus, connu de toutes les parties prenantes concernées. Veiller à ce que ce point de contact sache joindre chaque participant et définissez les responsabilités d'astreinte pour ceux qui en ont une.
+
+  Lorsque des incidents de sécurité se produisent, documentez toutes les actions prises. Protégez ces informations contre tout accès non autorisé.
+#Type Classification of the Document
+type: Activity

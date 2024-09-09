@@ -1,0 +1,45 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 9ec70d6f7ddb4cb6b37928f9994c6049
+#Link to the practice level that this activity belongs to
+level: fc5eb251c6ee4f3db04eb01b62d380ba
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 05a3e75c6c654ae58a115cbf4295662b
+#The title of this activity
+title: Vérifier l'intégrité des artefacts de déploiement
+#Describe the benefit that is achieved by implementing this activity
+benefit: Assurer l'intégrité des artefacts qui vont être déployés en production
+#A one sentence description of the activity
+shortDescription: Vérifier automatiquement l'intégrité de tous les logiciels déployés, indépendamment du fait qu'ils ont été développés en interne ou en externe.
+#A multi-paragraph description of the activity
+longDescription: |
+  Tirez parti de la signature de binaires au moment de la génération et incluez une vérification automatique de l'intégrité du logiciel déployé en vérifiant ses signatures par rapport aux certificats de confiance. Cela peut inclure des binaires développés et générés en interne, ainsi que des artefacts tiers. Ne déployez pas d'artefact dont la signature ne peut pas être vérifiée, y compris ceux dont les certificats sont invalides ou ont expiré.
+
+  Si la liste des certificats de confiance inclut ceux de développeurs tiers, vérifiez-les périodiquement et de les maintenez leur conformité avec la gouvernance générale de l’organisation concernant les fournisseurs tiers de confiance.
+
+  Approuvez manuellement le déploiement au moins une fois lors d'un déploiement automatisé. Chaque fois qu'un test humain est beaucoup plus précis qu'un test automatisé pendant le déploiement, optez pour cette option.
+#The output of this particular activity
+results:
+  - résultat1
+  - résultat2
+#The different metrics that can be used to measure the success of the activity
+metrics:
+  - métrique1
+  - métrique2
+#A description of the costs required to implement the activity
+costs: SCT.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Ingénieur en sécurité
+  - Administrateur
+#Internal notes that might help the author
+notes: Aucun
+#References to other activities that are prerequesites to implement this one.
+relatedActivities:
+  - 281369f491da4d4c84b0729e344e2c93
+#Type Classification of the Document
+type: Activity

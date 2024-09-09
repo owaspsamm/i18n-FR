@@ -1,0 +1,21 @@
+---
+#===========================================================
+#OWASP SAMM2 Coverage Question template/sample
+#===========================================================
+#Link to the activity that this question helps measure
+activity: 2f63f92c414546b58d035ece110d479f
+#Link to the answer set that contains the potential answers for this question
+answerSet: f3534ade73d8469e879c74b4e0a4eb3d
+#Unique identifier (GUID) used to refer to this maturity level.
+#Please generate another identifier for your specific maturity level.
+id: 7e541611f3c749f285ac27f0a9ba7d55
+#One-sentence description of the criterium
+text: Examinez-vous et mettez-vous à jour régulièrement les profils de risque de vos applications?
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - Le standard organisationnel pour le risque prend en compte les retours historiques afin d'améliorer la méthode d'évaluation
+  - Des changements dans le contexte de l'application ou de l'entreprise déclenchent une revue des modèles de menace pertinents
+#Type Classification of the Document
+type: Question

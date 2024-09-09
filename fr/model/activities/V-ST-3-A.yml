@@ -1,0 +1,31 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 102fdab651834273abd67a3ec27aab05
+#Link to the practice level that this activity belongs to
+level: eac3184f8e2343b8b29047d023376da5
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 4f6a06796d0840debcc775ea1af65679
+#The title of this activity
+title: Intégrer les outils de test de sécurité dans le pipeline de livraison
+#Describe the benefit that is achieved by implementing this activity
+benefit: Identification des vulnérabilités identifiables automatiquement lors des étapes le plus possible en amont
+#A one sentence description of the activity
+shortDescription: Intégrer les tests de sécurité automatisés dans le processus de génération et de déploiement
+#A multi-paragraph description of the activity
+longDescription: |
+  Les projets au sein de l'organisation exécutent régulièrement des tests de sécurité automatisés et examinent les résultats durant le développement. Configurez les outils de test de sécurité pour qu'ils s'exécutent automatiquement dans le cadre du processus de génération et de déploiement afin de permettre à ce système de passer à l'échelle à peu de frais. Inspectez les problèmes au fur et à mesure qu'ils sont détectés.
+
+  Effectuez des tests de sécurité dès les phases de gestion des exigences ou de conception peut être bénéfique. Bien que traditionnellement utilisé pour les cas de tests fonctionnels, ce type d’approche de développement piloté par les tests implique l’identification et l’exécution de cas pertinents de tests de sécurité au début du cycle de développement. Avec l'exécution automatique de cas de tests de sécurité, les projets entrent dans la phase d'implémentation avec un certain nombre de tests défaillants en raison des fonctionnalités inexistantes ; l'implémentation est terminée lorsque tous les tests sont exécutés avec succès. Ceci fournit un objectif clair aux développeurs tôt dans le cycle de développement tout en diminuant le risque de retarder une livraison en raison de problèmes de sécurité ou de devoir accepter certains risques pour respecter les échéances du projet.
+
+  Rendez les résultats des tests de sécurité automatisés et manuels visibles via des tableaux de bord et présentez-les régulièrement à la direction et aux parties prenantes métier (par ex. avant chaque version) pour revue. S'il persiste des problèmes non résolus acceptés comme risques pour la livraison, les parties prenantes et les gestionnaires du développement travaillent ensemble pour établir un calendrier concret pour les traiter. Examinez et améliorez continuellement la qualité des tests de sécurité.
+
+  Considérez et mettez en place des outils de corrélation de test de sécurité pour automatiser la mise en correspondance et la fusion des résultats de test provenant de scanners d'applications dynamiques, statiques et interactifs dans un tableau de bord central fournissant une entrée directe vers le système de gestion des défauts. Diffusez les connaissances liées aux tests de sécurité créés et aux résultats au sein de l'équipe de développement afin d'améliorer les connaissances et la sensibilisation à la sécurité au sein de l'organisation.
+#References to other activities that are prerequesites to implement this one.
+dependencies:
+  - e17d573510904f65a1fe6040b56ad0b1
+#Type Classification of the Document
+type: Activity

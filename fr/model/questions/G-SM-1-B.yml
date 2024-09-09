@@ -1,0 +1,23 @@
+---
+#===========================================================
+#OWASP SAMM2 Coverage Question template/sample
+#===========================================================
+#Link to the activity that this question helps measure
+activity: 0082a76b1a3744d9ab0443bd2168e13d
+#Link to the answer set that contains the potential answers for this question
+answerSet: 608f87d59da44e589f0090790675ed23
+#Unique identifier (GUID) used to refer to this maturity level.
+#Please generate another identifier for your specific maturity level.
+id: 6aa85d5f3c03428aa064447fa50fa66b
+#One-sentence description of the criterium
+text: Utilisez-vous un ensemble de métriques pour mesurer l'efficacité et l'efficience du programme de sécurité applicative à travers les applications?
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - Vous documentez chaque métrique avec notamment la description des sources, le périmètre de mesure et des conseils sur la façon de l'utiliser pour expliquer les tendances de la sécurité de l'application
+  - Les métriques incluent les mesures des efforts, des résultats et des catégories de mesure de l'environnement
+  - La plupart des métriques sont souvent mesurées, faciles ou peu coûteuses à rassembler et exprimées en nombre cardinal ou en pourcentage
+  - Les équipes de sécurité des applications et de développement publient des métriques
+#Type Classification of the Document
+type: Question

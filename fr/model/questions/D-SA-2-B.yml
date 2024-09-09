@@ -1,0 +1,23 @@
+---
+#===========================================================
+#OWASP SAMM2 Coverage Question template/sample
+#===========================================================
+#Link to the activity that this question helps measure
+activity: 5e1dd310e28449058046c7af0fe46fce
+#Link to the answer set that contains the potential answers for this question
+answerSet: b6fd4b86ecf04955befe9322ff338ca8
+#Unique identifier (GUID) used to refer to this maturity level.
+#Please generate another identifier for your specific maturity level.
+id: b63b5fa0f5bc455bb5b1dd9168c44000
+#One-sentence description of the criterium
+text: Avez-vous une liste de technologies recommandées pour l'organisation ?
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - La liste est basée sur les technologies utilisées dans le portefeuille de logiciels
+  - Les architectes de référence et les développeurs révisent et approuvent la liste
+  - Vous partagez la liste à travers l'organisation
+  - Vous révisez et mettez à jour la liste au moins une fois par an
+#Type Classification of the Document
+type: Question

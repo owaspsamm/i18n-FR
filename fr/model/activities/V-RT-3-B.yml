@@ -1,0 +1,29 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 27a14a265c864eb790781cd1e2bf843b
+#Link to the practice level that this activity belongs to
+level: 812abdd0a2b54366a497919f8463911a
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: d975bb1ce1dd4d61a6039b0a4a05926e
+#The title of this activity
+title: Effectuer des tests de sécurité aux limites
+#Describe the benefit that is achieved by implementing this activity
+benefit: Transparence de la résilience envers les attaques par déni de service
+#A one sentence description of the activity
+shortDescription: Tests des dénis de service et de la sécurité aux limites
+#A multi-paragraph description of the activity
+longDescription: |
+  Les applications sont particulièrement susceptibles de subir des attaques par déni de service. Effectuez des tests de résistance de sécurité sur elles par déni de service dans des conditions contrôlées, de préférence dans les environnements d'acceptation utilisateurs.
+
+  Les outils de test de charge génèrent du trafic artificiel, vous permettant de tester les performances de l'application sous une charge élevée. Un test important est le nombre de requêtes par seconde qu'une application peut gérer tout en respectant ses exigences de performance. Tester à partir d'une seule adresse IP est toujours utile car cela donne une indication du nombre de requêtes qu'un attaquant doit générer pour avoir un impact sur l'application.
+
+  Les attaques par déni de service entraînent généralement un amoindrissement ou un épuisement des ressources de l'application. Pour déterminer si des ressources peuvent être victimes d'un déni de service, analysez chaque ressource de l'application pour voir comment elle peut être épuisée. Hiérarchisez les actions qu'un utilisateur non authentifié peut accomplir. Complétez l'ensemble des tests de déni de service par des tests de contraintes de sécurité pour effectuer des actions ou créer les conditions qui causent des retards, des interruptions ou des défaillances de l'application en train d'être testée.
+#Internal notes that might help the author
+notes: |
+  J'ai supprimé les références à des outils spécifiques et l'explication détaillée des tests de déni de service. Ceux-ci peuvent tous être ajoutés aux notes d'aide.
+#Type Classification of the Document
+type: Activity

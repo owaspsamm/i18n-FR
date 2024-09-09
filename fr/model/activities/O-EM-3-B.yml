@@ -1,0 +1,31 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description - Patching and Updating, Level 3
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 1a7ad26d9e48411e95a63be79e1b90ea
+#Link to the practice level that this activity belongs to
+level: 1cb6e197ca8245eca65b0ecbdd784720
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: a573c126b3e345fba9d1d94c8158cf60
+#The title of this activity
+title: Mettre en place une gestion rapide des correctifs
+#Describe the benefit that is achieved by implementing this activity
+benefit: Transparence sur l'état de mise à jour des composants pour éviter les non-conformités
+#A one sentence description of the activity
+shortDescription: Surveiller activement le statut des mises à jour et gérer l'absence de mise à jour comme un défaut de sécurité. Obtenir de façon proactive des informations sur les vulnérabilités et les mises à jour pour les composants.
+#A multi-paragraph description of the activity
+longDescription: |
+  Élaborez et utilisez des tableaux de bord / rapports de gestion pour suivre la conformité avec les processus sur les correctifs et les ANS à travers le portefeuille. Veillez à ce que la gestion des dépendances et les processus d'empaquetage d'applications puissent prendre en charge l'application de correctifs au niveau des composants à tout moment afin de répondre aux ANS requis.
+
+  Traitez les mises à jour manquantes comme des défauts des produits liés à la sécurité, et gérez leur triage et leur correction conformément à votre pratique établie de gestion des défauts.
+
+  Ne comptez pas sur les notifications de routine des fournisseurs de composants pour en savoir plus sur les vulnérabilités et les correctifs associés. Surveillez une sélection de sources externes de renseignements sur les menaces pour en savoir plus sur les vulnérabilités zéro jour ; gérez celles qui affectent vos applications comme des problématiques de gestion des risques.
+#References to other activities that are related to this one
+relatedActivities:
+  - 93dff7be5f954f8d87d24f4261002508
+  - 2bf0e192a9044b8a2f38c33256e80a
+  - 0082a76b1a3744d9ab0443bd2168e13d
+#Type Classification of the Document
+type: Activity

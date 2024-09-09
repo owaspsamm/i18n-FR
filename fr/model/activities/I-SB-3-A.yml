@@ -1,0 +1,46 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 8a870a9b26724b4ba0dff177028b474a
+#Link to the practice level that this activity belongs to
+level: 02e602c451d548e8a95433a46fe6b9d8
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 281369f491da4d4c84b0729e344e2c93
+#The title of this activity
+title: Imposer un niveau de référence de sécurité lors de la génération
+#Describe the benefit that is achieved by implementing this activity
+benefit: Garantie que le logiciel généré est conforme aux niveaux de référence de sécurité
+shortDescription: Définir des vérifications de sécurité obligatoires dans le processus de génération et s'assurer que la construction des artefacts non conformes échoue.
+#A multi-paragraph description of the activity
+longDescription: |
+  Définissez des contrôles de sécurité appropriés à effectuer pendant le processus de génération, ainsi que des critères minimums pour passer la génération- ceux-ci peuvent différer selon les profils de risque des différentes applications. Incluez les vérifications de sécurité respectives dans la génération et imposez la fin de son processus au cas où les critères prédéfinis ne seraient pas respectés. Déclenchez des avertissements pour les problèmes en dessous du seuil et enregistrez-les dans un système centralisé pour les suivre et prendre des mesures. Si c'est raisonnable, implémentez un mécanisme d'exception pour contourner ce comportement si le risque d'une vulnérabilité particulière a été accepté ou atténué. Toutefois, assurez-vous que ces cas sont approuvés de façon explicite avant tout et consignez leur occurrence avec une justification.
+
+  Si des limitations techniques empêchent l'organisation d'arrêter la génération automatiquement, assurez les mêmes effets par le biais d'autres mesures telles qu'une politique claire et un audit régulier.
+
+  Gérez la signature de code sur un serveur centralisé séparé qui n'expose pas le certificat au système exécutant la génération. Dans la mesure du possible, utilisez une méthode déterministe qui produit des artefacts reproductibles octet par octet.
+#The output of this particular activity
+results:
+  - résultat1
+  - résultat2
+#The different metrics that can be used to measure the success of the activity
+metrics:
+  - métrique1
+  - métrique2
+#A description of the costs required to implement the activity
+costs: SCT.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Développeur
+  - Ingénieur en sécurité
+#Internal notes that might help the author
+notes: Aucun
+#References to other activities that are prerequesites to implement this one.
+relatedActivites:
+  - 921ff24f0b9f4df9a5129aa2f8a4a570
+  - fb6f258a2e424ee9a919341758222a7a
+  - 4f6a06796d0840debcc775ea1af65679
+#Type Classification of the Document
+type: Activity

@@ -1,0 +1,26 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: ed5a9c3dd7884c88918a45dc9d231c5d
+#Link to the practice level that this activity belongs to
+level: 21a59897dbeb4d7fa4603a0f24362c2b
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: e931a744c2864bef85a3fa75ce7e214f
+#The title of this activity
+title: Optimiser la modélisation des menaces
+#Describe the benefit that is achieved by implementing this activity
+benefit: Assurance de l'amélioration continue des activités de modélisation des menaces
+#A one sentence description of the activity
+shortDescription: Optimisation et automatisation continue de votre méthodologie de modélisation des menaces.
+#A multi-paragraph description of the activity
+longDescription: |
+  La modélisation des menaces est intégrée dans votre SDLC et fait partie de la culture de sécurité des développeurs. Des modèles de risque réutilisables, composé de bibliothèques de menaces, de défauts de conception et de mesures d'atténuation, sont créés et améliorés, en fonction des modèles de menace propres à l'organisation. Vous revoyez régulièrement (p. ex. annuellement) les modèles de menace existants pour vérifier qu’aucune nouvelle menace n’est devenue pertinente pour vos applications.
+
+  Vous optimisez votre méthodologie de modélisation des menaces. Vous retenez les leçons tirées des modèles de menace et les utilisez pour améliorer votre méthodologie de modélisation des menaces. Vous examinez les catégories de menaces pertinentes à votre organisation et mettez à jour votre méthodologie en conséquence. De temps en temps, vous évaluez la qualité de vos modèles de menace de façon indépendante.
+
+  Vous automatisez des parties de votre processus de modélisation des menaces avec des outils de modélisation des menaces. Vous intégrez vos outils de modélisation des menaces avec d'autres outils de sécurité, tels que les outils de vérification de la sécurité et les outils de suivi des risques. Vous étudiez la pratique de "modélisation des menaces en tant que code" pour intégrer des artefacts de modélisation des menaces au code de l'application.
+#Type Classification of the Document
+type: Activity

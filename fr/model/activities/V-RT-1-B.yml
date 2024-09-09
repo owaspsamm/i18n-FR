@@ -1,0 +1,24 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 27a14a265c864eb790781cd1e2bf843b
+#Link to the practice level that this activity belongs to
+level: df5a0be1889a4b06835193892803dde5
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 81ef5625583646bf8bc3fad53e4eff55
+#The title of this activity
+title: Effectuer des tests de fuzzing
+#Describe the benefit that is achieved by implementing this activity
+benefit: Aperçu du comportement de vos applications lorsque elles traitent des entrées inattendues
+#A one sentence description of the activity
+shortDescription: Effectuer des tests de fuzzing de sécurité
+#A multi-paragraph description of the activity
+longDescription: |
+  Effectuez des tests en envoyant des données aléatoires ou malformées au sujet du test dans le but de le faire planter. Le test de génération aléatoire ou Fuzzing est une technique de test du logiciel en boîte noire qui consiste à trouver des bogues d'implémentation à l'aide de l'injection de données malformées ou semi-malformées de manière automatique. Faites au moins un fuzzing minimal pour découvrir les vulnérabilités liées aux paramètres d'entrée principaux de l'application.
+
+  L'avantage des tests de fuzzing est sa simplicité de conception et son absence de supposition sur le comportement du système. Son approche stochastique permet la découverte de bugs que les humains ou des tests structurés manqueraient souvent. C'est aussi l'un des rares moyens d'évaluer la qualité d'un système fermé (comme un téléphone SIP). La simplicité du fuzzing est contrebalancée par la difficulté de détecter et de caractériser les plantages avec précision. Préférez les outils et les environnements de fuzzing existants afin de tirer parti des outils associés.
+#Type Classification of the Document
+type: Activity

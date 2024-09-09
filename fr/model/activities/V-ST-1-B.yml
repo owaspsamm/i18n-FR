@@ -1,0 +1,26 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 8a64c7b0b35a458ea436260d5e414dfa
+#Link to the practice level that this activity belongs to
+level: d6cefe3e63d149299fb088010c24778b
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: b3b20a75740c4880a21ad9aa0c1298c7
+#The title of this activity
+title: Tester manuellement les composants d'application à haut risque
+#Describe the benefit that is achieved by implementing this activity
+benefit: Détection des vulnérabilités identifiables manuellement dans les composants critiques
+#A one sentence description of the activity
+shortDescription: Effectuer des tests de sécurité manuels sur les composants à haut risque
+#A multi-paragraph description of the activity
+longDescription: |
+  Effectuez des tests de sécurité manuels sélectifs, éventuellement en utilisant une combinaison d'outils d'analyse statique et dynamique pour guider ou cibler la revue, afin d'analyser plus en profondeur certaines parties de l'application comme le ferait un attaquant. Les outils automatisés sont efficaces pour trouver différents types de vulnérabilités, mais ne pourront jamais remplacer une revue manuelle par un expert.
+
+  Les vulnérabilités au niveau du code dans les parties critiques pour la sécurité des logiciels peuvent avoir un impact considérablement accru, si bien que les équipes projet doivent revoir les modules à haut risque quant aux vulnérabilités courantes. Parmi les exemples courants de fonctionnalités à haut risque figurent les modules d'authentification, les endroits de mise en oeuvre du contrôle d'accès, les systèmes de gestion des sessions, les interfaces externes, les endroits pour la validation des entrées et les analyseurs de données. Les équipes peuvent combiner des métriques de niveau de code et des analyses automatisées ciblées pour déterminer où ils doivent cibler leurs efforts. Dans la pratique, l'activité peut prendre de nombreuses formes, y compris la programmation en binôme et l'évaluation par les pairs, des « poussées » de sécurité contraintes en temps impliquant toute l'équipe de développement, ou des revues spontanées indépendantes par des membres d'un groupe spécialisé dans la sécurité.
+
+  Lors les cycles de développement où le code à haut risque est modifié et révisé, les gestionnaires du développement trient les résultats et priorisent de façon appropriée les mesures correctives en prenant en compte les commentaires des autres parties prenantes au projet.
+#Type Classification of the Document
+type: Activity

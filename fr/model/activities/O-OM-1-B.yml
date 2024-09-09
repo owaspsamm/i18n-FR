@@ -1,0 +1,24 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description - Decom/Legacy, Level 1
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: a0d2ec4c6daa43369c07644b8745a7bd
+#Link to the practice level that this activity belongs to
+level: d0a99f3db27e48aa9b2d6b58a9040f49
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 1a398709b9d3407dbf9db7eeff6e916c
+#The title of this activity
+title: Identifier les applications inutilisées
+#Describe the benefit that is achieved by implementing this activity
+benefit: Identification des actifs ou composants logiciels inutilisés
+#A one sentence description of the activity
+shortDescription: Décommissionner les applications et services inutilisés tels qu'identifiés. Gérez individuellement les mises à jour/migrations clients.
+#A multi-paragraph description of the activity
+longDescription: |
+  Identifiez les applications inutilisées d'une façon ad hoc, soit par observation par hasard, soit en effectuant occasionnellement une revue. Lorsque vous identifiez des applications non utilisées, enregistrez ces constatations pour des actions ultérieures. Si vous avez établi un processus formel pour le démantèlement des applications non utilisées, assurez-vous que les équipes en sont informées et l'utilisent.
+
+  Gérez la migration client / utilisateur à partir d'anciennes versions de vos produits pour chaque produit et chaque groupe de client / utilisateur. Lorsqu'une version du produit n'est plus utilisée par aucun groupe client / utilisateur, arrêtez le support pour cette version. Cependant, à ce niveau de maturité, il se peut que vous ayez un grand nombre de versions de produits en cours d'utilisation à travers toute la base de clients / utilisateurs, demandant des efforts significatifs aux développeurs pour garantir la compatibilité ascendante des correctifs de produits.
+#Type Classification of the Document
+type: Activity

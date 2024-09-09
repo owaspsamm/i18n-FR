@@ -1,0 +1,30 @@
+---
+#===========================================================
+#OWASP SAMM2 Security Practice template/sample
+#===========================================================
+#Link to the function, using its unique identifier
+function: 8aa8154b83434e73b3ca8c0e9b654417
+#Unique identifier (GUID) used to refer to this practice.
+#Please generate another identifier for your specific practice.
+id: b2af112859d34cada6ce4cf44d393b94
+#Official name of this practice
+name: Génération Sécurisée
+#Abbreviation of this practice
+shortName: GS
+#A one sentence description of the security practice
+shortDescription: Cette pratique se concentre sur la création d'un processus de génération reproductible et cohérent et prenant en compte la sécurité des dépendances de l'application.
+#A multi-paragraph description of the security practice
+longDescription: |
+  La pratique Génération Sécurisée (GS) souligne l'importance de construire des logiciels d'une façon standardisée et reproductible, et de le faire en utilisant des composants sécurisés, y compris les dépendances de logiciels tiers.
+
+  Le premier flux se concentre sur la suppression de toute subjectivité du processus de génération en recherchant une automatisation complète. Un pipeline de génération automatique peut inclure des vérifications de sécurité supplémentaires automatisées telles que le SAST et le DAST pour améliorer le niveau de confiance et identifier les régressions de sécurité en faisant échouer la génération, par exemple.
+
+  Le second flux reconnaît l'importance des dépendances logicielles dans les applications modernes. Il vise à les identifier et à suivre leur statut de sécurité afin de contenir l'impact de leur insécurité sur une application par ailleurs sécurisée. Dans une forme élaborée, les vérifications de sécurité pour les dépendances du logiciel sont identiques à celles de l'application elle-même.
+#The relative order of this practice in the business function
+order: 1
+#Who's the "owner" of this practice
+assignee: Daniel Kefer
+#Indication of progress to keep track of overall status
+progress: 50
+#Type Classification of the Document
+type: Practice

@@ -1,0 +1,51 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: a5b57fc5fa0441b7b23f599b506c5752
+#Link to the practice level that this activity belongs to
+level: 97a46a074fe849a1af2c2d2d3dd09ba5
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 93dff7be5f954f8d87d24f4261002508
+#The title of this activity
+title: Suivre les défauts de sécurité de manière centralisée
+#Describe the benefit that is achieved by implementing this activity
+benefit: Transparence des défauts de sécurité connus impactant des applications particulières
+#A one sentence description of the activity
+shortDescription: Mettre en place un suivi structuré des défauts de sécurité et prendre des décisions éclairées sur la base de ces informations.
+#A multi-paragraph description of the activity
+longDescription: |
+  Introduisez une définition / une compréhension commune de ce qu'est un défaut de sécurité et définissez les méthodes les plus courantes pour les identifier. Celles-ci comprennent, mais ne se limitent pas à:
+
+  * Évaluation de la menace
+  * Tests de pénétration
+  * Résultats d'outils d'analyse statique et dynamique
+  * Processus de divulgation responsable ou prime de bogue
+
+  Promouvez une culture de la transparence et évitez de blâmer toute équipe pour l'introduction ou l'identification de défauts de sécurité. Enregistrez et suivez tous les défauts de sécurité dans un emplacement défini. Cet emplacement n'a pas nécessairement à être centralisé pour l'ensemble de l'organisation, cependant assurez-vous de pouvoir avoir une vue d'ensemble de tous les défauts qui affectent une application donnée à n'importe quel moment. Définissez et appliquez des règles d'accès pour les défauts de sécurité suivis afin d'atténuer le risque de fuite et d'abus de ces informations.
+
+  Introduisez a minima une classification qualitative rudimentaire des défauts de sécurité afin que vous soyez en mesure de prioriser les efforts de correction d'une manière satisfaisante. Efforcez-vous de limiter la duplication des informations et la présence de faux positifs afin d’accroître la fiabilité du processus.
+#The output of this particular activity
+results:
+  - résultat1
+  - résultat2
+#The different metrics that can be used to measure the success of the activity
+metrics:
+  - métrique1
+  - métrique2
+#A description of the costs required to implement the activity
+costs: SCT.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Ingénieur en sécurité
+  - Officier de sécurité
+#Internal notes that might help the author
+notes: Aucun
+#References to other activities that are prerequesites to implement this one.
+relatedActivities:
+  - 921ff24f0b9f4df9a5129aa2f8a4a570
+  - b3b20a75740c4880a21ad9aa0c1298c7
+#Type Classification of the Document
+type: Activity

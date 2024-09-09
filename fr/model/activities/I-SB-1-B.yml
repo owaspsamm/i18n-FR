@@ -1,0 +1,51 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 2f7b501627954c6cb03342196b2065a7
+#Link to the practice level that this activity belongs to
+level: b29ab542cc674901a19cf5f3c0c4be18
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: bed0489cae4e4401b1d44d56ad36c109
+#The title of this activity
+title: Identifier les dépendances de l'application
+#Describe the benefit that is achieved by implementing this activity
+benefit: Informations disponibles sur les problèmes de sécurité connus dans les dépendances
+#A one sentence description of the activity
+shortDescription: Créer des enregistrements avec la nomenclature de vos applications et analysez-les opportunément.
+#A multi-paragraph description of the activity
+longDescription: |
+  Gardez un enregistrement de toutes les dépendances utilisées dans l'environnement de production cible. Cela est parfois appelé "nomenclature". Gardez en tête que différents composants de l'application peuvent utiliser des dépendances complètement différentes. Par exemple, si le logiciel est une application web, couvrez à la fois le code côté serveur et les scripts côté client. Lors de la construction de ces enregistrements, considérez les différents endroits où les dépendances peuvent être spécifiées comme les fichiers de configuration, le répertoire du projet sur le disque, un outil de gestion des paquets ou le code réel (par ex. via un EDI qui prend en charge la liste des dépendances).
+
+  Rassemblez les informations suivantes sur chaque dépendance :
+
+  * quand elle est utilisée ou référencée,
+  * la version utilisée,
+  * la licence,
+  * les informations liées à sa source (lien vers le référentiel, nom de l'auteur, etc.),
+  * la prise en charge et le statut de maintenance de la dépendance.
+
+  Vérifiez les enregistrements pour découvrir les dépendances avec des vulnérabilités connues et mettez-les à jour ou remplacez-les en conséquence.
+#The output of this particular activity
+results:
+  - résultat1
+  - résultat2
+#The different metrics that can be used to measure the success of the activity
+metrics:
+  - métrique1
+  - métrique2
+#A description of the costs required to implement the activity
+costs: SCT.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Ingénieur en sécurité
+  - Développeur
+#Internal notes that might help the author
+notes: Aucun
+#References to other activities that are prerequesites to implement this one.
+relatedActivites:
+  -
+#Type Classification of the Document
+type: Activity
