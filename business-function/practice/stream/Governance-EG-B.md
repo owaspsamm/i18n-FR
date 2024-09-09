@@ -33,7 +33,7 @@ maturity_levels:
             - Le Champion de la Sécurité revoie les résultats des tests effectués en externe avant de les ajouter au backlog de l'application
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certaines équipes
             - Oui, pour au moins la moitié des équipes
             - Oui, pour la plupart ou toutes les équipes
@@ -57,7 +57,7 @@ maturity_levels:
             - Les Champions Produit sont responsables de la promotion de l'utilisation d'outils de sécurité spécifiques
 
         answers:
-            - "No"
+            - Non
             - Oui, nous avons commencé à l'implémenter
             - Oui, pour une partie de l'organisation
             - Oui, pour toute l'organisation
@@ -82,7 +82,7 @@ maturity_levels:
             - Le portail fournit un accès aux métriques de sécurité spécifiques à une application
 
         answers:
-            - "No"
+            - Non
             - Oui, nous avons commencé à l'implémenter
             - Oui, pour une partie de l'organisation
             - Oui, pour toute l'organisation

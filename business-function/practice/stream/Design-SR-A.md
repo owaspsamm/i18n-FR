@@ -33,7 +33,7 @@ maturity_levels:
             - Les exigences de sécurité sont conformes aux exigences minimales organisationnelles
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certaines applications
             - Oui, pour au moins la moitié des applications
             - Oui, pour la plupart ou toutes les applications
@@ -57,7 +57,7 @@ maturity_levels:
             - Les équipes de développement ont un champion de sécurité dédié à l'examen des exigences et des résultats en matière de sécurité
 
         answers:
-            - "No"
+            - Non
             - Oui, une partie du temps
             - Oui, au moins la moitié du temps
             - Oui, la majeure partie du temps ou tout le temps
@@ -81,7 +81,7 @@ maturity_levels:
             - Le cadre est adaptable aux exigences spécifiques de l'entreprise
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certaines applications
             - Oui, pour au moins la moitié des applications
             - Oui, pour la plupart ou toutes les applications

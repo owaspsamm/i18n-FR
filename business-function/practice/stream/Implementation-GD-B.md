@@ -22,7 +22,7 @@ maturity_levels:
         activity: |
             Une fois par période de temps définie (généralement au moins une fois par an), passez en revue vos défauts de sécurité à la fois résolus et encore ouverts dans chaque équipe et extrayez les métriques simples à partir des données disponibles. Ceux-ci peuvent inclure :
 
-                        * le nombre total de défauts par rapport au nombre total d'activités de vérification. Cela peut vous donner une idée de si vous recherchez des défauts avec une intensité et une qualité adéquates,
+            * le nombre total de défauts par rapport au nombre total d'activités de vérification. Cela peut vous donner une idée de si vous recherchez des défauts avec une intensité et une qualité adéquates,
             * Les composants logiciels dans lesquels résident ces défauts. Cela peut indiquer où l'attention pourrait être la plus nécessaire et où les défauts de sécurité pourraient apparaître à nouveau dans le futur,
             * Le type ou la catégorie du défaut, ce qui suggère les domaines où l'équipe de développement a besoin d'une formation plus approfondie,
             * La sévérité du défaut, ce qui peut aider l'équipe à comprendre l'exposition au risque du logiciel.
@@ -36,7 +36,7 @@ maturity_levels:
             - Vous avez identifié et réalisé au moins une activité d'amélioration rapide basée sur les données
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certaines applications
             - Oui, pour au moins la moitié des applications
             - Oui, pour la plupart ou toutes les applications
@@ -48,7 +48,7 @@ maturity_levels:
         activity: |
             Définissez, collectez et calculez des métriques unifiées à travers l'ensemble de l'organisation. Elles peuvent inclure :
 
-                        * la quantité totale d'activités de vérification et de défauts identifiés,
+            * la quantité totale d'activités de vérification et de défauts identifiés,
             * les types et la sévérité des défauts identifiés,
             * les temps de détection et de résolution des défauts,
             * les fenêtres d'exposition des défauts présents sur les systèmes en production,
@@ -68,7 +68,7 @@ maturity_levels:
             - Vous partagez régulièrement des détails techniques sur les défauts de sécurité entre les équipes
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certaines applications
             - Oui, pour au moins la moitié des applications
             - Oui, pour la plupart ou toutes les applications
@@ -82,7 +82,7 @@ maturity_levels:
 
             Agrégez les données avec vos métriques de cyberveille et de gestion des incidents et utilisez les résultats comme apports pour d'autres initiatives à travers l'ensemble de l'organisation, tels que :
 
-                        * La planification de formations à la sécurité pour divers typologies de personnels
+            * La planification de formations à la sécurité pour divers typologies de personnels
             * L'amélioration des activités de vérification de la sécurité pour les développements internes et externes
             * La gestion de la chaîne d'approvisionnement, c.a.d. effectuer des audits de sécurité des organisations partenaires
             * La surveillance des attaques contre votre infrastructure et vos applications
@@ -97,7 +97,7 @@ maturity_levels:
             - Vous avez tiré au moins une initiative stratégique des indicateurs au cours de l'année écoulée.
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certaines applications
             - Oui, pour au moins la moitié des applications
             - Oui, pour la plupart ou toutes les applications

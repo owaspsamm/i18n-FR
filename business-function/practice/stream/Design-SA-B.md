@@ -31,7 +31,7 @@ maturity_levels:
             - Vous vous assurez que les risques de ces technologies sont conformes à la référence organisationnelle
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certaines applications
             - Oui, pour au moins la moitié des applications
             - Oui, pour la plupart ou toutes les applications
@@ -55,7 +55,7 @@ maturity_levels:
             - Vous révisez et mettez à jour la liste au moins une fois par an
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certains domaines technologiques
             - Oui, pour au moins la moitié des domaines technologiques
             - Oui, pour la plupart ou tous les domaines technologiques
@@ -76,7 +76,7 @@ maturity_levels:
             - Vous prenez des mesures si le nombre de violations dépasse les objectifs annuels
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certaines applications
             - Oui, pour au moins la moitié des applications
             - Oui, pour la plupart ou toutes les applications

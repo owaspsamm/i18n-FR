@@ -32,7 +32,7 @@ maturity_levels:
             - Vous enregistrez les contrôles de sécurité manquants comme des défauts
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certaines applications
             - Oui, pour au moins la moitié des applications
             - Oui, pour la plupart ou toutes les applications
@@ -54,7 +54,7 @@ maturity_levels:
             - Vous enregistrez les mécanismes de sécurité manquants comme des défauts
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certaines applications
             - Oui, pour au moins la moitié des applications
             - Oui, pour la plupart ou toutes les applications
@@ -76,7 +76,7 @@ maturity_levels:
             - Vous enregistrez les lacunes identifiées comme des défauts
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certaines applications
             - Oui, pour au moins la moitié des applications
             - Oui, pour la plupart ou toutes les applications

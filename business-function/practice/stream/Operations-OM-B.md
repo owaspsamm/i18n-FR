@@ -30,7 +30,7 @@ maturity_levels:
             - Vous gérez la migration des clients / utilisateurs à partir des anciennes versions pour chaque produit et chaque groupe de clients / utilisateurs
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certaines applications
             - Oui, pour au moins la moitié des applications
             - Oui, pour la plupart ou toutes les applications
@@ -53,7 +53,7 @@ maturity_levels:
             - Les environnements d'exploitation ne contiennent pas de comptes, de règles de pare-feu ou autres artefacts de configuration inutiles
 
         answers:
-            - "No"
+            - Non
             - Oui, une partie du temps
             - Oui, au moins la moitié du temps
             - Oui, la majeure partie du temps ou tout le temps
@@ -74,7 +74,7 @@ maturity_levels:
             - Vous passez en revue le processus au moins une fois par an
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certains des actifs
             - Oui, pour au moins la moitié des actifs
             - Oui, pour la plupart ou la totalité des actifs

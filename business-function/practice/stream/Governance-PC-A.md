@@ -32,7 +32,7 @@ maturity_levels:
             - Vos normes sont alignées sur vos politiques et intègrent des conseils spécifiques de mise en œuvre pour une technologie donnée
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certaines applications
             - Oui, pour au moins la moitié des applications
             - Oui, pour la plupart ou toutes les applications
@@ -54,7 +54,7 @@ maturity_levels:
             - Vous créez des versions adaptées à chaque méthodologie de développement et à chaque technologie que l'organisation utilise
 
         answers:
-            - "No"
+            - Non
             - Oui, du contenu
             - Oui, au moins la moitié du contenu
             - Oui, la plupart ou la totalité du contenu
@@ -75,7 +75,7 @@ maturity_levels:
             - Les parties prenantes utilisent les informations remontées sur l'état de conformité pour identifier les domaines à améliorer
 
         answers:
-            - "No"
+            - Non
             - Oui, mais la remontée d'information est ad-hoc
             - Oui, nous remontons les informations régulièrement
             - Oui, nous remontons les informations au moins une fois par an

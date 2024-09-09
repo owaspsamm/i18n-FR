@@ -33,7 +33,7 @@ maturity_levels:
             - Vous traitez les résultats conformément à la politique de gestion des défauts de l'organisation
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certains composants
             - Oui, pour au moins la moitié des composants
             - Oui, pour la plupart ou pour tous les composants
@@ -59,7 +59,7 @@ maturity_levels:
             - Le personnel qualifié effectue des tests de pénétration
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certaines applications
             - Oui, pour au moins la moitié des applications
             - Oui, pour la plupart ou toutes les applications
@@ -84,7 +84,7 @@ maturity_levels:
             - Les parties prenantes revoient les résultats de test et les traitent selon la gestion des risques de l'organisation
 
         answers:
-            - "No"
+            - Non
             - Oui, mais nous l'améliorons de façon ad-hoc
             - Oui, nous l'améliorons régulièrement
             - Oui, nous l'améliorons au moins une fois par an

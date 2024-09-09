@@ -37,7 +37,7 @@ maturity_levels:
             - Vous durcissez les outils utilisés dans le processus de déploiement
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certaines applications
             - Oui, pour au moins la moitié des applications
             - Oui, pour la plupart ou toutes les applications
@@ -61,7 +61,7 @@ maturity_levels:
             - Vous avez des logs disponibles pour vos déploiements passés pour une période de temps définie
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certaines applications
             - Oui, pour au moins la moitié des applications
             - Oui, pour la plupart ou toutes les applications
@@ -84,7 +84,7 @@ maturity_levels:
             - Si la vérification des signatures n'est pas possible (par exemple dans le cas d'un logiciel généré en externe), vous introduisez des mesures compensatoires
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certaines applications
             - Oui, pour au moins la moitié des applications
             - Oui, pour la plupart ou toutes les applications

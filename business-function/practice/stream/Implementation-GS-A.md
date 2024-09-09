@@ -39,7 +39,7 @@ maturity_levels:
             - Vous durcissez les outils utilisés lors du processus de génération
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certaines applications
             - Oui, pour au moins la moitié des applications
             - Oui, pour la plupart ou toutes les applications
@@ -64,7 +64,7 @@ maturity_levels:
             - Vous chiffrez les secrets requis par les outils de génération et contrôlez les accès selon le principe du moindre privilège
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certaines applications
             - Oui, pour au moins la moitié des applications
             - Oui, pour la plupart ou toutes les applications
@@ -88,7 +88,7 @@ maturity_levels:
             - Vous sélectionnez et configurez les outils pour évaluer chaque application par rapport à ses exigences de sécurité au moins une fois par an
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certaines applications
             - Oui, pour au moins la moitié des applications
             - Oui, pour la plupart ou toutes les applications

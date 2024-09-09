@@ -32,7 +32,7 @@ maturity_levels:
             - Vous avez un standard de configuration établi pour chaque composant clé
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certains composants
             - Oui, pour au moins la moitié des composants
             - Oui, pour la plupart ou pour tous les composants
@@ -56,7 +56,7 @@ maturity_levels:
             - Vous formez les employés responsables des configurations à ces références minimales
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certains composants
             - Oui, pour au moins la moitié des composants
             - Oui, pour la plupart ou pour tous les composants
@@ -84,7 +84,7 @@ maturity_levels:
             - Vous réexaminez chaque référence minimale au moins une fois par an et vous la mettez à jour lorsque cela est nécessaire
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certains composants
             - Oui, pour au moins la moitié des composants
             - Oui, pour la plupart ou pour tous les composants

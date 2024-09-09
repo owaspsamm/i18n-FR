@@ -37,7 +37,7 @@ maturity_levels:
             - La fréquence de cette analyse est en phase avec le niveau de criticité de vos applications
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certaines applications
             - Oui, pour au moins la moitié des applications
             - Oui, pour la plupart ou toutes les applications
@@ -64,7 +64,7 @@ maturity_levels:
             - Vous avez une liste de contrôle des attaques potentielles pour simplifier la détection d'incidents
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certaines applications
             - Oui, pour au moins la moitié des applications
             - Oui, pour la plupart ou toutes les applications
@@ -88,7 +88,7 @@ maturity_levels:
             - Vous mettez à jour la liste de contrôle des attaques potentielles avec des données externes et internes
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certaines applications
             - Oui, pour au moins la moitié des applications
             - Oui, pour la plupart ou toutes les applications

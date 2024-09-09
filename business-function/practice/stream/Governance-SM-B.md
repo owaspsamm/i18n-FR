@@ -22,7 +22,7 @@ maturity_levels:
         activity: |
             Définissez et documentez des métriques dans le but d'évaluer l'efficacité opérationnelle du programme de sécurité applicative. De cette manière, les améliorations sont mesurables et vous pouvez les utiliser pour sécuriser les besoins futurs en support et en budget pour le programme. Prenant en compte la nature dynamique de la plupart des environnements de développement, les métriques devraient comprendre des mesures dans les catégories suivantes :
 
-                        * Les métriques sur les 'Actions' mesurent les actions faites sur la sécurité. Par exemple, les heures de formation, le temps passé à faire des revues de code et le nombre d'applications scannées quant aux vulnérabilités.
+            * Les métriques sur les 'Actions' mesurent les actions faites sur la sécurité. Par exemple, les heures de formation, le temps passé à faire des revues de code et le nombre d'applications scannées quant aux vulnérabilités.
             * Les métriques sur les 'Résultats' mesurent les résultats des actions sur la sécurité. Des exemples sont : nombre de correctifs avec des défauts de sécurité significatifs et nombre d'incidents de sécurité impliquant des vulnérabilités dans une application.
             * Les métriques sur l''Environnement' rapportent des données sur l'environnement dans lequel les actions de sécurité surviennent. Par exemple, nombre d'applications ou de lignes de code mesurant la complexité ou la difficulté.
 
@@ -30,7 +30,7 @@ maturity_levels:
 
             Lors de l'identification des métriques, il est toujours recommandé de se tenir aux métriques qui remplissent plusieurs critères :
 
-                        * Mesurées de façon cohérente,
+            * Mesurées de façon cohérente,
             * Peu chères à mesurer,
             * Exprimées sous la forme de nombres cardinaux ou de pourcentage,
             * Exprimées en tant qu'unité de mesure.
@@ -45,7 +45,7 @@ maturity_levels:
             - Les équipes de sécurité des applications et de développement publient des métriques
 
         answers:
-            - "No"
+            - Non
             - Oui, pour une catégorie de métriques
             - Oui, pour deux catégories de métriques
             - Oui, pour les trois catégories de métriques
@@ -69,7 +69,7 @@ maturity_levels:
             - Le succès du programme de sécurité applicative est sans ambigüité selon les KPIs définis
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certains métriques
             - Oui, pour au moins la moitié des métriques
             - Oui, pour la plupart ou toutes les métriques
@@ -81,7 +81,7 @@ maturity_levels:
         activity: |
             Définissez des lignes directrices pour influencer le programme de Sécurité Applicative en vous basant sur des ICP et d'autres métriques de sécurité applicative. Ces lignes directrices combinent la maturité du processus et des procédures de développement d'application avec différentes métriques afin de rendre le programme plus efficace. Les exemples suivants montrent la relation entre les mesures et les façons de faire évoluer et d'améliorer la sécurité dans les applications :
 
-                        * Se concentrer sur la maturité du cycle de vie de développement réduit le coût relatif par défaut en appliquant la sécurité de manière proactive.
+            * Se concentrer sur la maturité du cycle de vie de développement réduit le coût relatif par défaut en appliquant la sécurité de manière proactive.
             * Surveiller l'équilibre entre les métriques concernant les actions, les résultats et l'environnement améliore l'efficacité du programme et permet de justifier toute automatisation supplémentaire et autres méthodes d'amélioration des réferences plancher de la sécurité globale de l'application.
             * Les pratiques individualisées de sécurité peuvent fournir des indicateurs de réussite ou d'échec des initiatives individualisées de sécurité applicative.
             * Les métriques sur les actions aident à garantir que les initiatives sur la sécurité des applications sont dirigés vers les technologies et les disciplines les plus pertinentes et les plus importantes.
@@ -94,7 +94,7 @@ maturity_levels:
             - Les indicateurs clés de performance et les métriques de sécurité applicative sont la cause de la plupart des changements de la stratégie de sécurité applicative
 
         answers:
-            - "No"
+            - Non
             - Oui, mais la revue est ad-hoc
             - Oui, nous le revoyons régulièrement
             - Oui, nous le revoyons au moins une fois par an

@@ -33,7 +33,7 @@ maturity_levels:
             - Les parties prenantes concernées comprennent les principes de sécurité
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certaines applications
             - Oui, pour au moins la moitié des applications
             - Oui, pour la plupart ou toutes les applications
@@ -60,7 +60,7 @@ maturity_levels:
             - Vos concepteurs sont formés à l'intégration de chaque service sélectionné selon les conseils disponibles
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certaines applications
             - Oui, pour au moins la moitié des applications
             - Oui, pour la plupart ou toutes les applications
@@ -83,7 +83,7 @@ maturity_levels:
             - Vous fournissez un ensemble de composants, bibliothèques et outils pour implémenter chaque architecture de référence
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certaines applications
             - Oui, pour au moins la moitié des applications
             - Oui, pour la plupart ou toutes les applications

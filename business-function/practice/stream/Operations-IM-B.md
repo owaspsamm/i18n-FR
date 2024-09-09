@@ -32,7 +32,7 @@ maturity_levels:
             - Vous documentez les incidents de sécurité
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certains incidents
             - Oui, pour au moins la moitié des incidents
             - Oui, pour la plupart ou tous les incidents
@@ -44,7 +44,7 @@ maturity_levels:
         activity: |
             Mettez en place et documentez le processus officiel d'intervention en cas d'incident de sécurité. Assurez-vous que la documentation inclut des informations telles que :
 
-                        * les scénarios les plus probables / courants d'incidents de sécurité et des instructions de haut niveau pour les gérer ; pour de tels scénarios, utilisez également les connaissances publiques sur les incidents pertinents étant éventuellement survenus chez les tierces parties,
+            * les scénarios les plus probables / courants d'incidents de sécurité et des instructions de haut niveau pour les gérer ; pour de tels scénarios, utilisez également les connaissances publiques sur les incidents pertinents étant éventuellement survenus chez les tierces parties,
             * les règles pour orienter chaque incident,
             * les règles pour la participation des différentes parties prenantes, y compris la Direction Générale, les Relations Publiques, le Département Juridique, celui en charge de la Confidentialité, les Ressources Humaines, les autorités externes (Forces de l'Ordre) et les clients ; spécifiez le délai obligatoire pour ce faire, si nécessaire,
             * le processus pour effectuer une analyse de la cause racine et la documentation de ses résultats.
@@ -59,7 +59,7 @@ maturity_levels:
             - De l'outillage d'analyse forensique est disponible
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certains types d'incident
             - Oui, pour au moins la moitié des types d'incidents
             - Oui, pour la plupart ou tous les types d'incidents
@@ -83,7 +83,7 @@ maturity_levels:
             - Vous réexaminez et mettez à jour le processus de réponse au moins une fois par an
 
         answers:
-            - "No"
+            - Non
             - Oui, une partie du temps
             - Oui, au moins la moitié du temps
             - Oui, la majeure partie du temps ou tout le temps

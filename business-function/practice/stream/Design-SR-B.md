@@ -32,7 +32,7 @@ maturity_levels:
             - Un questionnaire concernant les fournisseurs est disponible et est utilisé pour l'évaluation des forces et des faiblesses de vos fournisseurs
 
         answers:
-            - "No"
+            - Non
             - Oui, une partie du temps
             - Oui, au moins la moitié du temps
             - Oui, la majeure partie du temps ou tout le temps
@@ -54,7 +54,7 @@ maturity_levels:
             - Vous mesurez les indicateurs clés de performance
 
         answers:
-            - "No"
+            - Non
             - Oui, une partie du temps
             - Oui, au moins la moitié du temps
             - Oui, la majeure partie du temps ou tout le temps
@@ -75,7 +75,7 @@ maturity_levels:
             - Lorsque des processus de vérification standard ne sont pas disponibles, vous utilisez des contrôles compensatoires tels que l'analyse de la composition du logiciel et des tests de pénétration indépendants
 
         answers:
-            - "No"
+            - Non
             - Oui, une partie du temps
             - Oui, au moins la moitié du temps
             - Oui, la majeure partie du temps ou tout le temps

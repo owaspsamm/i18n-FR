@@ -24,7 +24,7 @@ maturity_levels:
 
             Rassemblez les informations suivantes sur chaque dépendance :
 
-                        * quand elle est utilisée ou référencée,
+            * quand elle est utilisée ou référencée,
             * la version utilisée,
             * la licence,
             * les informations liées à sa source (lien vers le référentiel, nom de l'auteur, etc.),
@@ -39,7 +39,7 @@ maturity_levels:
             - Vous avez analysé, traité et documenté les dépendances au moins une fois au cours des trois derniers mois
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certaines applications
             - Oui, pour au moins la moitié des applications
             - Oui, pour la plupart ou toutes les applications
@@ -55,7 +55,7 @@ maturity_levels:
 
             Revoyez régulièrement les dépendances utilisées pour vous assurer que :
 
-                        * elles restent correctement sous licence,
+            * elles restent correctement sous licence,
             * aucune vulnérabilité connue et significative impactant vos applications sont présentes,
             * la dépendance est toujours activement prise en charge et maintenue,
             * vous utilisez une version à jour,
@@ -72,7 +72,7 @@ maturity_levels:
             - Vous détectez et supprimez du logiciel de manière fiable les dépendances inutiles
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certaines applications
             - Oui, pour au moins la moitié des applications
             - Oui, pour la plupart ou toutes les applications
@@ -96,7 +96,7 @@ maturity_levels:
             - L'utilisation d'une nouvelle dépendance non évaluée pour des risques de sécurité entraîne l'échec de la génération
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certaines applications
             - Oui, pour au moins la moitié des applications
             - Oui, pour la plupart ou toutes les applications

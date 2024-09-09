@@ -22,7 +22,7 @@ maturity_levels:
         activity: |
             Introduisez une définition / une compréhension commune de ce qu'est un défaut de sécurité et définissez les méthodes les plus courantes pour les identifier. Celles-ci comprennent, mais ne se limitent pas à:
 
-                        * Évaluation de la menace
+            * Évaluation de la menace
             * Tests de pénétration
             * Résultats d'outils d'analyse statique et dynamique
             * Processus de divulgation responsable ou prime de bogue
@@ -39,7 +39,7 @@ maturity_levels:
             - Le système de gestion des défauts couvre les défauts provenant de diverses sources et activités
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certaines applications
             - Oui, pour au moins la moitié des applications
             - Oui, pour la plupart ou toutes les applications
@@ -62,7 +62,7 @@ maturity_levels:
             - Vous partagez régulièrement des données sur la conformité aux SLA
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certaines applications
             - Oui, pour au moins la moitié des applications
             - Oui, pour la plupart ou toutes les applications
@@ -76,7 +76,7 @@ maturity_levels:
 
             Intégrez votre système de gestion des défauts avec les outils automatisés introduits par d'autres pratiques, par ex.
 
-                        * Génération et déploiement : faîtes échouer le processus de génération / déploiement si des défauts de sécurité supérieurs à une certaine sévérité affectent l'artefact final, à moins que quelqu'un ne signe explicitement l'exception.
+            * Génération et déploiement : faîtes échouer le processus de génération / déploiement si des défauts de sécurité supérieurs à une certaine sévérité affectent l'artefact final, à moins que quelqu'un ne signe explicitement l'exception.
             * Surveillance : si possible, faîtes en sorte que l'abus d'une faille de sécurité dans l'environnement de production soit détecté et déclenche une alerte.
 
         question: Est-ce que vous imposez des SLAs pour la correction des défauts de sécurité?
@@ -85,7 +85,7 @@ maturity_levels:
             - Vous intégrez les outils pertinents (par exemple pour la surveillance, la génération, le déploiement) avec le système de gestion des défauts
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certaines applications
             - Oui, pour au moins la moitié des applications
             - Oui, pour la plupart ou toutes les applications

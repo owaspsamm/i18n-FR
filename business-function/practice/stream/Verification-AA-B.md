@@ -31,7 +31,7 @@ maturity_levels:
             - Vous considérez différents types de menaces, y compris celles venant de l'intérieur et celles liées aux données
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certaines applications
             - Oui, pour au moins la moitié des applications
             - Oui, pour la plupart ou toutes les applications
@@ -55,7 +55,7 @@ maturity_levels:
             - Vous enregistrez les menaces non prises en compte comme des défauts
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certaines applications
             - Oui, pour au moins la moitié des applications
             - Oui, pour la plupart ou toutes les applications
@@ -75,7 +75,7 @@ maturity_levels:
             - Vous utilisez les mises à jour de l'architecture de référence pour déclencher des examens des solutions partagées pertinentes, en fonction des risques.
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certaines applications
             - Oui, pour au moins la moitié des applications
             - Oui, pour la plupart ou toutes les applications

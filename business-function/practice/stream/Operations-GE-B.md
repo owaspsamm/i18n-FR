@@ -34,7 +34,7 @@ maturity_levels:
             - Vous examinez régulièrement les sources publiques à propos des vulnérabilités liées à vos composants
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certains composants
             - Oui, pour au moins la moitié des composants
             - Oui, pour la plupart ou pour tous les composants
@@ -57,7 +57,7 @@ maturity_levels:
             - Le processus comprend des conseils pour établir des priorités sur les mises à jour de composants
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certains composants
             - Oui, pour au moins la moitié des composants
             - Oui, pour la plupart ou pour tous les composants
@@ -80,7 +80,7 @@ maturity_levels:
             - Vous revoyez et mettez à jour le processus en fonction des commentaires des personnes qui déploient les correctifs
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certains composants
             - Oui, pour au moins la moitié des composants
             - Oui, pour la plupart ou pour tous les composants

@@ -33,7 +33,7 @@ maturity_levels:
             - Les secrets de production ne sont pas disponibles hors de l'environnement de production
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certaines applications
             - Oui, pour au moins la moitié des applications
             - Oui, pour la plupart ou toutes les applications
@@ -56,7 +56,7 @@ maturity_levels:
             - Vous enregistrez et avertissez de tout accès anormal aux secrets
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certaines applications
             - Oui, pour au moins la moitié des applications
             - Oui, pour la plupart ou toutes les applications
@@ -77,7 +77,7 @@ maturity_levels:
             - Les secrets sont régulièrement mis à jour
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certaines applications
             - Oui, pour au moins la moitié des applications
             - Oui, pour la plupart ou toutes les applications

@@ -30,7 +30,7 @@ maturity_levels:
             - Vous enregistrez et inspectez tous les plantages de l'application dans le but d'évaluer l'impact sur la sécurité en fonction de vos capacités
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certaines applications
             - Oui, pour au moins la moitié des applications
             - Oui, pour la plupart ou toutes les applications
@@ -51,7 +51,7 @@ maturity_levels:
             - Vous capturez les faiblesses identifiées comme des exigences de sécurité
 
         answers:
-            - "No"
+            - Non
             - Oui, une partie du temps
             - Oui, au moins la moitié du temps
             - Oui, la majeure partie du temps ou tout le temps
@@ -74,7 +74,7 @@ maturity_levels:
             - Vous ajoutez les résultats aux pratiques de conception
 
         answers:
-            - "No"
+            - Non
             - Oui, une partie du temps
             - Oui, au moins la moitié du temps
             - Oui, la majeure partie du temps ou tout le temps

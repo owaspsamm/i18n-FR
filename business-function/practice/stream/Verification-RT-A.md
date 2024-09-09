@@ -30,7 +30,7 @@ maturity_levels:
             - Les tests de sécurité s'exécutent chaque fois que l'application change son utilisation des contrôles
 
         answers:
-            - "No"
+            - Non
             - Oui, certains d'entre eux
             - Oui, au moins la moitié d'entre eux
             - Oui, la plupart ou tous
@@ -53,7 +53,7 @@ maturity_levels:
             - Les tests utilisent un cadre standardisé ou DSL
 
         answers:
-            - "No"
+            - Non
             - Oui, certains d'entre eux
             - Oui, au moins la moitié d'entre eux
             - Oui, la plupart ou tous
@@ -75,7 +75,7 @@ maturity_levels:
             - Vous rassemblez les tests de sécurité dans une suite de tests qui fait partie du cadre de référence des tests unitaires existants
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certaines applications
             - Oui, pour au moins la moitié des applications
             - Oui, pour la plupart ou toutes les applications

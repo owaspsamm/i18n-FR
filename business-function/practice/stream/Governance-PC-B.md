@@ -32,7 +32,7 @@ maturity_levels:
             - Vous avez capturé et harmonisé les obligations de conformité depuis toutes les sources
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certaines applications
             - Oui, pour au moins la moitié des applications
             - Oui, pour la plupart ou toutes les applications
@@ -52,7 +52,7 @@ maturity_levels:
             - Vous définissez des procédures de vérification, y compris des tests automatiques, pour vérifier la conformité aux exigences de conformité
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certaines obligations
             - Oui, pour au moins la moitié des obligations
             - Oui, pour la plupart ou toutes les obligations
@@ -75,7 +75,7 @@ maturity_levels:
             - Les parties prenantes utilisent les informations remontées sur l'état de conformité pour identifier les lacunes en matière de conformité et mettre des priorités sur les actions de réduction des écarts
 
         answers:
-            - "No"
+            - Non
             - Oui, mais la remontée d'information est ad-hoc
             - Oui, nous remontons les informations régulièrement
             - Oui, nous remontons les informations au moins une fois par an

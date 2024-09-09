@@ -31,7 +31,7 @@ maturity_levels:
             - Vous avez des contrôles pour empêcher la propagation de données sensibles non assainies de l'environnement de production vers les environnements inférieurs
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certaines applications
             - Oui, pour au moins la moitié des applications
             - Oui, pour la plupart ou toutes les applications
@@ -55,7 +55,7 @@ maturity_levels:
             - Vous avez des exigences de rétention des données et vous détruisez les sauvegardes en temps voulu à la fin de la période de rétention
 
         answers:
-            - "No"
+            - Non
             - Oui, pour certaines de nos données
             - Oui, pour au moins la moitié de nos données
             - Oui, pour la plupart ou toutes nos données
@@ -80,7 +80,7 @@ maturity_levels:
             - Vous contrôlez périodiquement le bon fonctionnement des mécanismes automatisés, y compris les sauvegardes et les suppressions d'enregistrements
 
         answers:
-            - "No"
+            - Non
             - Oui, nous le faisons à la demande
             - Oui, nous le faisons toutes les quelques années
             - Oui, nous le faisons au moins une fois par an

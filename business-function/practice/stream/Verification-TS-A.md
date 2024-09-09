@@ -36,7 +36,7 @@ maturity_levels:
             - Vous choisissez des outils de test de sécurité adaptés à l'architecture de l'organisation et à la pile technologique, et trouvez un juste équilibre entre la profondeur et la précision de l'inspection d'une part et la facilité d'utilisation des résultats pour l'organisation d'autre part
 
         answers:
-            - "No"
+            - Non
             - Oui, certains d'entre eux
             - Oui, au moins la moitié d'entre eux
             - Oui, la plupart ou tous
@@ -61,7 +61,7 @@ maturity_levels:
             - Vous minimisez les faux négatifs en tirant parti des extensions des outils ou des DSLs pour personnaliser les outils pour votre application ou vos normes organisationnelles
 
         answers:
-            - "No"
+            - Non
             - Oui, certains d'entre eux
             - Oui, au moins la moitié d'entre eux
             - Oui, la plupart ou tous
@@ -85,7 +85,7 @@ maturity_levels:
             - Vous fusionnez les résultats des tests dans un tableau de bord central et les transmettez à la gestion des défauts
 
         answers:
-            - "No"
+            - Non
             - Oui, certain(e)s
             - Oui, au moins la moitié
             - Oui, la plupart ou la totalité
