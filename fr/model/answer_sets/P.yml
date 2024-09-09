@@ -9,7 +9,7 @@ id: 01b2ac64461d4ec6b40843a4c77e1ba6
 values:
   - 
     #lowest level
-    text: false
+    text: Non
     value: 0
     weight: 1
     order: 0
