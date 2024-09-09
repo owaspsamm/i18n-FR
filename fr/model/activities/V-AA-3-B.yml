@@ -1,0 +1,22 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: b7487370a07543cbb02ddb60c055d92f
+#Link to the practice level that this activity belongs to
+level: 83ea8aaab3384b41b785107613e4d86
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: a11da5bb4d3c475d9e9c53b104032e65
+#The title of this activity
+title: Mettre en place une boucle de rétroaction pour les résultats de revue afin d'améliorer les architectures de référence
+#Describe the benefit that is achieved by implementing this activity
+benefit: Amélioration continue de l'architecture d'entreprise basée sur les revues d'architecture
+#A one sentence description of the activity
+shortDescription: Mettre en place une boucle de rétroaction pour les résultats de revue d'architecture vers l'architecture d'entreprise, les principes & les modèles de conception d'organisation, les solutions de sécurité et les architectures de référence.
+#A multi-paragraph description of the activity
+longDescription: |
+  En tant qu'organisation, vous pouvez encore améliorer votre posture de sécurité logicielle en comprenant les menaces qui ne sont pas traitées dans les architectures logicielles et en adaptant vos tactiques pour éviter cela. Formalisez un processus pour utiliser les identifications de problèmes d'architecture récurrents comme déclencheur afin d'identifier les causes des lacunes dans l'évaluation de la sécurité et y faire face. Renvoyez les résultats vers la phase de conception en créant ou en mettant à jour les architectures de référence pertinentes, les solutions de sécurité existantes ou les principes et modèles de conception de l'organisation.
+#Type Classification of the Document
+type: Activité

@@ -1,0 +1,26 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 8c1dcd10821f4f2baed52fdc83d93cf6
+#Link to the practice level that this activity belongs to
+level: 3d035b6df77f4ee69577c9b4c9d64891
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 2b01696356ed4652accf093f6c6a47ee
+#The title of this activity
+title: Evaluez les fournisseurs
+#Describe the benefit that is achieved by implementing this activity
+benefit: Transparence des pratiques de sécurité de vos fournisseurs de logiciels
+#A one sentence description of the activity
+shortDescription: Évaluer le fournisseur selon des exigences de sécurité organisationnelles.
+#A multi-paragraph description of the activity
+longDescription: |
+  Les compétences et les habitudes en matière de sécurité des fournisseurs externes impliqués dans le développement de votre logiciel peuvent avoir un impact significatif sur la posture de sécurité du produit final. Par conséquent, il est important de connaître et d'évaluer vos fournisseurs sur ce point.
+
+  Effectuez une évaluation de chacun de vos fournisseurs pour comprendre leurs forces et leurs faiblesses. Utilisez une liste de contrôle de base ou conduisez des entretiens pour examiner leurs pratiques et leurs comportements habituels. Cela vous donne une idée de la façon dont ils s'organisent et des éléments pour évaluer si vous avez besoin de prendre des mesures complémentaires pour atténuer des risques potentiels. Idéalement, parlez à différents intervenants au sein de l'organisation, voire même mettez en place une petite évaluation de maturité à cette fin. Des fournisseurs avec un fort niveau de maturité exécuteront leur propre programme d'assurance logicielle et seront en mesure de répondre à la plupart de vos questions. Si les fournisseurs ont des compétences faibles en matière de sécurité logicielle, discutez avec eux de la manière et dans quelle mesure ils comptent travailler sur cette question et évaluez si cela suffit pour votre organisation. Il se peut qu'un fournisseur de logiciel travaille sur un projet à faible risque, mais ce niveau de risque pourrait changer.
+
+  Il est important que vos fournisseurs comprennent et s'alignent sur l'appétit du risque et soient en mesure de répondre à vos exigences dans ce domaine. Explicitez ce que vous attendez d'eux et discutez-en clairement.
+#Type Classification of the Document
+type: Activité

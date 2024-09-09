@@ -1,0 +1,23 @@
+---
+#===========================================================
+#OWASP SAMM2 Coverage Question template/sample
+#===========================================================
+#Link to the activity that this question helps measure
+activity: 1f3a9306778f4539a437d9f19232cda7
+#Link to the answer set that contains the potential answers for this question
+answerset: f77bd45a28c8493dbba6e53b2eafa20f
+#Unique identifier (GUID) used to refer to this maturity level.
+#Please generate another identifier for your specific maturity level.
+id: 7ef6753cda0d4da6ad194e56650f584d
+#One-sentence description of the criterium
+text: Les processus de déploiement sont-ils automatisés et utilisent-ils des contrôles de sécurité?
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - Les processus de déploiement sont automatisés à toutes les étapes
+  - Le déploiement comprend des procédures de test de sécurité automatisées
+  - Vous alertez le personnel responsable des vulnérabilités identifiées
+  - Vous avez des logs disponibles pour vos déploiements passés pour une période de temps définie
+#Type Classification of the Document
+type: Question

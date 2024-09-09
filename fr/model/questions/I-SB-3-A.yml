@@ -1,0 +1,23 @@
+---
+#===========================================================
+#OWASP SAMM2 Coverage Question template/sample
+#===========================================================
+#Link to the activity that this question helps measure
+activity: 281369f491da4d4c84b0729e344e2c93
+#Link to the answer set that contains the potential answers for this question
+answerset: f77bd45a28c8493dbba6e53b2eafa20f
+#Unique identifier (GUID) used to refer to this maturity level.
+#Please generate another identifier for your specific maturity level.
+id: ee775955bf7f48d294c75f6384232f48
+#One-sentence description of the criterium
+text: Avez-vous mis en place des contrôles de sécurité automatisés dans vos processus de génération?
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - La génération échoue si l'application ne répond pas à une référence minimale de sécurité prédéfinie
+  - Vous avez défini une sévérité maximale pour les vulnérabilités
+  - Vous enregistrez les avertissements et les échecs dans un système centralisé
+  - Vous sélectionnez et configurez les outils pour évaluer chaque application par rapport à ses exigences de sécurité au moins une fois par an
+#Type Classification of the Document
+type: Question

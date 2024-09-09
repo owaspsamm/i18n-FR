@@ -1,0 +1,21 @@
+---
+#===========================================================
+#OWASP SAMM2 Coverage Question template/sample
+#===========================================================
+#Link to the activity that this question helps measure
+activity: 43d347fd280845718f16ccc811e5d942
+#Link to the answer set that contains the potential answers for this question
+answerset: 01b2ac64461d4ec6b40843a4c77e1ba6
+#Unique identifier (GUID) used to refer to this maturity level.
+#Please generate another identifier for your specific maturity level.
+id: efdc34fbb75b405b8107d63d58fa7286
+#One-sentence description of the criterium
+text: Mettez-vous à jour la stratégie et la feuille de route de sécurité des applications en fonction des indicateurs de sécurité des applications et des indicateurs clés de performance?
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - Vous réexaminez les indicateurs clés de performance au moins une fois par an par rapport à leur efficacité et leur opérationnalité
+  - Les indicateurs clés de performance et les métriques de sécurité applicative sont la cause de la plupart des changements de la stratégie de sécurité applicative
+#Type Classification of the Document
+type: Question

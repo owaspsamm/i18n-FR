@@ -1,0 +1,21 @@
+---
+#===========================================================
+#OWASP SAMM2 Coverage Question template/sample
+#===========================================================
+#Link to the activity that this question helps measure
+activity: 09f4b814a3444b329a7c9c7f54152ffe
+#Link to the answer set that contains the potential answers for this question
+answerset: 9a87d689fe35441aabf1ad4b7048b61e
+#Unique identifier (GUID) used to refer to this maturity level.
+#Please generate another identifier for your specific maturity level.
+id: 54aca12ea18e4073becbdd356cd3b3ef
+#One-sentence description of the criterium
+text: Publiez-vous les politiques de l'organisation sous forme de scripts de test ou de manuels d'exécution dans le but de faciliter leur interprétation par les équipes de développement?
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - Vous créez des listes de vérification et des scripts de test quand c'est pertinent, conformément aux exigences de la politique et aux directives d'implémentation des normes associées
+  - Vous créez des versions adaptées à chaque méthodologie de développement et à chaque technologie que l'organisation utilise
+#Type Classification of the Document
+type: Question

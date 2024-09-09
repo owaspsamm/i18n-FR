@@ -1,0 +1,30 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 102fdab651834273abd67a3ec27aab05
+#Link to the practice level that this activity belongs to
+level: d6cefe3e63d149299fb088010c24778b
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 921ff24f0b9f4df9a5129aa2f8a4a570
+#The title of this activity
+title: Effectuer des tests de sécurité automatisés
+#Describe the benefit that is achieved by implementing this activity
+benefit: Détection de vulnérabilités communes faciles à trouver
+#A one sentence description of the activity
+shortDescription: Utiliser des outils de test de sécurité automatisés
+#A multi-paragraph description of the activity
+longDescription: |
+  Utilisez des outils de test de sécurité statique et dynamique automatisés pour les logiciels, ce qui permet des tests de sécurité plus efficaces et des résultats de meilleure qualité. Augmentez progressivement la fréquence des tests de sécurité et augmentez la couverture du code.
+
+  Les tests de sécurité des applications peuvent être effectués statiquement, en inspectant le code source d'une application sans l'exécuter, ou dynamiquement en observant simplement le comportement de l'application en réponse à diverses conditions d'entrée. La première approche est souvent appelée « Static Application Security Testing » (SAST), la seconde étant appelée « Dynamic Application Security Testing » (DAST). Une approche hybride, connue sous le nom de Tests de Sécurité Intéractifs d'Applications (IAST), combine les forces des deux approches (au prix d'efforts supplémentaires) en testant dynamiquement des applications automatiquement instrumentées, permettant un suivi précis de l'état interne de l'application en réponse à une entrée externe.
+
+  Beaucoup de vulnérabilités de sécurité sont très difficiles à détecter sans inspecter soigneusement le code source. Bien que cette tâche soit idéalement effectuée par des experts ou par des pairs, il s'agit d'une tâche lente et coûteuse. Bien que "plus bruyant" et souvent moins précis que des examens menés par des experts, les outils automatisés SAST sont moins chers, bien plus rapides et plus cohérents que les humains. Un certain nombre d'outils commerciaux ou gratuits sont capables de détecter efficacement les bogues et vulnérabilités suffisamment importants dans de grandes bases de code.
+
+  Les tests dynamiques ne nécessitent pas le code source de l'application, ce qui le rend idéal pour les cas où le code source n'est pas disponible. Il identifie également des cas concrets de vulnérabilités. En raison de son approche "boîte noire", sans instrumentation, il est plus susceptible de découvrir des bogues peu enfouis. Les outils de test dynamiques ont besoin d'une grande source de données de test, dont la génération manuelle est prohibitive. De nombreux outils existent qui génèrent les données de test appropriées automatiquement, conduisant à des tests de sécurité plus efficaces et à des résultats de meilleure qualité.
+
+  Sélectionnez les outils appropriés en fonction de plusieurs facteurs, notamment la profondeur et la précision de l'inspection, la robustesse et la précision des cas de tests de sécurité, les possibilités d'intégration avec d'autres outils, l'utilisation qui en sera faite et le modèle de coûts, etc. Lorsque vous sélectionnez des outils, prenez en compte les commentaires du personnel technique compétent en matière de sécurité ainsi que ceux des développeurs et des gestionnaires de développement et examinez les résultats avec les parties prenantes.
+#Type Classification of the Document
+type: Activité

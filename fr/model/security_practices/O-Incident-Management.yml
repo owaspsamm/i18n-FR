@@ -1,0 +1,30 @@
+---
+#===========================================================
+#OWASP SAMM2 Security Practice - Incident Management
+#===========================================================
+#Link to the model, using its unique identifier
+function: 942d679b0c9e41909f8bde728fdb1259
+#Unique identifier (GUID) used to refer to this practice.
+#Please generate another identifier for your specific practice.
+id: c13aa12c13d04362a3ca3385a8c580ee
+#Official name of this practice
+name: Gestion des incidents
+#Abbreviation of this practice
+shortName: Messagerie Instantanée
+#A one sentence description of the security practice
+shortDescription: Cette pratique porte sur les activités menées dans le but d'améliorer la détection et la réponse de l'organisation aux incidents liés à la sécurité.
+#A multi-paragraph description of the security practice
+longDescription: |
+  Une fois que votre organisation a des applications en phase d'exploitation, vous risquez de faire face à des incidents de sécurité. Dans ce modèle, nous définissons un incident de sécurité comme une brèche ou la menace d'une violation imminente d'au moins un des objectifs de sécurité d'un actif, que ce soit en raison d'un comportement malveillant ou d'une négligence. Des exemples d'incidents de sécurité peuvent être : une attaque de déni de service (DoS) réussie contre une application dans le nuage, un utilisateur d'une application accédant à des données privées d'un autre utilisateur en abusant d'une faille de sécurité ou un attaquant modifiant le code source de l'application. La pratique de la Gestion des Incidents (GI) vise à traiter ces questions au sein de votre organisation.
+
+  Historiquement, de nombreux incidents de sécurité ont été détectés des mois, voire des années, après l'intrusion initiale. Pendant le « temps mort » avant qu'un incident ne soit détecté, des dommages importants peuvent se produire, ce qui peut augmenter la difficulté de résolution. Notre premier flux d'activité, la détection d'incidents, se concentre sur la réduction de ce temps mort.
+
+  Une fois que vous avez identifié que vous faites face à un incident de sécurité, il est essentiel de réagir de façon disciplinée et approfondie pour limiter les dommages et revenir à une situation normale aussi efficacement que possible. C'est le but de notre deuxième flux.
+#The relative order of this practice in the business function
+order: 1
+#Who's the "owner" of this practice
+assignee: John DiLeo
+#Indication of progress to keep track of overall status
+progress: 80
+#Type Classification of the Document
+type: Pratique

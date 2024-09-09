@@ -1,0 +1,26 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 0e2c4c5620e24d7d8e979020ca414182
+#Link to the practice level that this activity belongs to
+level: 38f3a2f7633c42b98eb160f36a2c0a7b
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: ebd3782abc4343509981c52192904a42
+#The title of this activity
+title: Identifier les champions de la sécurité
+#Describe the benefit that is achieved by implementing this activity
+benefit: Intégration de premier niveau de la sécurité dans l'organisation de développement
+#A one sentence description of the activity
+shortDescription: Identifier un "Champion de la Sécurité" au sein de chaque équipe de développement.
+#A multi-paragraph description of the activity
+longDescription: |
+  Implémentez un programme où chaque équipe de développement de logiciels a un membre considéré comme un « Champion de la sécurité » qui fait le lien entre la Sécurité de l'Information et les développeurs. Selon la taille et la structure de l’équipe, le « Champion de la sécurité » peut être un développeur, un testeur ou un gestionnaire de produits. Le « Champion de la sécurité » dispose d'un nombre déterminé d’heures par semaine pour les activités liées à la sécurité de l’information. Il participe à des réunions périodiques pour accroître la sensibilisation et l'expertise dans différentes disciplines de la sécurité. Les « Champions de la sécurité » suivent des formations supplémentaires pour les aider à se développer en tant qu’experts en matière de sécurité logicielle. Vous devrez peut-être personnaliser la façon dont vous créez les rôles de « Champion de la sécurité » et les incluez dans la hiérarchie pour des raisons culturelles.
+
+  Les objectifs de la fonction sont d'augmenter l'efficacité opérationnelle de la sécurité et de la conformité applicatives et de renforcer la relation entre les différentes équipes et la Sécurité de l'Information. Pour atteindre ces objectifs, les « Champion de la sécurité » aident à la recherche, à la validation et à l'affectation de priorités aux défauts logiciels liés à la sécurité et à la conformité. Ils sont impliqués dans toutes les évaluations des risques, les évaluations des menaces, et revues d'architecture pour aider à identifier les possibilités de corriger les défauts de sécurité en rendant l'architecture de l'application plus résiliente et en réduisant la menace sur la surface de d'attaque.
+
+  En plus d'apporter un soutien à la Sécurité de l'Information, les « Champions de la sécurité » fournissent périodiquement des informations à propos de toutes les questions liées à la sécurité à l’équipe projet afin que tout le monde soit conscient des problèmes et des efforts d'amélioration actuels et futurs. Ces revues sont mises à profit pour aider à la résolution de problèmes plus complexes en engageant toute l'équipe de développement.
+#Type Classification of the Document
+type: Activité

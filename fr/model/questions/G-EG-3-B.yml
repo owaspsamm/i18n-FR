@@ -1,0 +1,24 @@
+---
+#===========================================================
+#OWASP SAMM2 Coverage Question template/sample
+#===========================================================
+#Link to the activity that this question helps measure
+activity: a3720e84d6a24a8ba235c25ce6afc5c7
+#Link to the answer set that contains the potential answers for this question
+answerset: 3d4c5c80278b4a58b80d559085804446
+#Unique identifier (GUID) used to refer to this maturity level.
+#Please generate another identifier for your specific maturity level.
+id: 871a30e6aaef4905a3d3302ceea808f4
+#One-sentence description of the criterium
+text: Existe-t-il un portail centralisé où les développeurs et les professionnels de la sécurité des applications de différentes équipes et unités opérationnelles peuvent communiquer et partager des informations ?
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - L'organisation promeut l'utilisation d'un portail unique entre différentes équipes et unités commerciales
+  - Le portail est utilisé pour diffuser des informations en temps utile telles que la notification d'incidents de sécurité, les mises à jour d'outils, les changements de normes architecturales et autres annonces connexes
+  - Le portail est largement reconnu par les développeurs et les architectes en tant que référentiel central des informations de sécurité des applications spécifiques à l'organisation
+  - Tout le contenu est considéré comme étant persistant et interrogeable
+  - Le portail fournit un accès aux métriques de sécurité spécifiques à une application
+#Type Classification of the Document
+type: Question

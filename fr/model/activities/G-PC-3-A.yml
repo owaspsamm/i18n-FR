@@ -1,0 +1,24 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: c404aa4f711e4f4e9e71faea22f7fb5c
+#Link to the practice level that this activity belongs to
+level: 61ae1e4268b24d7986805658c89b5e54
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: fe7afe5fc04742bcbe476d4ba37d8091
+#The title of this activity
+title: Mesurer le respect des politiques et des normes
+#Describe the benefit that is achieved by implementing this activity
+benefit: Comprendre le respect des politiques et des normes par votre organisation
+#A one sentence description of the activity
+shortDescription: Mesurer et rendre compte du degré d'adhésion d'une application donnée aux politiques et normes.
+#A multi-paragraph description of the activity
+longDescription: |
+  Élaborez un programme pour mesurer la conformité de chaque application aux politiques et aux normes existantes. Les exigences obligatoires devraient être motivées et communiquées de façon cohérentes à travers les différentes équipes. Dans la mesure du possible, liez le statut de conformité à des tests automatisés et faites un rapport pour chaque version. Les rapports de conformité contiennent la version des politiques et des normes et les indicateurs appropriés de couverture du code.
+
+  Encouragez les équipes non-conformes à revoir les ressources disponibles telles que les exigences de sécurité et les scripts de test afin de vous assurer que la non-conformité n'est pas le résultat de conseils inadéquats. Faites suivre les problèmes résultant de conseils insuffisants aux équipes responsables de la publication des exigences d'application et des scripts de test afin d'inclure les corrections dans les versions futures. Faites remonter les problèmes résultant de l'incapacité à répondre aux politiques et aux normes vers les équipes qui gèrent les risques de sécurité des applications.
+#Type Classification of the Document
+type: Activité

@@ -1,0 +1,26 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: b7487370a07543cbb02ddb60c055d92f
+#Link to the practice level that this activity belongs to
+level: 67fcd33f84364ef68fb88aba77de1a63
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 62237ae79ab84a6687de2885b1e3d608
+#The title of this activity
+title: Vérifier structurellement l'architecture par rapport aux menaces identifiées
+#Describe the benefit that is achieved by implementing this activity
+benefit: Toutes les menaces identifiées envers l'application sont traitées de manière adéquate.
+#A one sentence description of the activity
+shortDescription: Analyser l'architecture par rapport aux menaces connues.
+#A multi-paragraph description of the activity
+longDescription: |
+  Examinez systématiquement chaque menace identifiée lors des activités d'évaluation des menaces et vérifiez la manière dont l'architecture les atténue. Utilisez un processus standardisé pour analyser les architectures systèmes et le flux de données à l'intérieur de celles-ci. Ceci est généralement lié au modèle de menace utilisé (par ex. STRIDE) afin d’identifier les objectifs de sécurité pertinents qui répondent à chaque type de menace. Pour chaque menace, identifiez les fonctionnalités de niveau conception de l'architecture qui la contrecarrent et évaluez son efficacité.
+
+  Lorsqu'elles sont disponibles, revoyez les informations concernant les décisions architecturales afin de comprendre les contraintes d'architecture et les compromis réalisés lors de la conception. Tenez compte de leurs impacts ainsi que de toutes les hypothèses liées à la sécurité sur lesquelles le fonctionnement sûr du système repose et réévaluez-les.
+
+  Enrichissez votre modèle de menace précédemment créé de telle sorte que chaque menace et l'impact estimé associé soient liés au contrôle correspondant. Produisez un document de cartographie ou un tableau de bord dans un outil spécialisé afin de rendre l'information disponible et visible aux parties prenantes concernées.
+#Type Classification of the Document
+type: Activité

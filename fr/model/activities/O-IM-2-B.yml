@@ -1,0 +1,29 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description - Incident Response, Level 2
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 390bec725b8344a289d5386026925947
+#Link to the practice level that this activity belongs to
+level: 439406325e6645519c149da3e05a7d9d
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: d6dd8813c5074350b5614b92f2dec60d
+#The title of this activity
+title: Définir un processus de réponse à incident
+#Describe the benefit that is achieved by implementing this activity
+benefit: Compréhension et gestion efficace de la plupart des incidents de sécurité
+#A one sentence description of the activity
+shortDescription: Établir un processus formel de réponse à incident et veiller à ce que le personnel soit bien formé à l'exercice de leurs fonctions.
+#A multi-paragraph description of the activity
+longDescription: |
+  Mettez en place et documentez le processus officiel d'intervention en cas d'incident de sécurité. Assurez-vous que la documentation inclut des informations telles que :
+
+  * les scénarios les plus probables / courants d'incidents de sécurité et des instructions de haut niveau pour les gérer ; pour de tels scénarios, utilisez également les connaissances publiques sur les incidents pertinents étant éventuellement survenus chez les tierces parties,
+  * les règles pour orienter chaque incident,
+  * les règles pour la participation des différentes parties prenantes, y compris la Direction Générale, les Relations Publiques, le Département Juridique, celui en charge de la Confidentialité, les Ressources Humaines, les autorités externes (Forces de l'Ordre) et les clients ; spécifiez le délai obligatoire pour ce faire, si nécessaire,
+  * le processus pour effectuer une analyse de la cause racine et la documentation de ses résultats.
+
+  Assurez-vous qu'une équipe d'intervention en cas d'incidents bien formée et bien informée est disponible pendant et en dehors des heures de bureau. Définissez les calendriers d'action et une salle de réunion de crise. Gardez les outils matériels et logiciels à jour et prêts à être utilisés à tout moment.
+#Type Classification of the Document
+type: Activité

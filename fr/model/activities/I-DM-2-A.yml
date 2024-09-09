@@ -1,0 +1,45 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: a5b57fc5fa0441b7b23f599b506c5752
+#Link to the practice level that this activity belongs to
+level: b55c7a41eba747678a65651f5ccacaf2
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 2bf0e192a9044b8a2f38c33256e80a
+#The title of this activity
+title: Evaluer et suivre les défauts de sécurité
+#Describe the benefit that is achieved by implementing this activity
+benefit: Classification cohérente des défauts de sécurité avec des attentes claires quant à leur manipulation
+#A one sentence description of the activity
+shortDescription: Évaluez de façon cohérente tous les défauts de sécurité sur l'ensemble de l'organisation et définissez les SLA pour des classes de gravité particulière.
+#A multi-paragraph description of the activity
+longDescription: |
+  Introduisez et appliquez une méthodologie d'évaluation bien définie pour vos défauts de sécurité d'une façon cohérente à travers toute l'organisation, en vous basant sur la probabilité et l'impact attendu du défaut exploité. Cela vous permettra d'identifier les applications qui nécessitent une attention accrue et des investissements. Dans le cas où vous ne stockeriez pas les informations sur les défauts de sécurité centralement, assurez-vous que vous êtes toujours en mesure de récupérer facilement les informations depuis toutes les sources et d'obtenir un aperçu des « points chauds » qui nécessitent votre attention.
+
+  Introduisez des contrats de niveau de service (CNS) pour garantir une correction des défauts de sécurité à temps selon leur niveau de criticité et surveillez de manière centralisée et faire un retour régulier sur les violations des CNS. Définissez un processus pour les cas où il n'est pas faisable ou économiquement raisonnable de corriger un défaut dans le délai défini par les CNS. Cela devrait au moins garantir que toutes les parties prenantes concernées ont une bonne compréhension du risque impliqué. Si c'est applicable, mettez en place des contrôles compensatoires pour ces cas.
+
+  Même si vous n'avez pas de CNS formels pour corriger des défauts de faible gravité, veillez à ce que les équipes responsables obtiennent toujours un aperçu régulier des problèmes qui affectent leurs applications et comprennent comment des problèmes particuliers s’affectent ou s’amplifient les uns les autres.
+#The output of this particular activity
+results:
+  - résultat1
+  - résultat2
+#The different metrics that can be used to measure the success of the activity
+metrics:
+  - métrique1
+  - métrique2
+#A description of the costs required to implement the activity
+costs: SCT.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Ingénieur en sécurité
+  - Officier de sécurité
+#Internal notes that might help the author
+notes: Aucun
+#References to other activities that are prerequesites to implement this one.
+relatedActivities:
+  -
+#Type Classification of the Document
+type: Activité

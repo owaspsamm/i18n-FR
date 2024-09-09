@@ -1,0 +1,30 @@
+---
+#===========================================================
+#OWASP SAMM2 Security Practice template/sample
+#===========================================================
+#Link to the model, using its unique identifier
+function: 102ad02df5dc4a8eb3837ef4ca2c1af4
+#Unique identifier (GUID) used to refer to this practice.
+#Please generate another identifier for your specific practice.
+id: 483a0a1b78264cafbc470ce72d557332
+#Official name of this practice
+name: Éducation & Orientation
+#Abbreviation of this practice
+shortName: EG
+#A one sentence description of the security practice
+shortDescription: Cette pratique se concentre sur l'amélioration des connaissances au sein de l'organisation en matière de logiciels sécurisés.
+#A multi-paragraph description of the security practice
+longDescription: |
+  La pratique de l'Education et Orientation (EG) vise à fournir au personnel impliqué dans le cycle de vie du logiciel des connaissances et des ressources pour concevoir, développer et déployer des logiciels sécurisés. Grâce à un meilleur accès à l’information, les équipes projet peuvent identifier et atténuer de manière proactive les risques spécifiques de sécurité qui s’appliquent à leur organisation.
+
+  Un des principaux thèmes pour la progression à travers les Objectifs est la fourniture de formation aux employés et l'amélioration de leur sensibilisation à la sécurité soit par le biais de sessions menées par un formateur ou de modules informatiques. Au fur et à mesure que l'organisation progresse, elle construit une large base de formations en commençant par les développeurs et en passant à d'autres rôles, le point d'orgue étant l'ajout de formations spécifiques à des fonctions pour garantir la pertinence et l'efficacité.
+
+  En plus de la formation, cette pratique exige également que l’organisation investisse de manière significative dans l’amélioration de la culture organisationnelle afin de promouvoir la sécurité des applications à travers la collaboration entre les équipes. Les outils collaboratifs et une transparence accrue entre les technologies et les outils soutiennent cette approche d'amélioration de la sécurité des applications.
+#The relative order of this practice in the business function
+order: 3
+#Who's the "owner" of this practice
+assignee: Yan Kravchenko
+#Indication of progress to keep track of overall status
+progress: 90
+#Type Classification of the Document
+type: Pratique

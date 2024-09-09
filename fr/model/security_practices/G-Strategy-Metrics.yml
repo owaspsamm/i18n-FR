@@ -1,0 +1,30 @@
+---
+#===========================================================
+#OWASP SAMM2 Security Practice template/sample
+#===========================================================
+#Link to the model, using its unique identifier
+function: 102ad02df5dc4a8eb3837ef4ca2c1af4
+#Unique identifier (GUID) used to refer to this practice.
+#Please generate another identifier for your specific practice.
+id: 32b3bdd85d3a4d53827960004f9d1c7e
+#Official name of this practice
+name: Stratégie & Métriques
+#Abbreviation of this practice
+shortName: SM
+#A one sentence description of the security practice
+shortDescription: Cette pratique constitue la base de vos activités logicielles de sécurité en construisant un plan global.
+#A multi-paragraph description of the security practice
+longDescription: |
+  L'assurance logicielle comprend de nombreuses activités et préoccupations différentes. Sans un plan global, vous pourriez dépenser beaucoup d'énergie pour incorporer la sécurité, alors qu'en fait vos efforts pourraient être mal alignés, disproportionnés ou même contre-productifs. Le but de la pratique Stratégie et Métriques (SM) est de construire un plan efficace et concret pour réaliser vos objectifs de sécurité logicielle au sein de votre organisation.
+
+  Un programme de sécurité logicielle qui sélectionne et établit des priorités sur les activités du reste du modèle sert de base à vos efforts. La pratique vise à la construction du plan, à son maintien et à sa diffusion.
+
+  En même temps, vous souhaitez garder une trace de votre posture de sécurité et des améliorations de votre programme. Une approche axée sur les métriques est incluse pour assurer une vision précise de vos activités. Mesurer est savoir.
+#The relative order of this practice in the business function
+order: 1
+#Who's the "owner" of this practice
+assignee: Yan Kravchenko
+#Indication of progress to keep track of overall status
+progress: 90
+#Type Classification of the Document
+type: Pratique

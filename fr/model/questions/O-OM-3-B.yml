@@ -1,0 +1,22 @@
+---
+#===========================================================
+#OWASP SAMM2 Coverage Question
+#===========================================================
+#Link to the activity that this question helps measure
+activity: 8ab46d242edd413d99a6c1991aef2416
+#This question uses Answer Set L
+answerset: c1d15e1f5c8946d381f508db29b26473
+#Unique identifier (GUID) used to refer to this maturity level.
+#Please generate another identifier for your specific maturity level.
+id: 54ad3e4182844623b3290901c1a1932d
+#Text of the question presented to the user
+text: Évaluez-vous régulièrement l'état du cycle de vie et le statut de maintenance de chaque logiciel et de chaque composant d'infrastructure sous-jacent et estimez-vous leur fin de vie?
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criteria
+quality:
+  - Votre processus de gestion de fin de vie est validé
+  - Vous informez les clients et les groupes d'utilisateurs des échéanciers des produits afin d'éviter toute perturbation du service ou du support
+  - Vous passez en revue le processus au moins une fois par an
+#Type Classification of the Document
+type: Question

@@ -1,0 +1,24 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 8c1dcd10821f4f2baed52fdc83d93cf6
+#Link to the practice level that this activity belongs to
+level: 1a55b2c4666f4336a3f5c12c5bb4a1e9
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 5d5e3d9beab9498ca1ce66d3a53a81c6
+#The title of this activity
+title: Discuter des responsabilités en matière de sécurité avec les fournisseurs
+#Describe the benefit that is achieved by implementing this activity
+benefit: Des responsabilités de sécurité clairement définies chez vos fournisseurs de logiciels
+#A one sentence description of the activity
+shortDescription: Intégrer la sécurité dans les contrats avec les fournisseurs afin de garantir la conformité avec les exigences de l'organisation.
+#A multi-paragraph description of the activity
+longDescription: |
+  Améliorez votre confiance dans les aptitudes de vos fournisseurs en matière de sécurité logicielle. Discutez des responsabilités et des attentes concrètes de vos fournisseurs et de votre propre organisation et établissez un contrat avec le fournisseur. Les responsabilités peuvent être des exigences spécifiques de qualité ou des tâches particulières, et un service minimal peut être détaillé dans un accord de niveau de service (SLA). Un exemple d'exigence de qualité est qu'ils livreront des logiciels qui implémentent des protections contre le Top 10 de l'OWASP et, lors de la détection d'éventuels problèmes, ceux-ci seront résolus. Un exemple de tâche est qu'ils doivent effectuer une analyse statique de code en continu ou effectuer un test de pénétration indépendant avant une version majeure. L'accord prévoit les responsabilités et les couvertures au cas où un problème important arriverait.
+
+  Une fois que vous avez mis cela en œuvre pour quelques fournisseurs, travaillez à un accord type pour tous les fournisseurs afin qu'il constitue la base de vos négociations. Vous pouvez vous écarter de cet accord standard au cas par cas, mais cela vous aidera à être sûr de ne pas négliger des sujets importants.
+#Type Classification of the Document
+type: Activité

@@ -1,0 +1,23 @@
+---
+#===========================================================
+#OWASP SAMM2 Coverage Question
+#===========================================================
+#Link to the activity that this question helps measure
+activity: 82a962e3dcc44b1086760de517aaa3c1
+#This question uses Answer Set J
+answerset: 6c3e82e127264b92b25b732d85286d72
+#Unique identifier (GUID) used to refer to this maturity level.
+#Please generate another identifier for your specific maturity level.
+id: 424c004afec041058e89c396c9e88930
+#Text of the question presented to the user
+text: Maintenez-vous un catalogue de données incluant les types, les niveaux de sensibilité et les emplacements de traitement et de stockage ?
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criteria
+quality:
+  - Le catalogue de données est stocké dans un endroit accessible
+  - Vous savez quels éléments de données sont soumis à une réglementation spécifique
+  - Vous avez des contrôles pour protéger et préserver les données tout au long de leur durée de vie
+  - Vous avez des exigences de rétention des données et vous détruisez les sauvegardes en temps voulu à la fin de la période de rétention
+#Type Classification of the Document
+type: Question

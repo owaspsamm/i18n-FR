@@ -1,0 +1,18 @@
+---
+#===========================================================
+#OWASP SAMM2 Activity Stream template/sample
+#===========================================================
+#Link to the security practice that this stream belongs to
+practice: 483a0a1b78264cafbc470ce72d557332
+#Unique identifier to refer to this stream
+id: 0e2c4c5620e24d7d8e979020ca414182
+#Official stream name
+name: Organisation et Culture
+#Stream letter, A or B
+letter: B
+#Multi-paragraph explanation of the stream
+description: L'organisation et la culture se concentrent sur la promotion de la culture de la sécurité des applications au sein de l'organisation en tant que facteur de réussite essentiel d'un projet SDLC.
+#Relative order of the stream within the security stream  (A=1 ; B=2)
+order: 2
+#Type Classification of the Document
+type: Flux

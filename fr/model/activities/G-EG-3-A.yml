@@ -1,0 +1,28 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 7344f4b153314dd8965361d23772aef1
+#Link to the practice level that this activity belongs to
+level: e3cf1d3c27b74262b9f842f27ca86333
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: a061ed8a5b1c4899bc95d9b1a10a469d
+#The title of this activity
+title: Normaliser les conseils de sécurité
+#Describe the benefit that is achieved by implementing this activity
+benefit: S'assurer que tous les employés ont une connaissance adéquate de la sécurité avant de travailler sur des tâches critiques
+#A one sentence description of the activity
+shortDescription: Des conseils internes standardisés sur les normes de développement de sécurité logicielle de l’entreprise.
+#A multi-paragraph description of the activity
+longDescription: |
+  Mettez en place un programme de formation formel exigeant que toute personne impliquée dans le cycle de vie du développement logiciel suive une formation ciblée sur son rôle et propre aux technologies utilisées dans le cadre du processus d'intégration. Sur la base du niveau de criticité de l’application et du rôle de la personne, il est raisonnable d'envisager de restreindre l’accès jusqu’à ce que la formation d’intégration soit terminée. Tandis qu'il est possible que des modules soient fournis depuis l'extérieur, le programme est impulsé et géré en interne et comprend du contenu spécifique à l'organisation allant au-delà des bonnes pratiques de sécurité générale. Le curriculum du programme est bien défini, la participation est vérifiée et la compréhension et la compétence sont testées. La formation consiste en une combinaison de bonnes pratiques dans l’industrie et de normes internes à l’organisation, y compris une formation sur des systèmes spécifiques utilisés par l’organisation.
+
+  En plus des questions directement liées à la sécurité, l'organisation ajoute d'autres normes au programme, comme celles touchant à la complexité du code, à la documentation du code, à la convention de nommage et autres disciplines connexes. Cette formation minimise les problèmes découlant des pratiques suivies par les employés en dehors de l'organisation et assure la continuité du style et de la compétence du code.
+
+  Pour faciliter le suivi des progrès et la réussite à chaque module de formation, l'organisation a une plate-forme de gestion de la formation ou tout autre portail centralisé avec des fonctionnalités similaires. Les employés peuvent suivre leurs progrès et avoir accès à toutes les ressources de formation même après avoir terminé la formation initiale.
+
+  Examinez les problèmes résultant des employés qui ne suivent pas les normes établies, les politiques, les procédures, ou les bonnes pratiques de sécurité au moins une fois par an pour évaluer l'efficacité de la formation et s'assurer qu'elle couvre toutes les questions pertinentes pour l'organisation. Mettre à jour la formation périodiquement et formez les employés à tous les changements et les carences les plus courantes en matière de sécurité.
+#Type Classification of the Document
+type: Activité
