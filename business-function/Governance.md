@@ -6,7 +6,7 @@ description: Gouvernance business function
 practice_1: Stratégie & Métriques
 practice_1_url: strategy-and-metrics
 practice_2: Politique & Conformité
-practice_2_url: policy-compliance
+practice_2_url: policy-and-compliance
 practice_3: Éducation & Orientation
 practice_3_url: education-and-guidance
 

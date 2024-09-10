@@ -1,6 +1,6 @@
 ---
 title: Politique & Conformité
-url: ./model/governance/policy-compliance/
+url: ./model/governance/policy-and-compliance/
 business_function: "Gouvernance"
 business_function_url: "governance"
 keywords: ["Business function", "Practice", "Politique & Conformité"]

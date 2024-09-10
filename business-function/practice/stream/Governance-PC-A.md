@@ -1,7 +1,7 @@
 ---
 title: Politique & Normes
 type: stream
-url: ./model/governance/policy-compliance/stream-a/
+url: ./model/governance/policy-and-compliance/stream-a/
 business_function: Gouvernance
 business_function_url: governance
 practice: Politique & Conformité

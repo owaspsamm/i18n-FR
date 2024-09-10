@@ -1,7 +1,7 @@
 ---
 title: Gestion de la Conformité
 type: stream
-url: ./model/governance/policy-compliance/stream-b/
+url: ./model/governance/policy-and-compliance/stream-b/
 business_function: Gouvernance
 business_function_url: governance
 practice: Politique & Conformité
