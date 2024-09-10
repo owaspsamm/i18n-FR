@@ -1,0 +1,13 @@
+#The title of this activity
+title: Définir des métriques élaborées sur les défauts
+#Describe the benefit that is achieved by implementing this activity
+benefit: Amélioration de l'apprentissage à partir des défauts de sécurité dans votre organisation
+#A one sentence description of the activity
+shortDescription: Recueillir des métriques de gestion des défauts normalisées et les utiliser également pour établir les priorités des initiatives centralisées.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Officier de sécurité
+  - Champion de sécurité
+  - Responsable
+#Type Classification of the Document
+type: Activité

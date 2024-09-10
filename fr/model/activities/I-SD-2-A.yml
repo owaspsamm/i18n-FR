@@ -1,0 +1,12 @@
+#The title of this activity
+title: Automatiser le déploiement et intégrer des contrôles de sécurité
+#Describe the benefit that is achieved by implementing this activity
+benefit: Un processus de déploiement efficace avec des outils de sécurité intégrés
+#A one sentence description of the activity
+shortDescription: Automatiser le processus de déploiement à toutes les étapes et introduire des tests de vérification de la sécurité raisonnables.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Administrateur
+  - Ingénieur en sécurité
+#Type Classification of the Document
+type: Activité

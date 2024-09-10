@@ -1,0 +1,8 @@
+#The title of this activity
+title: Identifier les champions de la sécurité
+#Describe the benefit that is achieved by implementing this activity
+benefit: Intégration de premier niveau de la sécurité dans l'organisation de développement
+#A one sentence description of the activity
+shortDescription: Identifier un "Champion de la Sécurité" au sein de chaque équipe de développement.
+#Type Classification of the Document
+type: Activité
