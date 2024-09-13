@@ -27,12 +27,10 @@ values:
     order: 2
   - 
     #highest level
-    text:
-      #highest level
-      Yes, we consult the plan often, and it is aligned with our application security strategy value:
-        #highest level
-        1 weight:
-          #highest level
-          1 order: 3
+    text: Yes, we consult the plan often, and it is aligned with our application security strategy value
+    value: 1
+    weight: 1
+    order: 3
+
 #Type Classification of the Document
 type: AnswerSet
