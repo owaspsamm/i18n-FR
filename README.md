@@ -15,3 +15,5 @@ type property in the yaml files is reverted to the English name
 O-Incident-Management.yml shortName is changed to IM
 
 false answer value is changed to Non
+
+in O.yml answer set identation of the last answer is fixed.
