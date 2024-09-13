@@ -62,7 +62,7 @@ maturity_levels:
             - Non
             - Oui, nous le revoyons chaque année
             - Oui, nous consultons le plan avant de prendre des décisions significatives
-            - {'Yes, we consult the plan often, and it is aligned with our application security strategy value': {'1 weight': {'1 order': 3}}}
+            - Yes, we consult the plan often, and it is aligned with our application security strategy value
 
     level3:
         level: 3
