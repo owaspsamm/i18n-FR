@@ -1,0 +1,8 @@
+#The title of this activity
+title: Mettre en place une gestion rapide des correctifs
+#Describe the benefit that is achieved by implementing this activity
+benefit: Transparence sur l'état de mise à jour des composants pour éviter les non-conformités
+#A one sentence description of the activity
+shortDescription: Surveiller activement le statut des mises à jour et gérer l'absence de mise à jour comme un défaut de sécurité. Obtenir de façon proactive des informations sur les vulnérabilités et les mises à jour pour les composants.
+#Type Classification of the Document
+type: Activité

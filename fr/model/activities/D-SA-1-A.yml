@@ -1,0 +1,26 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 253b012094cf4e0988e08fd22609227d
+#Link to the practice level that this activity belongs to
+level: a11b78917dec4cfdad983cf6d1d17b61
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 27bb61f3c6344359b021caeaef5ab07e
+#The title of this activity
+title: Adhérer aux principes de base de la sécurité
+#Describe the benefit that is achieved by implementing this activity
+benefit: L'ensemble des principes de base de la sécurité à la disposition des équipes produit
+#A one sentence description of the activity
+shortDescription: Les équipes sont formées sur l'utilisation des principes de base de la sécurité durant la phase de conception
+#A multi-paragraph description of the activity
+longDescription: |
+  Lors de la phase de conception, le personnel technique de l'équipe produit utilise une courte checklist des principes de sécurité. Généralement, les principes de sécurité incluent : la défense en profondeur, la sécurisation du plus faible maillon, l'utilisation de valeurs par défaut sécurisées, éviter une conception complexe des fonctionnalités de sécurité, la bascule en mode dégradé en cas d'échec, l'équilibre entre sécurité et ergonomie, l'exécution avec le moindre privilège, proscrire la sécurité par l'obscurité, etc.
+
+  Pour les interfaces, l'équipe considère chaque principe dans le contexte global du système et identifie les fonctionnalités qui peuvent renforcer la sécurité de chacune de ces interfaces. Il faut limiter ces fonctionnalités à celles qui ne demandent qu'un petit effort supplémentaire au-delà du coût de mise en œuvre normal des exigences fonctionnelles. Notez les fonctionnalités plus coûteuses et planifiez-les pour les versions futures.
+
+  Dispensez à chaque équipe produit une formation de sensibilisation à la sécurité en amont de ce processus et intégrez plus de personnel averti en matière de sécurité pour aider aux prises de décision lors de la phase de conception.
+#Type Classification of the Document
+type: Activité

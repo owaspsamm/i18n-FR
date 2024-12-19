@@ -1,0 +1,11 @@
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 62237ae79ab84a6687de2885b1e3d608
+#The title of this activity
+title: Vérifier structurellement l'architecture des menaces identifiées
+#Describe the benefit that is achieved by implementing this activity
+benefit: Toutes les menaces identifiées pour l'application sont traitées de manière adéquate.
+#A one sentence description of the activity
+shortDescription: Analyser l'architecture des menaces connues.
+#Type Classification of the Document
+type: Activité

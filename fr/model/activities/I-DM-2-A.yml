@@ -1,0 +1,12 @@
+#The title of this activity
+title: Evaluer et suivre les défauts de sécurité
+#Describe the benefit that is achieved by implementing this activity
+benefit: Classification cohérente des défauts de sécurité avec des attentes claires quant à leur manipulation
+#A one sentence description of the activity
+shortDescription: Évaluez de façon cohérente tous les défauts de sécurité sur l'ensemble de l'organisation et définissez les SLA pour des classes de gravité particulière.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Ingénieur en sécurité
+  - Officier de sécurité
+#Type Classification of the Document
+type: Activité

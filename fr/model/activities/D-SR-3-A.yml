@@ -1,0 +1,15 @@
+#The title of this activity
+title: Développer un ensemble d'exigences de sécurité
+#Describe the benefit that is achieved by implementing this activity
+benefit: Gestion efficace et effective des exigences de sécurité au sein de votre organisation
+#A one sentence description of the activity
+shortDescription: Construire un ensemble d'exigences pour utilisation par les équipes produits.
+#A multi-paragraph description of the activity
+longDescription: |
+  Mettez en place un ensemble d'exigences de sécurité sur lesquelles les projets pourront s'appuyer pour établir une liste d'exigences appropriées et exhaustives. Cet ensemble prend en compte les différents types d'exigences et les différentes sources d'exigences. Il devrait être en phase avec les habitudes et la culture organisationnelles, et devrait fournir une méthodologie et une orientation efficaces dans l'élicitation et la création des exigences.
+
+  Ce cadre aide les équipes projet à augmenter l'efficience et l'efficacité de l'ingénierie des exigences. Il peut fournir une catégorisation des exigences courantes et un certain nombre d'exigences réutilisables. Rappelez-vous que, même si la copie mécanique est inefficace, le fait d'avoir de potentielles exigences pertinentes comme support est souvent productif.
+
+  Ce cadre donne également des conseils clairs sur la qualité des exigences et formalise la façon de les décrire. Pour les récits, par exemple, des conseils concrets peuvent permettre de décrire les critères de réussite, de définir les critères de départ, de formaliser les récits et les critères d'acceptation.
+#Type Classification of the Document
+type: Activité

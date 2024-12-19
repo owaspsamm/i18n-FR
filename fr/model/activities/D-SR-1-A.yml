@@ -1,0 +1,15 @@
+#The title of this activity
+title: Identifier les exigences de sécurité
+#Describe the benefit that is achieved by implementing this activity
+benefit: Comprendre les principales exigences de sécurité lors du développement
+#A one sentence description of the activity
+shortDescription: Les objectifs de sécurité applicatifs de haut niveau sont associés aux exigences fonctionnelles.
+#A multi-paragraph description of the activity
+longDescription: |
+  Effectuez un examen des exigences fonctionnelles du projet logiciel. Identifier les exigences de sécurité pertinentes (c.a.d. les attentes) pour cette fonctionnalité en raisonnant par rapport au niveau de confidentialité, d'intégrité ou de disponibilité souhaité du service ou des données apportées par le projet logiciel. Les exigences précisent l'objectif (p. ex. “Les données personnelles du processus d’enregistrement devraient être transférées et stockées de façon sécurisée”), mais pas le moyen réel pour atteindre cet objectif (p. ex., « utiliser TLSv1.2 pour un transfert sécurisé »).
+
+  En même temps, passez en revue les fonctionnalités du point de vue de l'attaquant pour comprendre comment elles pourraient être détournées. De cette façon, vous pouvez identifier des exigences de protection supplémentaires pour le projet logiciel considéré.
+
+  Les objectifs de sécurité peuvent être liés à des fonctionnalités de sécurité spécifiques que vous devez ajouter à l'application (p. ex., « Identifier l’utilisateur de l’application en tout temps ») ou à la qualité et au comportement global de l’application (p. ex., « Veiller à ce que les données personnelles soient correctement protégées en transit »), ce qui ne conduit pas nécessairement à de nouvelles fonctionnalités. Suivez les bonnes pratiques d'écriture des exigences de sécurité. Rendez-les spécifiques, mesurables, opérationnelles, pertinentes et bornées en durée (SMART). Faites attention à ne pas ajouter des exigences trop générales qui ne se rapporteraient pas à l’application considérée (par ex. L’application devrait apporter des protections contre le Top 10 de l’OWASP). Bien qu’elles puissent être vraies, elles n’apportent pas de valeur à la discussion.
+#Type Classification of the Document
+type: Activité

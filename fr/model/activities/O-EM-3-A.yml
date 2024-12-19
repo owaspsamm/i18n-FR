@@ -1,0 +1,8 @@
+#The title of this activity
+title: Effectuer une surveillance continue des configurations
+#Describe the benefit that is achieved by implementing this activity
+benefit: Transparence sur les configurations des composants pour éviter les non-conformités
+#A one sentence description of the activity
+shortDescription: Surveiller activement les configurations pour détecter les non-conformités aux exigences minimales, et gérer toute déviation comme un défaut de sécurité.
+#Type Classification of the Document
+type: Activité

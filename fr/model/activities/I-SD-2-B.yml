@@ -1,0 +1,13 @@
+#The title of this activity
+title: Inclure les secrets de l'application pendant le déploiement
+#Describe the benefit that is achieved by implementing this activity
+benefit: Détection de fuites potentielles de secrets de production
+#A one sentence description of the activity
+shortDescription: Injecter dynamiquement les secrets lors du processus de déploiement à partir de stockages durcis et auditer tout accès humain à ceux-ci.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Administrateur
+  - Développeur
+  - Ingénieur en sécurité
+#Type Classification of the Document
+type: Activité

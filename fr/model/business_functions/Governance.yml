@@ -1,0 +1,4 @@
+#The relative order of the Business Function within the core model
+order: 1
+#Type Classification of the Document
+type: Fonction

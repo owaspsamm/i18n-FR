@@ -1,0 +1,12 @@
+#The title of this activity
+title: Imposer la gestion du cycle de vie des secrets d'application
+#Describe the benefit that is achieved by implementing this activity
+benefit: Possibilité réduite et détection rapide d'abus de secrets de production
+#A one sentence description of the activity
+shortDescription: Améliorer le cycle de vie des secrets d'application en les générant régulièrement et en en garantissant une utilisation appropriée.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Administrateur
+  - Ingénieur en sécurité
+#Type Classification of the Document
+type: Activité

@@ -1,0 +1,17 @@
+#The title of this activity
+title: Effectuer une modélisation des menaces de premier niveau
+#Describe the benefit that is achieved by implementing this activity
+benefit: Identification des défauts de conception architecturale dans vos applications
+#A one sentence description of the activity
+shortDescription: Effectuez une modélisation des menaces adaptée à vos moyens et avec une approche par les risques en utilisant le remue-méninges et les diagrammes existants via de simples listes de contrôle des menaces.
+#A multi-paragraph description of the activity
+longDescription: |
+  La modélisation des menaces est une activité structurée qui a pour but d'identifier, d'évaluer et de gérer les menaces du système, les défauts de conception de l'architecture et de recommander des mesures de sécurité. Elle est généralement effectuée dans le cadre de la phase de conception ou dans le cadre d'une évaluation de sécurité.
+
+  La modélisation de menace est un exercice d'équipe, incluant les product owners, les architectes, les champions de la sécurité et les testeurs de la sécurité. À ce niveau de maturité, exposer les équipes et les parties prenantes à la modélisation des menaces afin d'accroître leur sensibilisation à la sécurité et de créer une vision partagée de la sécurité du système.
+
+  Au niveau de maturité 1, vous réalisez la modélisation des menaces de façon ad hoc pour les applications à haut risque et utilisez de simples listes de contrôle de menaces, telles que STRIDE. Évitez de longs ateliers et des listes trop détaillées de menaces peu pertinentes. Effectuez la modélisation des menaces de manière itérative pour vous aligner sur les paradigmes de développement plus itératifs. Si vous ajoutez de nouvelles fonctionnalités à une application existante, n'examinez que les fonctions nouvellement ajoutées au lieu d'essayer de couvrir l'ensemble du périmètre. Un bon point de départ est les diagrammes existants que vous annotez lors des ateliers de discussion. Assurez-vous de toujours sauvegarder le résultat d'une discussion sur la modélisation des menaces pour une utilisation ultérieure.
+
+  Votre outil le plus important pour démarrer la modélisation des menaces est un tableau blanc, un tableau intelligent ou un bout de papier. Visez la sensibilisation à la sécurité, un processus simple et des résultats réalisables sur lesquels vous vous mettez d'accord avec votre équipe.
+#Type Classification of the Document
+type: Activité

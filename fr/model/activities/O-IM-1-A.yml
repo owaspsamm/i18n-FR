@@ -1,0 +1,8 @@
+#The title of this activity
+title: Faire une détection des incidents au mieux de vos possibilités
+#Describe the benefit that is achieved by implementing this activity
+benefit: Possibilité de détecter les incidents de sécurité les plus évidents
+#A one sentence description of the activity
+shortDescription: Utiliser les données de log disponibles pour effectuer la détection de tous les incidents de sécurité possibles au meilleur de vos capacités.
+#Type Classification of the Document
+type: Activité
