@@ -10,7 +10,7 @@ answerset: f678b7a00f2441148087d48f8e0a6ad1
 #Please generate another identifier for your specific maturity level.
 id: 64f49a28334e4a40a04e534225a941d2
 #One-sentence description of the criterium
-text: Avez-vous une bonne compréhension de l'appétit de risque pour vos applications à travers l'entreprise?
+text: Connaissez-vous la tolérance au risque de l'entreprise pour vos applications ?
 #Order of this question for the activity (in case there would be multiple)
 order: 1
 #Qualifying Criterion
