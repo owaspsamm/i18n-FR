@@ -1,0 +1,19 @@
+---
+#===========================================================
+#OWASP SAMM2 Activity Stream - Incident Response
+#===========================================================
+#Link to the security practice that this stream belongs to
+practice: c13aa12c13d04362a3ca3385a8c580ee
+#Unique identifier to refer to this stream
+id: 390bec725b8344a289d5386026925947
+#Official stream name
+name: Réponse à Incident
+#Stream letter, A or B
+letter: B
+#Multi-paragraph explanation of the stream
+description: |
+  La réponse aux incidents commence au moment où vous reconnaissez et validez l'existence d'un incident de sécurité. Votre objectif est d'agir de manière coordonnée et efficace afin de limiter autant que possible les dommages supplémentaires. Les activités de ce flux se concentrent sur la capacité de l'organisation à réagir de manière appropriée et efficace aux incidents de sécurité signalés.
+#Relative order of the stream within the security stream  (A=1 ; B=2)
+order: 2
+#Type Classification of the Document
+type: Flux

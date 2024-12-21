@@ -1,0 +1,28 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 102fdab651834273abd67a3ec27aab05
+#Link to the practice level that this activity belongs to
+level: 6291462e1894467d807b913ef7da4beb
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: fb6f258a2e424ee9a919341758222a7a
+#The title of this activity
+title: Développer des cas de test de sécurité spécifiques à l'application
+#Describe the benefit that is achieved by implementing this activity
+benefit: Détection des vulnérabilités faciles à trouver spécifiques à l'organisation
+#A one sentence description of the activity
+shortDescription: Employer l'automatisation des tests de sécurité spécifiques à l'application
+#A multi-paragraph description of the activity
+longDescription: |
+  Augmentez l'efficacité des outils de test de sécurité automatisés en les ajustant et les personnalisant à vos piles technologiques et applications. Les outils de test de sécurité automatisés ont deux caractéristiques importantes : leur taux de faux positifs, c.-à-d. les bogues inexistants et les vulnérabilités qu'ils signalent de façon erronée ; leur taux de faux négatifs, c'est-à-dire les bogues réels et les vulnérabilités qu'ils ne détectent pas. À mesure que vous améliorez votre maturité dans l'utilisation d’outils de test automatisés, vous vous efforcez de minimiser leurs taux de faux négatifs et de faux positifs. Cela maximise le temps que les équipes de développement passent à examiner et à traiter les vrais problèmes de sécurité dans leurs applications et réduit les frictions typiquement associées à l'utilisation d'outils d'analyse de sécurité automatisés non ajustés.
+
+  Commencez par désactiver la prise en charge des outils pour les technologies et les environnements que vous n'utilisez pas et ciblez les versions spécifiques dans la mesure du possible. Cela augmentera la vitesse d'exécution et réduira le nombre de résultats erronés signalés. Faites confiance à des experts d’outils de sécurité ou à des équipes de sécurité partagées pour piloter les outils en coordination avec un groupe d’équipes de développement motivées sélectionnées. Cela permettra d'identifier les interprétations faussement positives à ignorer ou à supprimer des résultats des outils. Identifiez les problèmes de sécurité spécifiques et les contre-modèles et favorisez le meilleur outil pour les détecter.
+
+  Tirez parti des fonctionnalités des outils disponibles pour prendre en compte les styles de codage spécifiques aux applications et à l'organisation ainsi que les normes techniques. De nombreux outils d'analyse automatique statique permettent aux utilisateurs d'écrire leurs propres règles ou de personnaliser les règles d'analyse par défaut aux interfaces logicielles spécifiques au projet en cours de test afin d'atteindre une meilleure précision et une profondeur de couverture améliorée. Par exemple, les entrées potentiellement dangereuses (autrement dit, polluées) peuvent être marquées comme sûres après leur passage à travers une méthode d'assainissement appropriée donnée.
+
+  Stratégiquement, il est préférable de détecter de manière fiable un sous-ensemble limité de problèmes de sécurité via un outillage automatisé et d'étendre progressivement la couverture, plutôt que d'essayer de détecter immédiatement tous les problèmes connus. Une fois que les outils ont été suffisamment ajustés, ils peuvent être mis à la disposition de plus d'équipes de développement. Il est important de surveiller continuellement leur efficacité perçue au sein des équipes de développement. Dans des formes plus élaborées, des techniques d'apprentissage automatique peuvent être adoptées pour identifier et filtrer automatiquement les faux positifs probables à l'échelle.
+#Type Classification of the Document
+type: Activité

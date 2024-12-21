@@ -1,0 +1,19 @@
+---
+#===========================================================
+#OWASP SAMM2 Activity Stream - Patching and Updating
+#===========================================================
+#Link to the security practice that this stream belongs to
+practice: 53a9cd5c2d3643f3b71e4e9d92b811e2
+#Unique identifier to refer to this stream
+id: 1a7ad26d9e48411e95a63be79e1b90ea
+#Official stream name
+name: Mise à jour et Correctifs
+#Stream letter, A or B
+letter: B
+#Multi-paragraph explanation of the stream
+description: |
+  Les activités de ce flux se concentrent sur la gestion par l'organisation des correctifs et des mises à jour pour tous les éléments de la pile technologique. Pour les logiciels développés par l'organisation, ces activités ont pour but de fournir des correctifs et des mises à jour aux clients, en plus de les appliquer aux solutions gérées par l'organisation (c.a.d. logiciel en tant que service). Pour les éléments provenant de tiers, ces activités concernent l'application dans les délais par l'organisation des mises à jour et des correctifs reçus.
+#Relative order of the stream within the security stream  (A=1 ; B=2)
+order: 2
+#Type Classification of the Document
+type: Flux

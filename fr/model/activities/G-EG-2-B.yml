@@ -1,0 +1,26 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 0e2c4c5620e24d7d8e979020ca414182
+#Link to the practice level that this activity belongs to
+level: e8de5ea176cc455bba89f0e2d1ea1f16
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: d61764610f8741de894c1751f5c041ae
+#The title of this activity
+title: Implémenter des centres d'excellence
+#Describe the benefit that is achieved by implementing this activity
+benefit: Bonnes pratiques de sécurité spécifiques adaptées à l'organisation
+#A one sentence description of the activity
+shortDescription: Développer un centre d'excellence en matière de sécurité logicielle qui favorise le leadership par la pensée parmi les développeurs et les architectes.
+#A multi-paragraph description of the activity
+longDescription: |
+  L'organisation met en place un centre d'excellence pour le développement sécurisé, avec des architectes et des développeurs expérimentés représentant les différentes lignes d'affaires et les piles technologique. L'équipe a une charte officielle et définit les normes et les bonnes pratiques pour l'amélioration des pratiques de développement de logiciels. L'objectif est d'atténuer la difficulté pour les professionnels de la sécurité de l'information liée à la vitesse des changements dans la technologie, les langages de programmation et les environnements de développement et les bibliothèques associées d'être pleinement informés de toutes les nuances techniques qui ont un impact sur la sécurité. Même les développeurs ont souvent du mal à suivre tous les changements et les nouveaux outils destinés à rendre le développement de logiciels plus rapide, meilleur et plus sûr.
+
+  Ceci garantit que tous les efforts de programmation actuels suivent les bonnes pratiques de l'industrie et que les normes de développement et de mise en œuvre de l'organisation incluent tous les paramètres de configuration critiques. Ceci aide à identifier, former et soutenir les « Champions de produits », responsable d'aider les différentes équipes à implémenter les outils qui automatisent, rationalisent ou améliorent différents aspects du SDLC. Ceci identifie les équipes de développement avec des niveaux de maturité plus élevés au sein de leur SDLC et les pratiques et outils qui permettent ces réalisations, dans le but de les reproduire pour d'autres équipes.
+
+  Le groupe fournit une expertise en la matière, en aidant les équipes de sécurité de l'information à évaluer les outils et les solutions pour améliorer la sécurité des applications et en s'assurant que ces outils sont non seulement utiles mais aussi compatibles avec la façon dont différentes équipes développent des applications. Les équipes cherchant à apporter des changements architecturaux significatifs à leur logiciel consultent ce groupe pour éviter d'avoir un impact négatif sur le SDLC ou sur les contrôles de sécurité en place.
+#Type Classification of the Document
+type: Activité

@@ -1,0 +1,28 @@
+---
+#===========================================================
+#OWASP SAMM2 Security Practice - Operational Management
+#===========================================================
+#Link to the model, using its unique identifier
+function: 942d679b0c9e41909f8bde728fdb1259
+#Unique identifier (GUID) used to refer to this practice.
+#Please generate another identifier for your specific practice.
+id: 8f07145b5ea74388b2217895d5e7b5c2
+#Official name of this practice
+name: Gestion opérationnelle
+#Abbreviation of this practice
+shortName: OM
+#A one sentence description of the security practice
+shortDescription: Cette pratique se concentre sur les activités de soutien opérationnel requises pour maintenir la sécurité tout au long du cycle de vie du produit.
+#A multi-paragraph description of the security practice
+longDescription: |
+  La pratique de la Gestion Opérationnelle (GO) se concentre sur les activités visant à assurer que la sécurité est maintenue tout au long des fonctions de soutien opérationnel. Bien que ces fonctions ne soient pas exécutées directement par une application, la sécurité globale de l'application et de ses données dépend de leur bonne performance. Déployer une application sur un système d'exploitation non maintenu ayant des vulnérabilités non corrigées ou omettre de stocker le support de sauvegarde en toute sécurité peut rendre les protections intégrées à cette application inutiles.
+
+  Les fonctions couvertes par cette pratique comprennent, mais ne se limitent pas à : la mise en place des systèmes, leur administration et leur démantèlement ; la mise en place et l'administration de bases de données ; la sauvegarde, la restauration et l'archivage des données.
+#The relative order of this practice in the business function
+order: 3
+#Who's the "owner" of this practice
+assignee: John DiLeo
+#Indication of progress to keep track of overall status
+progress: 80
+#Type Classification of the Document
+type: Pratique

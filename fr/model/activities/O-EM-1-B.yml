@@ -1,0 +1,28 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description - Patching and Updating, Level 1
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 1a7ad26d9e48411e95a63be79e1b90ea
+#Link to the practice level that this activity belongs to
+level: 8cb942eff46d41f38e6edc11849744a6
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: format@@0 0721d5bd5d67479991b5b52f33dcd7b1
+#The title of this activity
+title: Pratiquer un effort de mise à jour au meilleur de vos possibilités
+#Describe the benefit that is achieved by implementing this activity
+benefit: Atténuation des problèmes connus dans les composants tiers
+#A one sentence description of the activity
+shortDescription: Effectuer un effort de déploiement des correctifs des composants du système et de l'application au mieux de vos capacités.
+#A multi-paragraph description of the activity
+longDescription: |
+  Identifiez les applications et les composants tiers qui doivent être mis à jour ou corrigés, y compris les systèmes d'exploitation sous-jacents, les serveurs d'applications et les bibliothèques de codes provenant de tiers.
+
+  À ce niveau de maturité, vos activités d'identification et de correction sont en fonction de vos moyens et ad hoc, sans processus géré pour le suivi des versions des composants, des disponibilités des mises à jour et du statut des correctifs. Cependant, des exigences de haut niveau pour les activités liées aux correctifs (p. ex. tester les correctifs avant de les déployer en production) peuvent exister, les équipes produits faisant de leur mieux pour se conformer à ces exigences.
+
+  Sauf pour les mises à jour de sécurité critiques (par ex. une preuve de concept pour un composant tiers publiquement publiée), les équipes tirent parti des fenêtres de maintenance en place à d'autres fins pour appliquer les correctifs des composants. Pour les logiciels développés par l'organisation, les correctifs des composants sont livrés aux clients et aux solutions gérées par l'organisation uniquement dans le cadre des versions contenant des fonctionnalités.
+
+  Les équipes partagent leur connaissance des mises à jour disponibles et leurs expériences de correction sur une base ad hoc. Veillez à ce que les équipes soient en mesure de déterminer les versions de tous les composants utilisés afin de pouvoir évaluer si leurs produits sont affectés par une vulnérabilité de sécurité lorsqu'ils sont notifiés. Cependant, le processus de génération et de mise à jour des listes de composants peut nécessiter un effort considérable de la part des analystes.
+#Type Classification of the Document
+type: Activité

@@ -1,0 +1,18 @@
+---
+#===========================================================
+#OWASP SAMM2 Activity Stream template/sample
+#===========================================================
+#Link to the security practice that this stream belongs to
+practice: 5702908efca4499e87a0239f32920d9b
+#Unique identifier to refer to this stream
+id: 8c1dcd10821f4f2baed52fdc83d93cf6
+#Official stream name
+name: Sécurité du Fournisseur
+#Stream letter, A or B
+letter: B
+#Multi-paragraph explanation of the stream
+description: La sécurité des fournisseurs traite des exigences qui sont relatives aux organismes fournisseurs dans le contexte du développement d'une application, en particulier pour le développement externalisé.
+#Relative order of the stream within the security stream  (A=1 ; B=2)
+order: 2
+#Type Classification of the Document
+type: Flux

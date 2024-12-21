@@ -1,0 +1,24 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 77ca4b5e7ebc42558109829dffc2b80d
+#Link to the practice level that this activity belongs to
+level: 67fcd33f84364ef68fb88aba77de1a63
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: eba4b86963f44fa59b0b9389a1cfc59b
+#The title of this activity
+title: Vérifier méthodiquement l'architecture de l'application à propos de la sécurité
+#Describe the benefit that is achieved by implementing this activity
+benefit: Un processus cohérent de revue d'architecture à travers votre organisation
+#A one sentence description of the activity
+shortDescription: Valider les mécanismes de sécurité de l'architecture
+#A multi-paragraph description of the activity
+longDescription: |
+  Vérifiez que l'architecture de la solution répond à toutes les exigences de sécurité et de conformité identifiées. Pour chaque interface de l'application, itérez à travers la liste des exigences de sécurité et de conformité et analysez l'architecture pour valider leur bonne disposition. Effectuez également une analyse interactive ou une analyse du flux de données pour vous assurer que les exigences sont traitées de manière adéquate à travers les différents composants. Détaillez l'analyse jusqu'à montrer les caractéristiques de conception qui répondent à chaque exigence.
+
+  Effectuez ce type d'analyse à la fois sur les interfaces internes, par exemple entre les composants, ainsi que sur les interfaces externes, par exemple celles faisant partie de la surface d'attaque. Identifiez et validez également les décisions de conception importantes prises dans le cadre du travail d'architecture, en particulier lorsqu'elles s'écartent des solutions de sécurité partagées disponibles au sein de l'organisation. Enfin, mettez à jour les résultats en fonction des modifications apportées pendant le cycle de développement et prenez note de toutes les exigences qui ne sont pas clairement identifiées au niveau de la conception comme ayant été traitées.
+#Type Classification of the Document
+type: Activité

@@ -1,0 +1,43 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 9a5f26d77f204467bdda7ffa09109d73
+#Link to the practice level that this activity belongs to
+level: fc5eb251c6ee4f3db04eb01b62d380ba
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: fed0d75c064c4a979a5b7b98adfdedbf
+#The title of this activity
+title: Imposer la gestion du cycle de vie des secrets d'application
+#Describe the benefit that is achieved by implementing this activity
+benefit: Possibilité réduite et détection rapide d'abus de secrets de production
+#A one sentence description of the activity
+shortDescription: Améliorer le cycle de vie des secrets d'application en les générant régulièrement et en en garantissant une utilisation appropriée.
+#A multi-paragraph description of the activity
+longDescription: |
+  Mettez en œuvre la gestion du cycle de vie des secrets de production et assurez la génération de nouveaux secrets autant que possible, et cela pour chaque instance d'application. L'utilisation de secrets par instance d'application garantit que les comportements inattendus de l'application peut être retracé et correctement analysés. Des outils peuvent aider à mettre à jour automatiquement et de façon transparente les secrets dans tous les endroits pertinents lors de la survenue de changements.
+
+  Assurez-vous que tous les accès aux secrets (en lecture et en écriture) sont enregistrés dans une infrastructure centrale. Examinez régulièrement ces journaux pour identifier les comportements inattendus et effectuez une analyse adéquate pour comprendre pourquoi cela s'est produit. Envoyez les problèmes et les causes racines vers la pratique de gestion des défauts pour gerantir que l'organisation prendra en compte toutes les situations inacceptables.
+#The output of this particular activity
+results:
+  - résultat1
+  - résultat2
+#The different metrics that can be used to measure the success of the activity
+metrics:
+  - métrique1
+  - métrique2
+#A description of the costs required to implement the activity
+costs: SCT.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Administrateur
+  - Ingénieur en sécurité
+#Internal notes that might help the author
+notes: Aucun
+#References to other activities that are prerequesites to implement this one.
+relatedActivities:
+  -
+#Type Classification of the Document
+type: Activité

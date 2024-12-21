@@ -1,0 +1,45 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 9ec70d6f7ddb4cb6b37928f9994c6049
+#Link to the practice level that this activity belongs to
+level: 3e89d1fa6cba4516a3ec446faaab5b84
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 1f3a9306778f4539a437d9f19232cda7
+#The title of this activity
+title: Automatiser le déploiement et intégrer des contrôles de sécurité
+#Describe the benefit that is achieved by implementing this activity
+benefit: Un processus de déploiement efficace avec des outils de sécurité intégrés
+#A one sentence description of the activity
+shortDescription: Automatiser le processus de déploiement à toutes les étapes et introduire des tests de vérification de la sécurité raisonnables.
+#A multi-paragraph description of the activity
+longDescription: |
+  Automatisez le processus de déploiement pour couvrir les différentes étapes, de sorte qu'aucune étape de configuration manuelle n'est nécessaire et que le risque d'erreur humaine isolée est éliminé. Assurez-vous et vérifiez que le déploiement est cohérent à travers toutes les étapes.
+
+  Intégrez des vérifications de sécurité automatisées dans votre processus de déploiement, par ex. en utilisant des outils de test de sécurité d'analyse dynamique (DAST) et d'analyse de vulnérabilité. Vérifiez également l'intégrité des artefacts déployés là où cela a du sens. Enregistrez les résultats de ces tests de manière centralisée et prenez toutes les actions nécessaires. Assurez-vous que, dans le cas où des défauts seraient détectés, le personnel concerné est informé automatiquement. Dans le cas où des problèmes dépassant le niveau critique prédéfini sont identifiés, stoppez ou inversez le déploiement automatiquement, ou introduisez un flux d'approbation manuel séparé afin que la décision de déployer soit enregistrée, avec une explication de l'exception.
+
+  Comptabilisez et auditez tous les déploiements à toutes les étapes. Ayez un système en place pour enregistrer chaque déploiement, y compris les informations sur qui l'a mené, la version du logiciel qui a été déployée, ainsi que toutes les variables pertinentes spécifiques au déploiement.
+#The output of this particular activity
+results:
+  - résultat1
+  - résultat2
+#The different metrics that can be used to measure the success of the activity
+metrics:
+  - métrique1
+  - métrique2
+#A description of the costs required to implement the activity
+costs: SCT.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Administrateur
+  - Ingénieur en sécurité
+#Internal notes that might help the author
+notes: Aucun
+#References to other activities that are prerequesites to implement this one.
+relatedActivites:
+  - fb6f258a2e424ee9a919341758222a7a
+#Type Classification of the Document
+type: Activité

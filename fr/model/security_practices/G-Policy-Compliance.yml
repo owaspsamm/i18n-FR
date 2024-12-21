@@ -1,0 +1,30 @@
+---
+#===========================================================
+#OWASP SAMM2 Security Practice template/sample
+#===========================================================
+#Link to the model, using its unique identifier
+function: 102ad02df5dc4a8eb3837ef4ca2c1af4
+#Unique identifier (GUID) used to refer to this practice.
+#Please generate another identifier for your specific practice.
+id: be9e7ddb98b84abe8b9e185b979ccf60
+#Official name of this practice
+name: Politique & Conformité
+#Abbreviation of this practice
+shortName: PC
+#A one sentence description of the security practice
+shortDescription: Cette pratique pilote le respect des normes et des règlements internes et externes.
+#A multi-paragraph description of the security practice
+longDescription: |
+  La pratique de la Politique et Conformité (PC) vise à comprendre et à satisfaire aux exigences juridiques et réglementaires externes tout en respectant les normes de sécurité internes dans le but de garantir que la conformité est en phase avec les objectifs commerciaux de l’organisation.
+
+  Un point important pour progresser dans cette pratique est de décrire les normes de l'organisation et les obligations de tierce partie comme des exigences d'application, permettant des audits efficaces et automatisés qui peuvent être exploités au sein du SDLC et qui démontrent continuellement que toutes les attentes sont satisfaites.
+
+  De manière élaborée, la mise en œuvre de cette pratique implique une compréhension par l’ensemble de l’organisation à la fois des normes internes et des facteurs de conformité externes, tout en maintenant des points de contrôle à faible latence avec les équipes projet pour s’assurer qu’aucun projet ne se trouve en dehors des attentes de façon invisible.
+#The relative order of this practice in the business function
+order: 2
+#Who's the "owner" of this practice
+assignee: Yan Kravchenko
+#Indication of progress to keep track of overall status
+progress: 90
+#Type Classification of the Document
+type: Pratique

@@ -1,0 +1,31 @@
+---
+#===========================================================
+#OWASP SAMM2 Security Practice template/sample
+#===========================================================
+#Link to the function, using its unique identifier
+function: fa340fa1816244d79f369ae82e998368
+#Unique identifier (GUID) used to refer to this practice.
+#Please generate another identifier for your specific practice.
+id: 66fb99798fe946e4979a2de98e9d6f8b
+#Official name of this practice
+name: Tests axés sur les exigences
+#Abbreviation of this practice
+shortName: RT
+#A one sentence description of the security practice
+shortDescription: Cette pratique se concentre sur l'utilisation de tests de sécurité à la fois positifs (vérification du contrôle) et négatifs (mauvais usage / abus) basés sur les exigences (récits utilisateurs).
+#A multi-paragraph description of the security practice
+longDescription: |
+
+  L'objectif de la pratique de Tests axés sur les Exigences (RT) est de s'assurer que les contrôles de sécurité implémentés fonctionnent comme prévu et répondent aux exigences de sécurité élicités dans le projet. Un ensemble de cas de test de sécurité et de régression est progressivement construit et régulièrement exécuté.
+
+  Un aspect clé de cette pratique est l'attention portée aux tests positifs et négatifs. Le premier vérifie que les contrôles de sécurité de l'application répondent aux exigences de sécurité élicitées et valident leur bon fonctionnement. Ces exigences sont typiquement fontionnelles par nature. Les tests négatifs traitent de la qualité de l'implémentation des contrôles de sécurité et ont pour but de détecter les défauts inattendus de conception et les bogues d'implémentation par des tests d'utilisation abusive et erronées. Dans ses formes les plus élaborées, la pratique favorise les tests de stress de sécurité, tels que les dénis de service, et s’efforce d’améliorer continuellement la sécurité des applications en automatisant constamment les tests unitaires de sécurité et en créant des tests de régression de sécurité pour tous les bogues identifiés et corrigés.
+
+  Bien que les deux pratiques de Tests axées sur les Exigences et les Tests de Sécurité concernent les tests de sécurité, la première se concentre sur la vérification de la bonne implémentation des exigences de sécurité, alors que cette dernière vise à découvrir les faiblesses de mise en œuvre technique dans une application, indépendamment des exigences.
+#The relative order of this practice in the business function
+order: 2
+#Who's the "owner" of this practice
+assignee: Nessim Kisserli
+#Indication of progress to keep track of overall status
+progress: 42
+#Type Classification of the Document
+type: Pratique

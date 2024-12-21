@@ -1,0 +1,19 @@
+---
+#===========================================================
+#OWASP SAMM2 Activity Stream - System Decom./Legacy Mgmt.
+#===========================================================
+#Link to the security practice that this stream belongs to
+practice: 8f07145b5ea74388b2217895d5e7b5c2
+#Unique identifier to refer to this stream
+id: a0d2ec4c6daa43369c07644b8745a7bd
+#Official stream name
+name: Démantèlement des Systèmes / Gestion de l'Existant
+#Stream letter, A or B
+letter: B
+#Multi-paragraph explanation of the stream
+description: |
+  Du point de vue de l'organisation en tant que consommateur de ressources, les activités de ce flux se concentrent sur l'identification, la gestion et le suivi des systèmes, des applications, des dépendances et des services qui ne sont plus utilisés, ont atteint leur fin de vie, ou ne sont plus activement développés ou maintenus. L'élimination des systèmes et des services inutilisés améliore la facilité de gestion de l'environnement et réduit la surface d'attaque de l'organisme, tout en permettant des économies directes et indirectes de coûts (e.g., réduction du nombre de licences, réduction du volume de journalisation ou réduction de l'effort des analystes).
+#Relative order of the stream within the security stream  (A=1 ; B=2)
+order: 2
+#Type Classification of the Document
+type: Flux

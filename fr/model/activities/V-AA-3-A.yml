@@ -1,0 +1,24 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 77ca4b5e7ebc42558109829dffc2b80d
+#Link to the practice level that this activity belongs to
+level: 83ea8aaab3384b41b785107613e4d86
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 9d0433c5133c4a4c9c16ae84abe9a235
+#The title of this activity
+title: Vérifier l'efficacité des composants de sécurité
+#Describe the benefit that is achieved by implementing this activity
+benefit: Garantie de l'efficacité des contrôles d'architecture
+#A one sentence description of the activity
+shortDescription: Passage en revue de l'efficacité des composants d'architecture
+#A multi-paragraph description of the activity
+longDescription: |
+  Examinez l'efficacité des composants d'architecture et des mécanismes de sécurité qu'ils fournissent en termes d'alignement sur la stratégie globale de l'organisation et examinez attentivement le degré de disponibilité, de passage à l'échelle et de professionnalisme des solutions de sécurité choisies. Tandis que certains choix tactiques pour une application donnée peuvent avoir un sens dans des contextes spécifiques, Il est important de garder l'œil ouvert sur la situation générale et de garantir la pérennité de la solution conçue.
+
+  Enregistrez toute anomalie dans le système de gestion des défauts pour contribuer à de futures améliorations de l'architecture.
+#Type Classification of the Document
+type: Activité

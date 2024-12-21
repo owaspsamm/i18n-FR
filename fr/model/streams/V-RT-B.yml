@@ -1,0 +1,19 @@
+---
+#===========================================================
+#OWASP SAMM2 Activity Stream template/sample
+#===========================================================
+#Link to the security practice that this stream belongs to
+practice: 66fb99798fe946e4979a2de98e9d6f8b
+#Unique identifier to refer to this stream
+id: 27a14a265c864eb790781cd1e2bf843b
+#Official stream name
+name: Tests de Mauvaise Utilisation / d'Abus
+#Stream letter, A or B
+letter: B
+#Multi-paragraph explanation of the stream
+description: |
+  Les tests de mauvaise utilisation / d'abus tirent parti de la génération aléatoire, des cas de mauvaise utilisation / d'abus et de l'identification de toute fonctionnalité ou ressource dans le logiciel qui peut être détournée, dans le but d'identifier des faiblesses dans les fonctionnalités pour attaquer une application.
+#Relative order of the stream within the security stream  (A=1 ; B=2)
+order: 2
+#Type Classification of the Document
+type: Flux

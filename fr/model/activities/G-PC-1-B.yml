@@ -1,0 +1,26 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 2919e1f19aec4f018da94a3e8733f37d
+#Link to the practice level that this activity belongs to
+level: 437d447b3f11427592e938dbde53c7da
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 852c76292e8a41de92205b31cb3f4e49
+#The title of this activity
+title: Identifier les exigences de conformité
+#Describe the benefit that is achieved by implementing this activity
+benefit: Politiques et normes de sécurité en phase avec les facteurs de conformité externes
+#A one sentence description of the activity
+shortDescription: Identifier les facteurs et les exigences de conformité tiers et les faire correspondre aux politiques et aux normes existantes.
+#A multi-paragraph description of the activity
+longDescription: |
+  Créez une liste complète de toutes les exigences de conformité, y compris les déclencheurs qui pourraient aider à déterminer quelles applications sont concernées. Les exigences de conformité peuvent s'appliquer en fonction de facteurs tels que l'emplacement géographique, les types de données ou les obligations contractuelles avec les clients ou les partenaires commerciaux. Examinez chaque exigence de conformité identifiée avec les experts compétents et le département en charge des aspects législatifs afin de s'assurer que cette obligation est comprise. Étant donné que de nombreuses obligations de conformité varient en fonction de la manière dont les données sont traitées, stockées ou transmises à travers l'environnement informatique, les facteurs de conformité devraient toujours indiquer les possibilités de réduire la charge globale de conformité en modifiant la façon dont les données sont manipulées.
+
+  Envisagez la publication d'une matrice de conformité pour aider à identifier quels facteurs pourraient déclencher une exigence réglementaire spécifique pour une application donnée. Faites en sorte que la matrice indique quelles exigences de conformité s'appliquent au niveau de l'organisation et non au niveau d'une application donnée. La matrice fournit au moins une compréhension de base des exigences de conformité utiles pour examiner les obligations entourant différentes applications.
+
+  Étant donné que de nombreuses normes de conformité sont axées sur les bonnes pratiques de sécurité, il est possible que de nombreuses exigences en matière de conformité fassent déjà partie de la bibliothèque de politique et de normes publiée par l'organisation. Par conséquent, une fois que vous avez examiné les exigences de conformité, mettez-les en correspondance avec les politiques et normes existantes applicables. Lorsqu’il y a des divergences, mettez à jour les politiques et les normes pour inclure les exigences de conformité à l’échelle de l’organisme. Puis seulement, commencez à créer des normes spécifiques de conformité qui ne s’appliquent qu’aux exigences individuelles de conformité. L'objectif est d'avoir une matrice de conformité qui indique quelles politiques et normes ont des informations plus détaillées sur les exigences de conformité. en plus de veiller à ce que les politiques et les normes individuelles fassent référence aux exigences de conformité applicables.
+#Type Classification of the Document
+type: Activité

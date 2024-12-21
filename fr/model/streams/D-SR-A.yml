@@ -1,0 +1,18 @@
+---
+#===========================================================
+#OWASP SAMM2 Activity Stream template/sample
+#===========================================================
+#Link to the security practice that this stream belongs to
+practice: 5702908efca4499e87a0239f32920d9b
+#Unique identifier to refer to this stream
+id: 7fb68bc660774b9080963c17761529a2
+#Official stream name
+name: Exigences Logicielles
+#Stream letter, A or B
+letter: A
+#Multi-paragraph explanation of the stream
+description: Les exigences logicielles précisent les objectifs et les attentes pour protéger le service et les données au cœur de l'application.
+#Relative order of the stream within the security stream  (A=1 ; B=2)
+order: 1
+#Type Classification of the Document
+type: Flux

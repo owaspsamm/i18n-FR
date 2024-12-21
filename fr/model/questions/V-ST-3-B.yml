@@ -1,0 +1,22 @@
+---
+#===========================================================
+#OWASP SAMM2 Coverage Question template/sample
+#===========================================================
+#Link to the activity that this question helps measure
+activity: a395d69917b947b28d5995738d716283
+#Link to the answer set that contains the potential answers for this question
+answerset: 51466c3df15b45119e3fc68293f16034
+#Unique identifier (GUID) used to refer to this maturity level.
+#Please generate another identifier for your specific maturity level.
+id: b73bf8f0462340659e252e6471c6e831
+#One-sentence description of the criterium
+text: Utilisez-vous les résultats des tests de sécurité pour améliorer le cycle de vie de développement ?
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - Vous utilisez les résultats d'autres activités de sécurité pour améliorer les tests de sécurité intégrés pendant le développement
+  - Vous revoyez les résultats des tests et les incorporez dans les formations de sensibilisation à la sécurité et dans les manuels de tests de sécurité
+  - Les parties prenantes revoient les résultats de test et les traitent selon la gestion des risques de l'organisation
+#Type Classification of the Document
+type: Question

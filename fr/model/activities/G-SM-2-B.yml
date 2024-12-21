@@ -1,0 +1,26 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 2f1cac3c2e724823b3b48a7e797520b4
+#Link to the practice level that this activity belongs to
+level: 561e85a7fb114b1d976acce95d0b41ee
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: c1aef0137df1400cbdd3c660b609b7b2
+#The title of this activity
+title: Définir des indicateurs clés de performance (KPI) stratégiques
+#Describe the benefit that is achieved by implementing this activity
+benefit: Transparence sur la performance de votre programme AppSec
+#A one sentence description of the activity
+shortDescription: Fixer des objectifs et des indicateurs clés de performance pour mesurer l’efficacité du programme.
+#A multi-paragraph description of the activity
+longDescription: |
+  Une fois que l'organisation a défini ses métriques de sécurité applicative, collectez suffisamment d'informations pour établir des objectifs réalistes. Testez les métriques identifiées pour vous assurer que vous pouvez collecter des données de façon cohérente et efficace sur une courte période. Après la période d'essai initiale, l'organisation devrait disposer de suffisamment d'informations pour s'engager à respecter les buts et les objectifs exprimés au moyen d'indicateurs clés de performance (ICP).
+
+  Bien que plusieurs mesures soient utiles pour surveiller le programme de sécurité de l'information et son efficacité, les indicateurs clés de performance font partie des métriques les plus significatives et efficaces. Éliminez la volatilité, qui est courante dans les environnements de développement d'applications, des ICP pour réduire les risques d'indicateurs défavorables résultant de mesures isolées temporaires ou trompeuses. Basez les ICP sur les métriques considérées comme précieuses non seulement pour les professionnels de la sécurité de l'information, mais aussi pour les personnes responsables du succès global de l'application et la direction de l’organisation. Voyez les ICP comme des indicateurs définitifs de la réussite de l'ensemble du programme et considérez-les comme applicables.
+
+  Documentez entièrement les ICP et distribuez-les aux équipes qui contribuent au succès du programme ainsi qu'au management de l'organisation. Idéalement, incluez une brève explication des sources d'information de chaque ICP et de la signification si les chiffres sont hauts ou bas. Incluez les objectifs à court et à long terme et des fourchettes pour les mesures inacceptables nécessitant une intervention immédiate. Partagez les plans d’action avec les équipes de sécurité des applications et de développement des applications afin d’assurer une transparence totale dans la compréhension des objectifs et des buts de l’organisation.
+#Type Classification of the Document
+type: Activité

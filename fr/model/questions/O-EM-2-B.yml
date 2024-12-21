@@ -1,0 +1,22 @@
+---
+#===========================================================
+#OWASP SAMM2 Coverage Question
+#===========================================================
+#Link to the activity that this question helps measure
+activity: b7f1d18fbe724a148f039ce036de98ef
+#This question uses Answer Set G
+answerset: 612bf4ec249f4e9d86f9e36dbf511821
+#Unique identifier (GUID) used to refer to this maturity level.
+#Please generate another identifier for your specific maturity level.
+id: 0844b1a3be8b49ec83c7377a9f797cfc
+#Text of the question presented to the user
+text: Suivez-vous un processus établi pour la mise à jour des composants de vos piles technologiques?
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criteria
+quality:
+  - Le processus inclut les informations du fournisseur pour les correctifs provenant de tiers
+  - Le processus prend en compte les sources externes pour le recueil des informations sur les attaques zéro jour et comprend des étapes pertinentes pour l'atténuation des risques
+  - Le processus comprend des conseils pour établir des priorités sur les mises à jour de composants
+#Type Classification of the Document
+type: Question

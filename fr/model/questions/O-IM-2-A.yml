@@ -1,0 +1,24 @@
+---
+#===========================================================
+#OWASP SAMM2 Coverage Question
+#===========================================================
+#Link to the activity that this question helps measure
+activity: 5bcb52375a0f4085bb12266c9ecfa84d
+#This question uses Answer Set A
+answerset: f77bd45a28c8493dbba6e53b2eafa20f
+#Unique identifier (GUID) used to refer to this maturity level.
+#Please generate another identifier for your specific maturity level.
+id: 13b9816c06444ba99584e657bfa5833d
+#Text of the question presented to the user
+text: Suivez-vous un processus documenté pour la détection d'incidents?
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criteria
+quality:
+  - Le processus a un propriétaire dédié
+  - Vous stockez la documentation du processus dans un endroit accessible
+  - Le processus envisage une escalade pour une analyse plus approfondie
+  - Vous formez les employés responsables de la détection d'incidents à ce processus
+  - Vous avez une liste de contrôle des attaques potentielles pour simplifier la détection d'incidents
+#Type Classification of the Document
+type: Question

@@ -1,0 +1,24 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 79754453c74b4143b20a57d0efdaab56
+#Link to the practice level that this activity belongs to
+level: 9d1e469966124c0fa80d1bc2fc223a0a
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 3afce608ad7c42deb37a04d6b86e5c33
+#The title of this activity
+title: Forcer l'utilisation des technologies recommandées
+#Describe the benefit that is achieved by implementing this activity
+benefit: Surface d'attaque limitée en raison de l'utilisation de technologies éprouvées
+#A one sentence description of the activity
+shortDescription: Imposer l’utilisation de technologies standards sur tous les développements logiciels.
+#A multi-paragraph description of the activity
+longDescription: |
+  Pour tout développement propriétaire (interne ou acquis), imposez et surveillez l'utilisation de technologies standards. Selon votre organisation, mettez en œuvre ces restrictions soit dans les outils de génération ou de déploiement via une analyse automatisée des artefacts d'application (e.g., code source, fichiers de configuration ou artefacts de déploiement), soit par une révision périodique en se focalisant sur l'utilisation correcte de ces environnements.
+
+  Vérifiez plusieurs facteurs avec les équipes projet. Identifiez l'utilisation de technologies non-recommandées pour déterminer s'il y a des écarts entre les recommandations et les besoins de l'organisation. Examinez les modèles de conception et les modules des plateformes de référence non-utilisés ou mal utilisés pour déterminer si des mises à jour sont nécessaires. De plus, implémentez des fonctionnalités dans les platesformes de référence au fur et à mesure que l'organisation évolue et que les équipes projet le demandent.
+#Type Classification of the Document
+type: Activité

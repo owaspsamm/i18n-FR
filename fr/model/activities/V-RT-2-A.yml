@@ -1,0 +1,26 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: efb5d1f275504173899da345ef5bbe8e
+#Link to the practice level that this activity belongs to
+level: 3e6e9a2b696e48018830b44fa96f98b5
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 9951bda24b624cc684a2851f9d56c5d8
+#The title of this activity
+title: Définir et exécuter des scénarios de tests de sécurité à partir des exigences
+#Describe the benefit that is achieved by implementing this activity
+benefit: Intégration des exigences de sécurité dans les scénarios de test
+#A one sentence description of the activity
+shortDescription: Dériver les cas de tests à partir des exigences de sécurité connues
+#A multi-paragraph description of the activity
+longDescription: |
+  À partir des exigences de sécurité, identifiez et implémentez un ensemble de scénarios de tests de sécurité afin de vérifier si le fonctionnement du logiciel est correct. Pour avoir un programme de test réussi, il est impératif de connaître les objectifs de test, spécifiés par les exigences de sécurité.
+
+  Dérivez les cas de tests de sécurité pour les applications visées à partir des exigences de sécurité créées dans le cadre de la pratique "Exigences de Sécurité" du SAMM. Pour valider les exigences de sécurité avec des tests de sécurité, les exigences de sécurité sont basées sur des actions et mettent en évidence les fonctionnalités attendues (le quoi) et, implicitement, l'implémentation (le comment). Ces exigences sont également appelées « exigences positives », car elles indiquent les fonctionnalités attendues qui peuvent être validées par le biais de tests de sécurité. Parmi les exemples de conditions positives, citons : « l'application va verrouiller la session de l'utilisateur après six tentatives de connexion invalides» ou « les mots de passe doivent comporter au moins six caractères alphanumériques ». La validation des exigences positives consiste à confirmer la fonctionnalité attendue. Vous pouvez faire cela en recréant les conditions de test et en exécutant le test selon des entrées prédéfinies. Affichez les résultats sous la forme d'échec ou de réussite.
+
+  Souvent, il est plus efficace d'utiliser du temps de l'équipe du projet pour construire des cas de test spécifiques à une application et d'employer des ressources disponibles au public ou des bases de connaissances achetées à l'extérieur pour sélectionner les cas de tests généraux applicables à la sécurité. Le personnel compétent en matière de développement, de sécurité et d'assurance qualité examine les cas de test candidats pour leur applicabilité, leur efficacité et leur faisabilité. Etablissez les cas de test pendant la rédaction des exigences et / ou la phase de conception de la fonctionnalité. Tester les exigences de sécurité fait partie des tests fonctionnels du logiciel.
+#Type Classification of the Document
+type: Activité

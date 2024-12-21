@@ -1,0 +1,18 @@
+---
+#===========================================================
+#OWASP SAMM2 Activity Stream template/sample
+#===========================================================
+#Link to the security practice that this stream belongs to
+practice: be9e7ddb98b84abe8b9e185b979ccf60
+#Unique identifier to refer to this stream
+id: 2919e1f19aec4f018da94a3e8733f37d
+#Official stream name
+name: Gestion de la Conformité
+#Stream letter, A or B
+letter: B
+#Multi-paragraph explanation of the stream
+description: Ce flux se concentre sur l'identification et la fourniture d'exigences de conformité pour permettre l'intégration dans le SDLC.
+#Relative order of the stream within the security stream  (A=1 ; B=2)
+order: 2
+#Type Classification of the Document
+type: Flux

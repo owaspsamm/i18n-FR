@@ -1,0 +1,30 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description - Incident Detection, Level 1
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: ff8a6a08dc684f38ab74b9db9584f0a5
+#Link to the practice level that this activity belongs to
+level: 817dd6acaf85496aa005393e0e6c3e70
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: b8dfd23d66224ac88d3ce41cf83ed15e
+#The title of this activity
+title: Faire une détection des incidents au mieux de vos possibilités
+#Describe the benefit that is achieved by implementing this activity
+benefit: Possibilité de détecter les incidents de sécurité les plus évidents
+#A one sentence description of the activity
+shortDescription: Utiliser les données de log disponibles pour effectuer la détection de tous les incidents de sécurité possibles au meilleur de vos capacités.
+#A multi-paragraph description of the activity
+longDescription: |
+  Analysez les données journalisées disponibles (par exemple, les journaux d'accès, les journaux d'applications, les journaux d'infrastructure) afin de détecter les incidents de sécurité éventuels, tout en respectant les périodes de rétention connues des données.
+
+  Dans de petites configurations, vous pouvez le faire manuellement à l'aide d'outils en ligne de commande courants. Avec de plus grands volumes de journaux, utilisez des techniques d'automatisation. Même une tâche `cron`, exécutant un script simple pour rechercher les événements suspects, est un pas en avant!
+
+  Si vous envoyez des journaux à partir de sources différentes vers un système d'agrégation dédié à la journalisation, analysez-y les logs et utilisez les principes de base de corrélation de journaux .
+
+  Même si vous n'avez pas de processus de détection d'incidents fonctionnant 24 heures sur 24, 7 jours sur 7, assurez-vous que la non-disponibilité de la personne responsable (p. ex. en raison de vacances ou de maladie) n'affecte pas significativement la vitesse ou la qualité de la détection.
+
+  Établissez et partagez des points de contact pour la création formelle d’incidents de sécurité.
+#Type Classification of the Document
+type: Activité

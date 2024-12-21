@@ -1,0 +1,23 @@
+---
+#===========================================================
+#OWASP SAMM2 Coverage Question template/sample
+#===========================================================
+#Link to the activity that this question helps measure
+activity: d09a731835304ea8aeb4c21565e45c4b
+#Link to the answer set that contains the potential answers for this question
+answerset: f77bd45a28c8493dbba6e53b2eafa20f
+#Unique identifier (GUID) used to refer to this maturity level.
+#Please generate another identifier for your specific maturity level.
+id: 418e98e2939546e69a24d0c3c4c8d217
+#One-sentence description of the criterium
+text: Empêchez-vous la génération de logiciels si des vulnérabilités dans les dépendances apparaissent?
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - Votre système de génération est connecté à un système permettant de suivre les risques des dépendances provenant de tiers et causant l'échec de la génération à moins que la vulnérabilité ne soit évaluée comme étant un faux positif ou que le risque soit explicitement accepté
+  - Vous scannez vos dépendances à l'aide d'un outil d'analyse statique
+  - Vous rapportez les problèmes identifiés aux auteurs des dépendances en utilisant un processus de divulgation responsable établi
+  - L'utilisation d'une nouvelle dépendance non évaluée pour des risques de sécurité entraîne l'échec de la génération
+#Type Classification of the Document
+type: Question

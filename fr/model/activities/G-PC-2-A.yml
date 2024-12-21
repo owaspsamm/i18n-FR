@@ -1,0 +1,26 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: c404aa4f711e4f4e9e71faea22f7fb5c
+#Link to the practice level that this activity belongs to
+level: 2a29c1f7d6954785b8d42d637a752f94
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 09f4b814a3444b329a7c9c7f54152ffe
+#The title of this activity
+title: Développer des procédures de test
+#Describe the benefit that is achieved by implementing this activity
+benefit: Compréhension commune pour les équipes produit de la manière d'être en conformité avec les politiques de sécurité
+#A one sentence description of the activity
+shortDescription: Développer des exigences de sécurité applicables à toutes les applications.
+#A multi-paragraph description of the activity
+longDescription: |
+  Afin d'aider à la mise en œuvre et à la vérification de la conformité aux politiques et aux normes, particularisez le process concernant la sécurité des applications et développez des scripts de test appropriés liés à chaque exigence applicable. Organisez les documents associés en bibliothèques et les mettre à la disposition de toutes les équipes concernées dans les formats les plus propices à leur inclusion dans chaque application. Labellisez clairement les documents et liez-les aux politiques et aux normes qu'ils représentent, afin d'aider à la mise à jour et à la maintenance. Faites différentes versions des politiques et des normes et incluent des journaux détaillés concernant les modifications lors de chaque mise à jour itérative pour faciliter leur inclusion continue dans les produits du SDLC.
+
+  Écrivez les exigences de sécurité des applications dans un format compatible avec les processus de gestion des exigences existants. Il est possible que vous ayez besoin de plusieurs versions pour les adapter à différentes méthodologies de développement ou à différentes technologies. Le but est de faciliter l’intégration par les différentes équipes produit des politiques et des normes dans les cycles de développement existants et de limiter l'interprétation des exigences.
+
+  Les scripts de test contribuent à renforcer les exigences de sécurité applicatifs par des attentes claires sur la fonctionnalité de l'application et à guider les efforts de test automatisés ou manuels qui peuvent déjà faire partie du processus de développement. Ces efforts n'aident pas seulement chaque équipe à déterminer l'état actuel du respect des politiques et des normes existantes, mais aussi à assurer la conformité au fur et à mesure que les applications continuent d'évoluer.
+#Type Classification of the Document
+type: Activité

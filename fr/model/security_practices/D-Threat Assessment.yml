@@ -1,0 +1,28 @@
+---
+#===========================================================
+#OWASP SAMM2 Security Practice template/sample
+#===========================================================
+#Link to the function, using its unique identifier
+function: 88c296acaae841a2b2fc5314bff44cb4
+#Unique identifier (GUID) used to refer to this practice.
+#Please generate another identifier for your specific practice.
+id: f9269aebfe2c4d5b9293ba42a40a93ac
+#Official name of this practice
+name: Évaluation de la menace
+#Abbreviation of this practice
+shortName: TA
+#A one sentence description of the security practice
+shortDescription: Cette pratique se concentre sur l'identification des menaces potentielles dans les applications.
+#A multi-paragraph description of the security practice
+longDescription: |
+  La pratique d'évaluation des menaces (TA) se concentre sur l'identification et la compréhension des risques au niveau du projet en fonction de la fonctionnalité du logiciel en cours de développement et des caractéristiques de l'environnement d'exécution. À partir de détails sur les menaces et les attaques potentielles contre chaque projet, l'organisation dans son ensemble fonctionne plus efficacement grâce à de meilleures décisions sur l'établissement des priorités des initiatives pour la sécurité. En outre, les décisions relatives à l'acceptation des risques sont mieux éclairées, donc plus alignées sur l'entreprise.
+
+  En commençant par de simples modèles de menace et en construisant des profils de risque applicatifs, une organisation s'améliore au fil du temps. Au bout du compte, une organisation sophistiquée maintiendrait cette information de manière étroitement couplée aux facteurs compensateurs et aux risques provenant des entités externes. Cela permet de mieux comprendre les impacts potentiels des problèmes de sécurité en aval tout en surveillant de près les performances actuelles de l’organisation face aux menaces connues.
+#The relative order of this practice in the business function
+order: 1
+#Who's the "owner" of this practice
+assignee: John Ellingsworth
+#Indication of progress to keep track of overall status
+progress: 50
+#Type Classification of the Document
+type: Pratique

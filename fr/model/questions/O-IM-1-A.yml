@@ -1,0 +1,22 @@
+---
+#===========================================================
+#OWASP SAMM2 Coverage Question
+#===========================================================
+#Link to the activity that this question helps measure
+activity: b8dfd23d66224ac88d3ce41cf83ed15e
+#This question uses Answer Set A
+answerset: f77bd45a28c8493dbba6e53b2eafa20f
+#Unique identifier (GUID) used to refer to this maturity level.
+#Please generate another identifier for your specific maturity level.
+id: 1e005e11997f4929a12fdb939599e77e
+#Text of the question presented to the user
+text: Analysez-vous périodiquement les données des journaux pour ce qui est des incidents de sécurité?
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criteria
+quality:
+  - Vous avez un point de contact pour la création d'incidents de sécurité
+  - Vous analysez les données en respectant les durées de rétention des données de journalisation
+  - La fréquence de cette analyse est en phase avec le niveau de criticité de vos applications
+#Type Classification of the Document
+type: Question
